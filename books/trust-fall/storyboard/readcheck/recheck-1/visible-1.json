@@ -1,0 +1,29 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "icon": "a house",
+  "words": "LIVE IN IT 6 MONTHS"
+ },
+ {
+  "id": "b002",
+  "icon": "a theatre mask",
+  "words": "Master manipulator"
+ },
+ {
+  "id": "b003",
+  "icon": "a book",
+  "words": "A DEDICATION TO EMILY"
+ },
+ {
+  "id": "b004",
+  "icon": "a courthouse / gavel",
+  "words": "Impossible legal weight"
+ }
+]

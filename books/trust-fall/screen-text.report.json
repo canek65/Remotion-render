@@ -1,0 +1,10 @@
+{
+  "slug": "trust-fall",
+  "generatedAt": "2026-10-30T16:23:02.888Z",
+  "frozen": false,
+  "status": "PASS",
+  "scenes": 256,
+  "strings": 296,
+  "violations": [],
+  "counts": {}
+}

@@ -1,0 +1,14 @@
+[
+{"id":"b001","guess":"The narrator describes someone pretending to be cheerful, putting on a fake laugh to hide how they really feel.","misleading":"happy face could read as genuine happiness"},
+{"id":"b002","guess":"The narrator says the young woman is being accused or framed as a fraud and faces legal trouble.","misleading":"courthouse icon with a street setting"},
+{"id":"b003","guess":"The narrator says the woman has walked right into a trap set by the smirking man, and she is angry about it.","misleading":"classroom setting"},
+{"id":"b004","guess":"The narrator explains a chain of logic: she owes him, so he keeps her close, and he will never admit why.","misleading":"none"},
+{"id":"b005","guess":"The narrator says the man provides a safety net or protection for the woman.","misleading":"shield icon could suggest literal protection rather than a fallback"},
+{"id":"b006","guess":"The narrator says the man envies the woman's independence and freedom while she is content at home.","misleading":"house icon suggests home rather than freedom"},
+{"id":"b007","guess":"The narrator introduces the man's background in a big financial corporation.","misleading":"blank face and room setting do not match a city skyline"},
+{"id":"b008","guess":"The narrator says the man is anxious but still on his familiar home ground.","misleading":"worried face against comfortable-territory text"},
+{"id":"b009","guess":"The narrator describes a man climbing or hanging from a garden trellis outside her bedroom while she watches worried.","misleading":"worried face on the woman vs a romantic climb"},
+{"id":"b010","guess":"The narrator describes an intimate embrace where her hair brushes the floor.","misleading":"smirk on the man"},
+{"id":"b011","guess":"The narrator says the man is completely absorbed and in love, totally immersed in the relationship.","misleading":"heart icon suggests simple romance"},
+{"id":"b012","guess":"The narrator says the young man stands at the edge feeling no danger of falling, despite looking despondent.","misleading":"cliff ledge icon with a head-bowed blank figure suggests despair"}
+]

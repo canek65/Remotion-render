@@ -1,0 +1,2353 @@
+[
+ {
+  "id": "b001",
+  "narration": "You cannot fake a fall. Like that is the absolute terrifying truth of the matter. You can fake a smile.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "happy",
+     "body": "talk"
+    }
+   ],
+   "words": "A FAKE SMILE"
+  },
+  "viewerGuess": "She puts on a fake smile to hide how she feels."
+ },
+ {
+  "id": "b002",
+  "narration": "You know, you can fake a laugh. You can even fake a heartfelt apology if you're a good enough actor.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "happy",
+     "body": "talk"
+    }
+   ],
+   "words": "FAKE A LAUGH"
+  },
+  "viewerGuess": "She fakes a laugh to keep up appearances."
+ },
+ {
+  "id": "b003",
+  "narration": "But gravity gravity does not negotiate. No, it really doesn't. You either lean back and completely hope the other person's arms are there to catch you or you",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "tipped over backwards in mid-air, arms flailing, motion lines (falling)"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "reach"
+    }
+   ],
+   "words": "ARMS THERE TO CATCH YOU"
+  },
+  "viewerGuess": "Falling backwards trusting someone to catch you, as in a trust fall."
+ },
+ {
+  "id": "b004",
+  "narration": "stay planted safely on your own two feet entirely alone because our survival instincts are literally screaming at us the entire time.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "ON YOUR OWN TWO FEET"
+  },
+  "viewerGuess": "She has to stand on her own two feet, worried about relying on herself."
+ },
+ {
+  "id": "b005",
+  "narration": "I mean, every biological imperative we have evolved over millions of years is it's hardwired to brace for impact. Right. The second your center of mass drops, your brain sends these massive panic signals.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "words": "BRACE FOR IMPACT"
+  },
+  "viewerGuess": "She braces for impact, expecting to be hurt."
+ },
+ {
+  "id": "b006",
+  "narration": "Your arms want to shoot out. Your knees want to bend. Yeah. You physically tense up. Exactly. So, making the conscious choice not to brace,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "reach"
+    }
+   ],
+   "words": "ARMS WANT TO SHOOT OUT"
+  },
+  "viewerGuess": "Her arms instinctively want to shoot out to protect herself."
+ },
+ {
+  "id": "b007",
+  "narration": "to let gravity take you and actively trust someone else to interrupt it, that is a complete override of human instinct, which makes it honestly the ultimate act of romance. It totally is.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "happy",
+     "body": "embrace"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "embrace"
+    }
+   ],
+   "icon": "a heart",
+   "words": "THE ULTIMATE ACT OF ROMANCE"
+  },
+  "viewerGuess": "Letting someone catch you is the ultimate act of romance."
+ },
+ {
+  "id": "b008",
+  "narration": "And that is the exact lens we are bringing to this deep dive today. We are looking at the hidden mechanics of vulnerability.",
+  "onScreen": {
+   "words": "MECHANICS OF VULNERABILITY"
+  },
+  "viewerGuess": "The narrator introduces the mechanics of vulnerability as a topic."
+ },
+ {
+  "id": "b009",
+  "narration": "Yes. Specifically, the idea that a romance only actually works when each person risks being seen",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "RISKS BEING SEEN"
+  },
+  "viewerGuess": "Being vulnerable means risking being truly seen."
+ },
+ {
+  "id": "b010",
+  "narration": "before they are completely sure the other person will catch them, which is such a terrifying concept when you really unpack it. It is. And we're talking about Lynn Painters novel Trust Fall. And instead of just giving you,",
+  "onScreen": {
+   "words": "TRUST FALL"
+  },
+  "viewerGuess": "The title concept, the trust fall, is introduced."
+ },
+ {
+  "id": "b011",
+  "narration": "the listener a standard plot summary, we are going to dig into the psychological bedrock of this story",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "hold",
+     "holds": "shield"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "PSYCHOLOGICAL BEDROCK"
+  },
+  "viewerGuess": "Trust is built on psychological bedrock, while she clings to a shield."
+ },
+ {
+  "id": "b012",
+  "narration": "to show how two incredibly guarded people systematically strip away their own safety nets.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "place",
+     "holds": "shield"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "motion": "the first person sets the shield down in front of them; their hand comes back empty and the shield stays there",
+   "words": "THEIR OWN SAFETY NETS"
+  },
+  "viewerGuess": "They set down their own safety nets and defences."
+ },
+ {
+  "id": "b013",
+  "narration": "It's a fascinating study in emotional physics. Really, you have two people who are desperately trying to remain upright because falling hurts.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "words": "FALLING HURTS"
+  },
+  "viewerGuess": "Falling hurts, and both are scared of it."
+ },
+ {
+  "id": "b014",
+  "narration": "Oh yeah. And both of them have incredible reasons to guard themselves. Let's talk about who we are actually dealing with here.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "words": "REASONS TO GUARD THEMSELVES"
+  },
+  "viewerGuess": "They have real reasons to guard themselves."
+ },
+ {
+  "id": "b015",
+  "narration": "First, we have Julia Lol, uh, a Nebraska girl born and raised in the Midwest, and she has recently been just shattered, completely destroyed. Her lifelong boyfriend, Will, a guy she",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "bedroom",
+   "words": "A NEBRASKA GIRL"
+  },
+  "viewerGuess": "She is a sad girl from Nebraska in her bedroom."
+ },
+ {
+  "id": "b016",
+  "narration": "has literally had her entire life planned out with since they were 10 years old, has broken her heart and immediately moved on.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young man in his early twenties",
+     "face": "sad",
+     "body": "leave"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "motion": "the first person walks out, past the second, off the edge of the picture and is gone",
+   "words": "HAS BROKEN HER HEART"
+  },
+  "viewerGuess": "A man left and broke her heart."
+ },
+ {
+  "id": "b017",
+  "narration": "So, Julia is guarding this deeply broken heart, but she's also guarding a massive inferiority complex. And I love how literal her self-preservation tactic is.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "hold",
+     "holds": "shield"
+    }
+   ],
+   "words": "INFERIORITY COMPLEX"
+  },
+  "viewerGuess": "She carries an inferiority complex, guarding herself with a shield."
+ },
+ {
+  "id": "b018",
+  "narration": "When she feels the pain creeping in, she actually chants a Shakespeare quote to block it out. Oh, the mantra. It is the east and Juliet",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "talk",
+     "holds": "book"
+    }
+   ],
+   "words": "CHANTS A SHAKESPEARE QUOTE"
+  },
+  "viewerGuess": "She recites a Shakespeare quote from a book."
+ },
+ {
+  "id": "b019",
+  "narration": "is the sun. She uses it as a cognitive wall, like a mantra to stop herself from feeling.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "blank",
+     "body": "talk",
+     "holds": "book"
+    }
+   ],
+   "words": "JULIET IS THE SUN"
+  },
+  "viewerGuess": "She declares 'Juliet is the sun', quoting Romeo and Juliet."
+ },
+ {
+  "id": "b020",
+  "narration": "It's a verbal brace position. You can almost see her throwing her hands up to protect her face every time she mutters That's so visceral. And on the exact opposite end of the spectrum, you have Damen Rettledge.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "A VERBAL BRACE POSITION"
+  },
+  "viewerGuess": "Her quoting is a verbal defensive stance while he watches."
+ },
+ {
+  "id": "b021",
+  "narration": "He is New York elite, the heir to a massive, cutthroat financial empire run by his toxic, moneyobsessed parents, Quinn and Toxic is almost an understatement for those two.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    }
+   ],
+   "place": "office",
+   "words": "CUTTHROAT FINANCIAL EMPIRE"
+  },
+  "viewerGuess": "He comes from a cutthroat financial empire, smirking in an office."
+ },
+ {
+  "id": "b022",
+  "narration": "Truly. But Damian is mourning. He's grieving the loss of his eccentric uncle Remy, who was essentially the only person in that entire gilded cage who actually understood him.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "MOURNING UNCLE REMY"
+  },
+  "viewerGuess": "He is mourning his Uncle Remy."
+ },
+ {
+  "id": "b023",
+  "narration": "Damian is fiercely guarding his true self, right? like his desire for freedom, his desire to escape this predetermined, soulless corporate destiny.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "sad",
+     "body": "hold",
+     "holds": "shield"
+    }
+   ],
+   "words": "HIS DESIRE FOR FREEDOM"
+  },
+  "viewerGuess": "He wants freedom but holds up a shield."
+ },
+ {
+  "id": "b024",
+  "narration": "And he masks that terror with this arrogant, untouchable New York So you have the Nebraska girl hiding behind Shakespeare and the New York heir hiding behind absolute arrogance.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "mask"
+    }
+   ],
+   "words": "HIDING BEHIND ARROGANCE"
+  },
+  "viewerGuess": "He hides behind arrogance like a mask."
+ },
+ {
+  "id": "b025",
+  "narration": "And the crucible that forces these two opposing forces together is the late Uncle Remy.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "THE LATE UNCLE REMY"
+  },
+  "viewerGuess": "Both are worried about the late Uncle Remy."
+ },
+ {
+  "id": "b026",
+  "narration": "God bless Uncle Remy. I know, right? In a move of absolute chaotic brilliance, Uncle Remy bypasses his own blood family, bypasses",
+  "onScreen": {
+   "icon": "a will document with a seal",
+   "words": "BYPASSES HIS BLOOD FAMILY"
+  },
+  "viewerGuess": "The will bypasses his blood family."
+ },
+ {
+  "id": "b027",
+  "narration": "the billionaire brother, and leaves a five-story multi-million dollar upper westside mansion to Julia's family.",
+  "onScreen": {
+   "icon": "a house",
+   "words": "A FIVE-STORY MANSION"
+  },
+  "viewerGuess": "The inheritance is a five-story mansion."
+ },
+ {
+  "id": "b028",
+  "narration": "These workingclass grocery store owners from the Midwest. Exactly. But there was a catch. They have to live in it for 6 months.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "icon": "a clock face",
+   "words": "LIVE IN IT 6 MONTHS"
+  },
+  "viewerGuess": "She must live in the house for six months."
+ },
+ {
+  "id": "b029",
+  "narration": "And Julia has to attend the hyper elite Gardenwood Academy, which sets off an absolute bomb in the Rutled family. Damian's ruthless father, Quinn, who views the entire world through the lens of",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "ELITE GARDENWOOD ACADEMY"
+  },
+  "viewerGuess": "She attends an elite academy and is nervous."
+ },
+ {
+  "id": "b030",
+  "narration": "acquisitions, hostile takeovers, and leverage, tasks Damian with getting close to this new Midwestern family to gather intel. So gross.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "GATHER INTEL"
+  },
+  "viewerGuess": "He schemes to gather intel on her."
+ },
+ {
+  "id": "b031",
+  "narration": "The goal is to get the house back by any means necessary. It's the perfect pressure cooker.",
+  "onScreen": {
+   "icon": "a house",
+   "words": "GET THE HOUSE BACK"
+  },
+  "viewerGuess": "The goal is to get the house back."
+ },
+ {
+  "id": "b032",
+  "narration": "Two people wearing heavy emotional armor forced into the same orbit under completely false pretenses.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "hold",
+     "holds": "shield"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "HEAVY EMOTIONAL ARMOR"
+  },
+  "viewerGuess": "She carries heavy emotional armor around him."
+ },
+ {
+  "id": "b033",
+  "narration": "Two people wearing heavy emotional armor forced into the same orbit under completely false pretenses. Right. And to really uncover how they break out of that armor, we need to look at the exact moments where a gravity starts to pull.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "hold",
+     "holds": "shield"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "GRAVITY STARTS TO PULL"
+  },
+  "viewerGuess": "Gravity starts to pull and she fears falling for him."
+ },
+ {
+  "id": "b034",
+  "narration": "Let's drop right down to the pavement in New York for their very first real Okay, set the scene. Picture this. Julia has just physically crashed into Damian on the street.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "tipped over backwards in mid-air, arms flailing, motion lines (falling)"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "Crashed into Damen"
+  },
+  "viewerGuess": "She crashed into Damen on the street."
+ },
+ {
+  "id": "b035",
+  "narration": "She's got a bruised, throbbing nose, and she reaches down to pick up an ugly abandoned wallet that her ex-boyfriend Will used to carry.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "take",
+     "holds": "wallet"
+    }
+   ],
+   "place": "street",
+   "words": "Will's ugly wallet"
+  },
+  "viewerGuess": "She takes Will's ugly wallet."
+ },
+ {
+  "id": "b036",
+  "narration": "Trying to do the right thing. Yeah, that ugly wallet. Damian is standing over her, looking down with absolute disdain. And he snears, \"Run along, honey.\" And this time, maybe look before you cross the street.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "hold",
+     "holds": "wallet"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "point"
+    }
+   ],
+   "place": "street",
+   "words": "Run along, honey."
+  },
+  "viewerGuess": "He dismisses her condescendingly with 'run along, honey'."
+ },
+ {
+  "id": "b037",
+  "narration": "People in the big city get killed that way. It is so visceral. He is actively trying to make her feel small,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "point"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "street",
+   "words": "Feel small"
+  },
+  "viewerGuess": "He makes her feel small."
+ },
+ {
+  "id": "b038",
+  "narration": "emphasizing the geographical divide, you know, the big city versus her obvious Midwestern He is towering over her physically and socially.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "street",
+   "words": "Towering over her"
+  },
+  "viewerGuess": "He towers over her."
+ },
+ {
+  "id": "b039",
+  "narration": "I want you listening to this to think about a time you felt incredibly insecure or threatened in a new environment and how you reacted.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "street",
+   "words": "A time you felt insecure"
+  },
+  "viewerGuess": "Think of a time you felt insecure."
+ },
+ {
+  "id": "b040",
+  "narration": "Guarding yourself often looks exactly like cruelty. Yes, it looks like intense In this moment on the street, neither Julia nor Damian is willing to show an ounce of grace to",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "angry",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "street",
+   "words": "Guarding looks like cruelty"
+  },
+  "viewerGuess": "Guarding yourself can look like cruelty, and they clash."
+ },
+ {
+  "id": "b041",
+  "narration": "the other person. Why? Because grace requires lowering your",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "street",
+   "words": "Lowering your guard"
+  },
+  "viewerGuess": "Lowering your guard is hard, with a shield between them."
+ },
+ {
+  "id": "b042",
+  "narration": "It requires acknowledging the humanity of the other person, which means acknowledging your own vulnerability.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Grace / Their humanity / Your vulnerability"
+  },
+  "viewerGuess": "Grace toward others reveals their humanity and exposes your vulnerability."
+ },
+ {
+  "id": "b043",
+  "narration": "Precisely. If you show grace, you open a channel. You invite connection. And Damian is fundamentally terrified of connection right now because of his The author brilliantly illustrates this in Damian's prologue.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Show grace / Open a channel / Connection"
+  },
+  "viewerGuess": "Showing grace opens a channel to connection."
+ },
+ {
+  "id": "b044",
+  "narration": "He is sitting at his parents' massive dining room table staring at a plate of risoto. Now, the sensory detail here is key.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "sad",
+     "body": "sit"
+    }
+   ],
+   "icon": "a dinner plate with fork and knife",
+   "place": "room",
+   "words": "A plate of risotto"
+  },
+  "viewerGuess": "A sad man sits before a plate of risotto."
+ },
+ {
+  "id": "b045",
+  "narration": "Uncle Remy hated Risoto. Oh, that detail breaks my heart. It's so sad. Damen is zoning out, actively choking on the grief of losing the one man who understood him. and his parents are completely oblivious.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "blank",
+     "body": "idle"
+    }
+   ],
+   "icon": "a dinner plate with fork and knife",
+   "place": "room",
+   "words": "Remy hated risotto",
+   "state": "kept from before: man in his mid-twenties: still seated"
+  },
+  "viewerGuess": "Remy hated risotto."
+ },
+ {
+  "id": "b046",
+  "narration": "His father is in a powers suit. His mother is in her hot bar workout clothes and they are bickering about PTA formal balls and financial optics. And Damian just sits there",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "blank",
+     "body": "talk"
+    }
+   ],
+   "icon": "a dinner plate with fork and knife",
+   "place": "room",
+   "words": "Financial optics",
+   "state": "kept from before: man in his mid-twenties: still seated"
+  },
+  "viewerGuess": "It was all about financial optics."
+ },
+ {
+  "id": "b047",
+  "narration": "offering this polite, sarcastic compliance. He smiles what the text calls the congenial smile of an affable son.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "idle"
+    }
+   ],
+   "icon": "a dinner plate with fork and knife",
+   "place": "room",
+   "words": "The congenial smile",
+   "state": "kept from before: man in his mid-twenties: still seated"
+  },
+  "viewerGuess": "He wore a congenial smile at dinner."
+ },
+ {
+  "id": "b048",
+  "narration": "Exactly. He is building a massive wall of sarcasm to protect his devastating grief from parents who literally tell him he'd obviously slipped into some form of dementia to leave his money to strangers.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "icon": "a theatre mask",
+   "place": "room",
+   "words": "A wall of sarcasm"
+  },
+  "viewerGuess": "He used a wall of sarcasm as a mask."
+ },
+ {
+  "id": "b049",
+  "narration": "They are insulting the memory of the man Damian loved most right in front of him. So Damen's cruelty to Julia on the street is a direct extension of that dining room table.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Dining room table / Cruelty to Julia"
+  },
+  "viewerGuess": "The dining room table led to cruelty to Julia."
+ },
+ {
+  "id": "b050",
+  "narration": "He is keeping the world at arms length because if he lets anyone in, the grief will drown him. See, I have to push back on that, though. I don't think it's just about Damen",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "street",
+   "words": "Grief will drown him"
+  },
+  "viewerGuess": "He fears grief will drown him."
+ },
+ {
+  "id": "b051",
+  "narration": "is acting like a jerk to Julia on the street, primarily because she represents a massive threat to his family's wealth and legacy.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "angry",
+     "body": "point"
+    }
+   ],
+   "icon": "a will document with a seal",
+   "place": "street",
+   "words": "Family's wealth"
+  },
+  "viewerGuess": "He angrily points at the family's wealth, the will."
+ },
+ {
+  "id": "b052",
+  "narration": "His dad has already framed this Midwestern family as these manipulative fraudsters who built an old man out of millions, right? The intel gathering.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a theatre mask",
+   "place": "street",
+   "words": "Manipulative fraudsters"
+  },
+  "viewerGuess": "She sees them as manipulative fraudsters."
+ },
+ {
+  "id": "b053",
+  "narration": "Yeah. Damen is being a jerk because he's protecting his territory. It's primitive I fundamentally disagree with that reading.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "street",
+   "words": "Protecting his territory"
+  },
+  "viewerGuess": "He is protecting his territory."
+ },
+ {
+  "id": "b054",
+  "narration": "Really, Damen explicitly notes in the text that he doesn't care about the money. He literally thinks, \"We had a lot of money.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "blank",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "Doesn't care about money"
+  },
+  "viewerGuess": "He doesn't care about money."
+ },
+ {
+  "id": "b055",
+  "narration": "Did it really matter if the old guy threw his money at some nobody's? He isn't a foot soldier for his father's bank account.\" He is a jerk to Julia because the moment he sees her, he recognizes that she is",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "A disruptor"
+  },
+  "viewerGuess": "She is a disruptor in his world."
+ },
+ {
+  "id": "b056",
+  "narration": "a disruptor. Oh, disruptor to what though? If he doesn't care about the money, what is she disrupting? Don't his emotional stasis.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Julia / Disruptor / Emotional stasis"
+  },
+  "viewerGuess": "Julia disrupts his emotional stasis."
+ },
+ {
+  "id": "b057",
+  "narration": "Look at her. She is messy. She's bruised. She is trying to do a nice thing with an ugly wallet on a cutthroat New York street. She is a shock of reality in his highly curated, emotionally numb existence.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "hold",
+     "holds": "wallet"
+    }
+   ],
+   "place": "street",
+   "words": "A shock of reality"
+  },
+  "viewerGuess": "She is a shock of reality to him."
+ },
+ {
+  "id": "b058",
+  "narration": "Oh wow. She threatens the numbness that is keeping him from feeling his own pain.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Julia / Threatens numbness / His pain"
+  },
+  "viewerGuess": "Julia threatens his numbness and exposes his pain."
+ },
+ {
+  "id": "b059",
+  "narration": "That is what actually terrifies him. Wait, so you're saying he attacks her character because her sheer existence makes him feel things he's trying to That's incredibly sharp.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "Makes him feel things"
+  },
+  "viewerGuess": "She makes him feel things, which scares him."
+ },
+ {
+  "id": "b060",
+  "narration": "She isn't a threat to his bank account. She's a threat to his emotional numbness. And so we get this recurring image right from the start. They are both standing rigidly upright on that sidewalk. Their heels are dug deep into the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "angry",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "Standing rigidly upright"
+  },
+  "viewerGuess": "They stand rigidly upright, angry at each other."
+ },
+ {
+  "id": "b061",
+  "narration": "concrete. Neither one is willing to tip forward even a fraction of an inch. They are absolutely refusing the vulnerability of the fall. But eventually the rigid stance has to give way to movement. You know, you can't just stand",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "Refusing the fall"
+  },
+  "viewerGuess": "They refuse the fall, both wary."
+ },
+ {
+  "id": "b062",
+  "narration": "on the sidewalk True. which transitions us into what happens when one of them finally tries to bridge the gap, but",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "walk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "Bridge the gap"
+  },
+  "viewerGuess": "He walks over to bridge the gap."
+ },
+ {
+  "id": "b063",
+  "narration": "does it completely wrong. Let's look at the tutoring setup. Oh, this scene. Damian discovers that he has been assigned to tutor Julia in math and",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a book",
+   "place": "classroom",
+   "words": "Tutoring Julia in math"
+  },
+  "viewerGuess": "He tutors Julia in math."
+ },
+ {
+  "id": "b064",
+  "narration": "he decides to leverage this. Picture him leaning in so close to her that his curls are physically tickling her bruised nose.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a book",
+   "place": "classroom",
+   "words": "Curls tickling her nose"
+  },
+  "viewerGuess": "His curls tickle her nose as he tutors her."
+ },
+ {
+  "id": "b065",
+  "narration": "The proximity there is insane, right? He offers her a second loaf of bread because he's observed that she loves carbs and eats her feelings. And he whispers, \"We'll see.\"",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a dinner plate with fork and knife",
+   "place": "classroom",
+   "words": "We'll see."
+  },
+  "viewerGuess": "He says 'we'll see' about a deal over dinner."
+ },
+ {
+  "id": "b066",
+  "narration": "Demanding an unnamed favor from her in exchange for his help. The sensory proximity is so deliberate. He is invading her space, his curls brushing her skin, the smell of the bread",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "point"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a dinner plate with fork and knife",
+   "place": "classroom",
+   "words": "An unnamed favor"
+  },
+  "viewerGuess": "He asks for an unnamed favor."
+ },
+ {
+  "id": "b067",
+  "narration": "between them. But look at the actual mechanics of what he is doing. He is engineering a connection where he holds 100%",
+  "onScreen": {
+   "diagram": "a scale from one label to another with a marker: Julia's power / Damen's power"
+  },
+  "viewerGuess": "Power sits on a scale between Julia and Damen."
+ },
+ {
+  "id": "b068",
+  "narration": "of the power. We call this transactional intimacy. Let's unpack transactional intimacy for a second because this happens in real life all the time. It really does.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    }
+   ],
+   "place": "room",
+   "words": "Transactional intimacy"
+  },
+  "viewerGuess": "It is transactional intimacy."
+ },
+ {
+  "id": "b069",
+  "narration": "Think about someone who is terrified of rejection. What do they do? They create a ledger.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Fear of rejection / A ledger"
+  },
+  "viewerGuess": "Fear of rejection leads to keeping a ledger."
+ },
+ {
+  "id": "b070",
+  "narration": "If you owe me a favor, you have to talk to me. It's a defense mechanism that guarantees interaction without risking the ego.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Fear of rejection / A ledger / Forced to talk"
+  },
+  "viewerGuess": "Fear of rejection and a ledger force them to talk."
+ },
+ {
+  "id": "b071",
+  "narration": "Transactional intimacy is not real vulnerability. By demanding an unnamed favor, Damen creates a power dynamic where she is indebted to him.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "Indebted to him"
+  },
+  "viewerGuess": "She is indebted to him."
+ },
+ {
+  "id": "b072",
+  "narration": "It's a controlled fall. He's asking her to lean into him, but he is securely holding the safety harness.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "reach"
+    }
+   ],
+   "icon": "a person-sized cliff ledge",
+   "place": "classroom",
+   "words": "A controlled fall"
+  },
+  "viewerGuess": "He offers a controlled fall, she reaches for the ledge."
+ },
+ {
+  "id": "b073",
+  "narration": "He completely controls the drop. It's manipulative, but it's also incredibly revealing about how desperate he is to connect without risking anything.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "hold"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a person-sized cliff ledge",
+   "place": "classroom",
+   "words": "He controls the drop"
+  },
+  "viewerGuess": "He controls the drop."
+ },
+ {
+  "id": "b074",
+  "narration": "And Julia, to her credit, feels the strings on that harness immediately. She totally does. She is highly suspicious.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "angry",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "Highly suspicious"
+  },
+  "viewerGuess": "She is highly suspicious of him."
+ },
+ {
+  "id": "b075",
+  "narration": "She narrows her eyes at him, questioning why she should focus on him instead of the math. And Damen internally thinks, \"Right in the trap, sweet girl.\" He is thrilled that she is engaging, even if it's He practically hums with excitement",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "angry",
+     "body": "point"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "Right in the trap"
+  },
+  "viewerGuess": "She points angrily, thinking he walked right into her trap."
+ },
+ {
+  "id": "b076",
+  "narration": "when she pushes back. Because to Damian, any engagement is a victory, provided it's on his terms.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "A victory on his terms"
+  },
+  "viewerGuess": "He wins a victory on his own terms."
+ },
+ {
+  "id": "b077",
+  "narration": "This perfectly aligns with his father's plot. Quinn Rutledge wants intel. Damian is executing the first phase of the hostile acquisition. You think it's still about the intel",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Quinn wants intel / First phase"
+  },
+  "viewerGuess": "Quinn wants intel as the first phase."
+ },
+ {
+  "id": "b078",
+  "narration": "Yes. He is finding her pressure points, her love of bread, her need for tutoring, and exploiting them to gather information on these small town nobodies.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Quinn wants intel / First phase / Her pressure points"
+  },
+  "viewerGuess": "Quinn wants intel on her pressure points."
+ },
+ {
+  "id": "b079",
+  "narration": "It's corporate espionage disguised as high school flirting. Okay, I have to stop you there. You are giving Damian way too much credit as a cold, calculating mini Quinn.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    }
+   ],
+   "place": "classroom",
+   "words": "Corporate espionage"
+  },
+  "viewerGuess": "It is corporate espionage."
+ },
+ {
+  "id": "b080",
+  "narration": "Am I? Yes, he is completely failing the espionage mission in this scene. Think about it realistically. He doesn't need to demand an unnamed favor to tutor her. He's assigned to tutor her by the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "Failing the espionage mission"
+  },
+  "viewerGuess": "He is failing the espionage mission."
+ },
+ {
+  "id": "b081",
+  "narration": "Well, sure, but he is using this elaborate, vaguely threatening favor as a desperately transparent excuse just to stay in her But he explicitly frames it as leverage. He uses his father's tactics.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "His father's tactics"
+  },
+  "viewerGuess": "He uses his father's tactics."
+ },
+ {
+  "id": "b082",
+  "narration": "He uses his father's vocabulary because it's the only language he knows. But look at his internal monologue. He thinks about how she looks in red lipstick.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Red lipstick"
+  },
+  "viewerGuess": "She wears red lipstick."
+ },
+ {
+  "id": "b083",
+  "narration": "He calls her Autumn. Okay, the Autumn comment was cute, right? This isn't corporate espionage. This is a teenage boy who is entirely captivated",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "He calls her Autumn"
+  },
+  "viewerGuess": "He cheerfully calls her Autumn."
+ },
+ {
+  "id": "b084",
+  "narration": "and is using leverage in transactions to mask the fact that he's already tripping over his own feet.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Tripping over his own feet"
+  },
+  "viewerGuess": "He trips over his own feet."
+ },
+ {
+  "id": "b085",
+  "narration": "You're right that he's captivated, but you can't ignore how he translates that captivation into a ledger. He literally says to her, you know, I love having you in my debt, right?",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: In my debt / Her tab"
+  },
+  "viewerGuess": "She is in my debt, on her tab."
+ },
+ {
+  "id": "b086",
+  "narration": "We can add this to your tab. He is monetizing their Yes, because that's the only way he knows how to keep his balance. If she owes him, he doesn't have to admit that he simply wants her around.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: In my debt / Her tab / Not admitting"
+  },
+  "viewerGuess": "She is in my debt but is not admitting it."
+ },
+ {
+  "id": "b087",
+  "narration": "It brings us right back to the physical reality of the fall. He's asking her to lean into his space, to owe him, to trust him as a tutor. But he hasn't taken a single step off the ledge himself.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "reach"
+    }
+   ],
+   "icon": "a person-sized cliff ledge",
+   "place": "classroom",
+   "words": "Not a single step"
+  },
+  "viewerGuess": "They won't take a single step, one reaching toward a ledge."
+ },
+ {
+  "id": "b088",
+  "narration": "He is holding the harness tightly. He is not a true fall yet because he risks absolutely nothing by asking for a It's a simulation of a fall.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "hold"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a person-sized cliff ledge",
+   "place": "classroom",
+   "words": "A simulation of a fall"
+  },
+  "viewerGuess": "It is only a simulation of a fall."
+ },
+ {
+  "id": "b089",
+  "narration": "It feels like closeness, but the safety net is completely intact, which means the simulation has to end for the romance to actually start.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "hold"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a person-sized cliff ledge",
+   "place": "classroom",
+   "words": "The safety net"
+  },
+  "viewerGuess": "He is the safety net."
+ },
+ {
+  "id": "b090",
+  "narration": "The mask has to slip. And oh man, does it slip at the society dinner. This scene, this scene",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "icon": "a theatre mask",
+   "place": "room",
+   "words": "The mask has to slip"
+  },
+  "viewerGuess": "The mask has to slip."
+ },
+ {
+  "id": "b091",
+  "narration": "is an absolute masterpiece of social It really is. Set it up for us.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "The society dinner"
+  },
+  "viewerGuess": "She attends a society dinner."
+ },
+ {
+  "id": "b092",
+  "narration": "We are at a high society gathering. Julia is already feeling entirely out of her depth, surrounded by Manhattan's Chantel",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "room",
+   "words": "Out of her depth"
+  },
+  "viewerGuess": "She is out of her depth."
+ },
+ {
+  "id": "b093",
+  "narration": "Chattingham, who is essentially the final boss of judgmental society the final boss. I love that. Is glaring at Julia with these narrow eyes, brutally interrogating her about her",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "room",
+   "words": "The final boss"
+  },
+  "viewerGuess": "She faces the final boss of the evening."
+ },
+ {
+  "id": "b094",
+  "narration": "lack of a rigid Ivy League life plan. Julia is suffocating and suddenly Damen steps in. And he doesn't just deflect the conversation,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Damen steps in"
+  },
+  "viewerGuess": "Damen steps in to help."
+ },
+ {
+  "id": "b095",
+  "narration": "he invents a massive, elaborate lie to protect her. He tells Shantel and his own parents that Julia is practically a literary prodigy, claiming she basically taught their literature class because her knowledge of the Shakespearean",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "An elaborate lie"
+  },
+  "viewerGuess": "He tells an elaborate lie while she is surprised."
+ },
+ {
+  "id": "b096",
+  "narration": "tragedy Titus Andronicus was so which is incredibly specific and completely fabricated.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "book"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Titus Andronicus"
+  },
+  "viewerGuess": "He cites Titus Andronicus."
+ },
+ {
+  "id": "b097",
+  "narration": "But here is the profound truth this moment reveals for anyone navigating a relationship. Risking your own social standing to protect someone else is the first real slip of the mask.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a theatre mask",
+   "place": "room",
+   "words": "First slip of the mask"
+  },
+  "viewerGuess": "It is the first slip of his mask."
+ },
+ {
+  "id": "b098",
+  "narration": "You cannot catch someone without stepping out of your own safe zone. Damen has spent his entire life blending into this society, playing the part of the affable son. Lying to Shantel Chattingham,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "talk"
+    }
+   ],
+   "place": "room",
+   "words": "Playing the affable son"
+  },
+  "viewerGuess": "He plays the affable son."
+ },
+ {
+  "id": "b099",
+  "narration": "a woman with a reputation for destroying anyone who crosses her is a massive unforced error in his world. He intentionally puts his own balance at risk to catch Julia in a moment of extreme social",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Catch Julia"
+  },
+  "viewerGuess": "He needs to catch Julia."
+ },
+ {
+  "id": "b100",
+  "narration": "vertigo. We really need to unpack the subtext of the lie itself because it's brilliant.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    }
+   ],
+   "place": "room",
+   "words": "The subtext of the lie"
+  },
+  "viewerGuess": "The lie has a subtext."
+ },
+ {
+  "id": "b101",
+  "narration": "Mr. Long Haven, the actual literature teacher, hated Julia's take on Titus Andronicus.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "book"
+    }
+   ],
+   "place": "classroom",
+   "words": "Titus Andronicus"
+  },
+  "viewerGuess": "She holds a book of Titus Andronicus in class."
+ },
+ {
+  "id": "b102",
+  "narration": "Why? Because she brought political ideologies, specifically feminism and critiques of the patriarchy into the text. Right. Right.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "talk",
+     "holds": "book"
+    }
+   ],
+   "place": "classroom",
+   "words": "Feminism and patriarchy"
+  },
+  "viewerGuess": "She discusses feminism and patriarchy."
+ },
+ {
+  "id": "b103",
+  "narration": "Long Haven cautioned the class against it. And Julia raged internally about how dismissing feminism as merely political was infuriating.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "Infuriating"
+  },
+  "viewerGuess": "She finds it infuriating."
+ },
+ {
+  "id": "b104",
+  "narration": "Damian taking that specific moment, a moment where Julia was rebellious and silenced by a patriarchal figure",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "classroom",
+   "words": "Silenced"
+  },
+  "viewerGuess": "She feels silenced."
+ },
+ {
+  "id": "b105",
+  "narration": "and weaponizing it to defend her against the matriarch of high society. It's a breathtaking layer of irony and It really is.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Silenced rebellion / Her defense"
+  },
+  "viewerGuess": "Her silenced rebellion becomes her defense."
+ },
+ {
+  "id": "b106",
+  "narration": "He sees her rebellion, he remembers it, and he validates it in front of the very people she is rebelling against. Damen internally",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "He validates it"
+  },
+  "viewerGuess": "He validates her view."
+ },
+ {
+  "id": "b107",
+  "narration": "marvels at her in this scene. He looks at her and realizes she has no lifelong assumption of a Dartmouth education.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "surprised",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "No Dartmouth assumption"
+  },
+  "viewerGuess": "He doesn't assume she'll go to Dartmouth."
+ },
+ {
+  "id": "b108",
+  "narration": "She has no expectation to join a mind-numbingly boring financial conglomerate. He looks at her undefined future and he feels pure unadulterated And this is exactly why I think this is the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Her undefined future"
+  },
+  "viewerGuess": "Her future is undefined, and he is happy about it."
+ },
+ {
+  "id": "b109",
+  "narration": "moment Damen falls in love with See, I don't think this is the moment. Wait, what? Are you kidding?",
+  "onScreen": {
+   "diagram": "labelled buckets: Falls in love here / Not this moment"
+  },
+  "viewerGuess": "Falling in love happens here, not at this moment."
+ },
+ {
+  "id": "b110",
+  "narration": "He literally risks the wrath of his terrifying father and the most powerful woman in the room to save her from embarrassment. That is textbook falling in love.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "idle"
+    }
+   ],
+   "icon": "a heart",
+   "place": "room",
+   "words": "Textbook falling in love"
+  },
+  "viewerGuess": "It is textbook falling in love."
+ },
+ {
+  "id": "b111",
+  "narration": "He is acting entirely selflessly for the first time in the Is it selfless though? It Let's look at the psychology of proxy wars in relationships. People often use their partner's strengths",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Partner's strengths / A weapon"
+  },
+  "viewerGuess": "A partner's strengths become a weapon."
+ },
+ {
+  "id": "b112",
+  "narration": "as a weapon against their own family dynamics. Damian isn't falling in love with Julia, the person in this exact moment.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Partner's strengths / A weapon / Own family"
+  },
+  "viewerGuess": "A partner's strengths become a weapon against his own family."
+ },
+ {
+  "id": "b113",
+  "narration": "He is falling in love with the freedom she Explain that because I'm not seeing it. Look at his internal monologue.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "He envies her freedom"
+  },
+  "viewerGuess": "He envies her freedom."
+ },
+ {
+  "id": "b114",
+  "narration": "He thinks about how she doesn't have a steely presumption that you'd ultimately be at the helm of that mind-numbingly boring financial conglomerate until a heart attack finally took mercy upon your money worshipping existence.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "blank",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Financial conglomerate"
+  },
+  "viewerGuess": "His family runs a financial conglomerate."
+ },
+ {
+  "id": "b115",
+  "narration": "Okay, true. That's a direct quote. He is deeply resentful of his parents. By defending Julia, he is actively rebelling against the Ivy League corporate drone path his father demands.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "angry",
+     "body": "talk"
+    }
+   ],
+   "place": "room",
+   "words": "Resentful of his parents"
+  },
+  "viewerGuess": "He is resentful of his parents."
+ },
+ {
+  "id": "b116",
+  "narration": "He is using Julia as a weapon against his parents expectations. It's a proxy war. He's fighting his dad through her.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Defending Julia / Fighting his dad"
+  },
+  "viewerGuess": "Defending Julia means fighting his dad."
+ },
+ {
+  "id": "b117",
+  "narration": "Okay, I see the proxy war argument and I agree he is deeply resentful of his parents, but I think you are drastically underestimating the intimacy of the How so? Yes, he loves her freedom,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a heart",
+   "place": "room",
+   "words": "He loves her freedom"
+  },
+  "viewerGuess": "He loves her freedom."
+ },
+ {
+  "id": "b118",
+  "narration": "but he uses her specific intellectual fire to defend her. He doesn't just say, \"Leave her alone or change the subject to sports.\" He elevates her mind. Regardless of his underlying motives",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "point"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "He elevates her mind"
+  },
+  "viewerGuess": "He elevates her mind."
+ },
+ {
+  "id": "b119",
+  "narration": "regarding his parents, the physical reality of the moment remains the same. He steps off his secure social platform. He unbalances himself to intercept Chintel strike. It is the first time we see him",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "reach"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "icon": "a balance scale",
+   "place": "room",
+   "words": "He unbalances himself"
+  },
+  "viewerGuess": "He unbalances himself by leaning in."
+ },
+ {
+  "id": "b120",
+  "narration": "risk a fall of his own to act as her safety net. He certainly shifts his center of gravity. I'll give you that. But he is still on his home turf.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "room",
+   "words": "A safety net"
+  },
+  "viewerGuess": "He needs a safety net."
+ },
+ {
+  "id": "b121",
+  "narration": "They are in New York surrounded by his people playing a game he knows the rules to.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "talk"
+    }
+   ],
+   "icon": "an intact city skyline",
+   "place": "street",
+   "words": "His home turf"
+  },
+  "viewerGuess": "He is on his home turf in New York."
+ },
+ {
+  "id": "b122",
+  "narration": "It's easy to be brave in your own backyard. to truly drop his guard to execute a real trust fall, he has to completely strip away his geographical armor, which forces him to chase her all the way back to the freezing rain of let",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "talk"
+    }
+   ],
+   "icon": "an intact city skyline",
+   "place": "street",
+   "words": "Brave in his own backyard"
+  },
+  "viewerGuess": "He is brave in his own backyard."
+ },
+ {
+  "id": "b123",
+  "narration": "me set the sensory scene here because it is iconic and it completely shifts the dynamic. We are far away from New York.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a house",
+   "place": "bedroom",
+   "words": "Far from New York"
+  },
+  "viewerGuess": "She is far from New York at home."
+ },
+ {
+  "id": "b124",
+  "narration": "We are in Springfield, Nebraska. It is a blustery, freezing autumn rainstorm. So cold. Julia is in her childhood bedroom",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a storm cloud with lightning",
+   "place": "bedroom",
+   "words": "A freezing autumn rainstorm"
+  },
+  "viewerGuess": "A freezing autumn rainstorm."
+ },
+ {
+  "id": "b125",
+  "narration": "seeking refuge from the overwhelming reality of the New York inheritance and the looming lawsuit.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a shield",
+   "place": "bedroom",
+   "words": "Seeking refuge"
+  },
+  "viewerGuess": "She seeks refuge."
+ },
+ {
+  "id": "b126",
+  "narration": "She looks out her window into the dark and there is Damian hanging there. He is physically dangling from the white lattice trellus of her house. He's got his expensive glasses on.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    },
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "Dangling from the trellis"
+  },
+  "viewerGuess": "She is dangling from the trellis, he is worried."
+ },
+ {
+  "id": "b127",
+  "narration": "The rain is pouring down and he looks at her, dropping all the swagger, dropping all the leverage, and says with absolute honesty, \"I wasn't ready yet, Jules. Were you?\" The physical",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "sad",
+     "body": "talk"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "I wasn't ready yet, Jules"
+  },
+  "viewerGuess": "He says, I wasn't ready yet, Jules."
+ },
+ {
+  "id": "b128",
+  "narration": "environment is the message here. Sometimes to truly drop your guard, you have to completely leave your environment.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Leave your environment / Drop your guard"
+  },
+  "viewerGuess": "Leaving your environment means dropping your guard."
+ },
+ {
+  "id": "b129",
+  "narration": "Damian leaves his New York armor, his tailored suits, his controlled society dinners, and he meets her where she is real.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Leave your environment / Drop your guard / He meets her"
+  },
+  "viewerGuess": "Leaving his environment and dropping his guard, he meets her."
+ },
+ {
+  "id": "b130",
+  "narration": "He exposes himself to the elements, literally to the rain and the physical danger of the climb to strip away the power dynamic.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a storm cloud with lightning",
+   "place": "bedroom",
+   "words": "Exposed to the elements"
+  },
+  "viewerGuess": "He is exposed to the elements."
+ },
+ {
+  "id": "b131",
+  "narration": "And the physical reaction Julia has is visceral. Her heart is instantly in her throat.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a heart",
+   "place": "bedroom",
+   "words": "Her heart in her throat"
+  },
+  "viewerGuess": "Her heart is in her throat."
+ },
+ {
+  "id": "b132",
+  "narration": "Why? Because the ghost of her past is attached to that exact trellis.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "The ghost of her past"
+  },
+  "viewerGuess": "The ghost of her past haunts her."
+ },
+ {
+  "id": "b133",
+  "narration": "Ooh, yes. Will. Her ex-boyfriend Will, the guy who shattered her, used to climb that same trellis on warm summer nights.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young man in his early twenties",
+     "face": "happy",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "Will, her ex-boyfriend"
+  },
+  "viewerGuess": "Will, her ex-boyfriend, appears."
+ },
+ {
+  "id": "b134",
+  "narration": "But Damian doing it feels infinitely more dangerous to her. Damen reaches through the window, his warm thumb traces her chin, and she asks herself the terrifying question, \"Can I trust this rich boy?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "reach"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "Can I trust this rich boy?"
+  },
+  "viewerGuess": "She wonders whether she can trust this rich boy."
+ },
+ {
+  "id": "b135",
+  "narration": "Could I really fall again?\" It's a brilliant juosition by the author. Will climbing the trellis was safe,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "Could I really fall again?"
+  },
+  "viewerGuess": "Could I really fall again?"
+ },
+ {
+  "id": "b136",
+  "narration": "predictable, a suburban routine. It was a boy who lived down the street doing what was expected.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young man in his early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "A suburban routine"
+  },
+  "viewerGuess": "Will offers a suburban routine."
+ },
+ {
+  "id": "b137",
+  "narration": "Damian climbing it in a freezing rainstorm is an invasion of the unknown.",
+  "onScreen": {
+   "diagram": "labelled buckets: Will: safe routine / Damian: the unknown"
+  },
+  "viewerGuess": "Will is safe routine, Damian is the unknown."
+ },
+ {
+  "id": "b138",
+  "narration": "It is the ultimate grand gesture. It is incredibly romantic. I mean, think about it. He tracks her down across the country because he realizes he can't let the misunderstanding stand.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "talk"
+    }
+   ],
+   "icon": "a heart",
+   "place": "bedroom",
+   "words": "Ultimate grand gesture"
+  },
+  "viewerGuess": "It is the ultimate grand gesture."
+ },
+ {
+  "id": "b139",
+  "narration": "He physically scales a wall in a storm just to admit he was scared. It's swoonworthy. It's exactly what you want a guy to do when things fall apart.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "celebrate"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "Swoonworthy"
+  },
+  "viewerGuess": "It is swoonworthy."
+ },
+ {
+  "id": "b140",
+  "narration": "I am going to throw absolute cold water on this grand gesture. Well, okay, go ahead. ruin the romance. Let's look at the context.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "room",
+   "words": "The context matters"
+  },
+  "viewerGuess": "Context matters."
+ }
+]

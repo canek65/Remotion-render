@@ -1,0 +1,1450 @@
+[
+ {
+  "id": "b141",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "flee"
+   }
+  ],
+  "motion": "the first person runs away through the city and is gone",
+  "icon": "an intact city skyline",
+  "place": "street",
+  "words": "Fled New York"
+ },
+ {
+  "id": "b142",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "reach"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "Her private bedroom"
+ },
+ {
+  "id": "b143",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "Forcing the issue"
+ },
+ {
+  "id": "b144",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "bedroom",
+  "words": "An invasion of her safe space"
+ },
+ {
+  "id": "b145",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "bedroom",
+  "words": "To soothe himself"
+ },
+ {
+  "id": "b146",
+  "diagram": "labelled buckets: Stays: aloof / Chases her: invading"
+ },
+ {
+  "id": "b147",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "talk"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "She wanted space"
+ },
+ {
+  "id": "b148",
+  "icon": "a garden trellis with climbing vine and leaves",
+  "words": "He breached the fortress"
+ },
+ {
+  "id": "b149",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "A literal 6-foot drop"
+ },
+ {
+  "id": "b150",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "At her mercy"
+ },
+ {
+  "id": "b151",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "reach"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "She opens the window"
+ },
+ {
+  "id": "b152",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Back at the formal ball"
+ },
+ {
+  "id": "b153",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Willing to risk it?"
+ },
+ {
+  "id": "b154",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Not even a little bit"
+ },
+ {
+  "id": "b155",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "Hair brushing the floor"
+ },
+ {
+  "id": "b156",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "Surrender to the fall"
+ },
+ {
+  "id": "b157",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "Her whole weight on him"
+ },
+ {
+  "id": "b158",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Biggest risk: loving me"
+ },
+ {
+  "id": "b159",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Cocky confidence over vulnerability"
+ },
+ {
+  "id": "b160",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "A breathless trust fall"
+ },
+ {
+  "id": "b161",
+  "diagram": "arrows linking labels in a chain: Trust fall / Father's trap springs"
+ },
+ {
+  "id": "b162",
+  "diagram": "arrows linking labels in a chain: Trust fall / Father's trap springs / Legal maneuver"
+ },
+ {
+  "id": "b163",
+  "icon": "a house",
+  "words": "Floor removed from underneath"
+ },
+ {
+  "id": "b164",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Total immersion"
+ },
+ {
+  "id": "b165",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "Father's machinations forgotten"
+ },
+ {
+  "id": "b166",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "His smile grew"
+ },
+ {
+  "id": "b167",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "Gravity always wins"
+ },
+ {
+  "id": "b168",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "Hitting emotional concrete"
+ },
+ {
+  "id": "b169",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Let your guard down"
+ },
+ {
+  "id": "b170",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "The floor gives way"
+ },
+ {
+  "id": "b171",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "Cold stone wall"
+ },
+ {
+  "id": "b172",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "Sobbing, whispering her mantra"
+ },
+ {
+  "id": "b173",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Juliet is the sun"
+ },
+ {
+  "id": "b174",
+  "diagram": "arrows linking labels in a chain: Romance / Risk / Devastation"
+ },
+ {
+  "id": "b175",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "She fell; he wasn't there"
+ },
+ {
+  "id": "b176",
+  "diagram": "labelled buckets: Warm lit ballroom / Alone against the cold wall"
+ },
+ {
+  "id": "b177",
+  "icon": "a courthouse / gavel",
+  "words": "Fraud lawsuit threatened"
+ },
+ {
+  "id": "b178",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "He is the son"
+ },
+ {
+  "id": "b179",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Part of the machinery"
+ },
+ {
+  "id": "b180",
+  "icon": "a balance scale",
+  "words": "Did Damen betray her?"
+ },
+ {
+  "id": "b181",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "His silence is complicity"
+ },
+ {
+  "id": "b182",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "He knew his father's tactics"
+ },
+ {
+  "id": "b183",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk",
+    "holds": "book"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "Transactional intimacy"
+ },
+ {
+  "id": "b184",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "room",
+  "words": "The net was rigged"
+ },
+ {
+  "id": "b185",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Defending Damen"
+ },
+ {
+  "id": "b186",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "A victim of his father"
+ },
+ {
+  "id": "b187",
+  "icon": "a hand working puppet strings",
+  "words": "Master manipulator"
+ },
+ {
+  "id": "b188",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Nuclear strike at the ball"
+ },
+ {
+  "id": "b189",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "angry",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Questioned the eviction"
+ },
+ {
+  "id": "b190",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "He chases and begs her"
+ },
+ {
+  "id": "b191",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "talk"
+   }
+  ],
+  "icon": "a heart",
+  "place": "room",
+  "words": "Deeply into all of you"
+ },
+ {
+  "id": "b192",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "She is in freefall"
+ },
+ {
+  "id": "b193",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "place": "room",
+  "words": "THE STONE FLOOR"
+ },
+ {
+  "id": "b194",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a house",
+  "place": "room",
+  "words": "BACK TO NEBRASKA"
+ },
+ {
+  "id": "b195",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "young man in his early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "A TALK WITH HER EX"
+ },
+ {
+  "id": "b196",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "sad",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "JUST COMFORTABLE"
+ },
+ {
+  "id": "b197",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "worried",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "PLANNED SINCE THEY WERE 10"
+ },
+ {
+  "id": "b198",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "A CORNER OF DESTINY"
+ },
+ {
+  "id": "b199",
+  "diagram": "arrows linking labels in a chain: Comfort without risk / Just a habit"
+ },
+ {
+  "id": "b200",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "blank",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "0% CHANCE OF FALLING"
+ },
+ {
+  "id": "b201",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "NO DANGER OF FALLING"
+ },
+ {
+  "id": "b202",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "CHEATED WITH HANNAH"
+ },
+ {
+  "id": "b203",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "MOST EMOTIONAL MATURITY"
+ },
+ {
+  "id": "b204",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "MORE MATURE THAN DAMIAN"
+ },
+ {
+  "id": "b205",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "wallet"
+   }
+  ],
+  "place": "room",
+  "words": "PLAYING BOTH SIDES"
+ },
+ {
+  "id": "b206",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "icon": "a house",
+  "place": "room",
+  "words": "RATHER THAN FAKE IT"
+ },
+ {
+  "id": "b207",
+  "diagram": "arrows linking labels in a chain: Destiny removed choice / No trust"
+ },
+ {
+  "id": "b208",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "DESTINY REMOVING CHOICE"
+ },
+ {
+  "id": "b209",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "TALKING TO LAUREN"
+ },
+ {
+  "id": "b210",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "talk"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "ENTIRELY UNPREDICTABLE"
+ },
+ {
+  "id": "b211",
+  "diagram": "a scale from one label to another with a marker: FLAT SAFE SURFACE / EDGE OF THE CLIFF"
+ },
+ {
+  "id": "b212",
+  "diagram": "a scale from one label to another with a marker: FLAT SAFE SURFACE / EDGE OF THE CLIFF"
+ },
+ {
+  "id": "b213",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "room",
+  "words": "THE DROP IS LETHAL"
+ },
+ {
+  "id": "b214",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "HE STRIPS AWAY SARCASM"
+ },
+ {
+  "id": "b215",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "YOU'RE JUST MY GIRL"
+ },
+ {
+  "id": "b216",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "ALL THE DATA"
+ },
+ {
+  "id": "b217",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "FALLING HURTS"
+ },
+ {
+  "id": "b218",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "talk"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "TRUST YOU ONE MORE TIME"
+ },
+ {
+  "id": "b219",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "NEVER 100% SURE"
+ },
+ {
+  "id": "b220",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "GRAVITY IS STILL THERE"
+ },
+ {
+  "id": "b221",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "room",
+  "words": "Choose to jump"
+ },
+ {
+  "id": "b222",
+  "icon": "a book",
+  "words": "BEFORE THE STORY BEGINS"
+ },
+ {
+  "id": "b223",
+  "icon": "a photograph",
+  "words": "A DEDICATION TO EMILY"
+ },
+ {
+  "id": "b224",
+  "icon": "a book",
+  "words": "DEDICATED TO THE READER"
+ },
+ {
+  "id": "b225",
+  "words": "THEY'RE ON THEIR WAY"
+ },
+ {
+  "id": "b226",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "street",
+  "words": "ALONE ON THE SIDEWALK"
+ },
+ {
+  "id": "b227",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "TOO EASY ON DAMEN"
+ },
+ {
+  "id": "b228",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "talk"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "AFTER ONE EARNEST CONVERSATION"
+ },
+ {
+  "id": "b229",
+  "icon": "a courthouse / gavel",
+  "words": "FRAUD LAWSUIT AGAINST HER PARENTS"
+ },
+ {
+  "id": "b230",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "MAKE HIM GROVEL FOR MONTHS"
+ },
+ {
+  "id": "b231",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a will document with a seal",
+  "words": "Prove his loyalty"
+ },
+ {
+  "id": "b232",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "Forgiving him too quickly"
+ },
+ {
+  "id": "b233",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "hold",
+    "holds": "notes"
+   }
+  ],
+  "words": "Padded with legal documents"
+ },
+ {
+  "id": "b234",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "hold"
+   }
+  ],
+  "icon": "a shield",
+  "words": "A fortress of resentment"
+ },
+ {
+  "id": "b235",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "talk"
+   }
+  ],
+  "icon": "a heart",
+  "words": "I will trust you"
+ },
+ {
+  "id": "b236",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "reach"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "words": "Chooses to trust"
+ },
+ {
+  "id": "b237",
+  "icon": "a courthouse / gavel",
+  "words": "Messy legal reality"
+ },
+ {
+  "id": "b238",
+  "icon": "a balance scale",
+  "words": "One honest counterpoint"
+ },
+ {
+  "id": "b239",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a heart",
+  "words": "Romance strains"
+ },
+ {
+  "id": "b240",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "Forgiving Damian so quickly"
+ },
+ {
+  "id": "b241",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "Scorched earth warfare"
+ },
+ {
+  "id": "b242",
+  "icon": "a courthouse / gavel",
+  "words": "Malicious civil lawsuit"
+ },
+ {
+  "id": "b243",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "hold"
+   }
+  ],
+  "words": "The boy you love"
+ },
+ {
+  "id": "b244",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "wallet"
+   }
+  ],
+  "words": "Suits bought by the enemy"
+ },
+ {
+  "id": "b245",
+  "diagram": "labelled buckets: Damian's heart / Quinn's bank accounts"
+ },
+ {
+  "id": "b246",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "reach"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "words": "The fall feels perilous"
+ },
+ {
+  "id": "b247",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "hold"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "words": "Can he shield her"
+ },
+ {
+  "id": "b248",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "Fractures under the pressure"
+ },
+ {
+  "id": "b249",
+  "icon": "a big boulder",
+  "words": "Impossible legal weight"
+ },
+ {
+  "id": "b250",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "words": "Julia's trust fall"
+ },
+ {
+  "id": "b251",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "words": "Armor and terror"
+ },
+ {
+  "id": "b252",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "reach"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "words": "Damian's trust fall"
+ },
+ {
+  "id": "b253",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "leave"
+   }
+  ],
+  "motion": "the first person walks out through the inheritance and is gone",
+  "icon": "a will document with a seal",
+  "words": "Fall away from empire"
+ },
+ {
+  "id": "b254",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "reach"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "words": "Step off the precipice"
+ },
+ {
+  "id": "b255",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "reach"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "reach"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "words": "Strong enough to catch him"
+ },
+ {
+  "id": "b256",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "Losing his entire world"
+ }
+]

@@ -1,0 +1,14 @@
+[
+{"id":"b001","correctness":"CORRECT","blame":"nothing","why":"Guess captures faking a laugh/cheerfulness, matching the narration."},
+{"id":"b002","correctness":"CORRECT","blame":"nothing","why":"Being framed as fraudsters with legal overtones matches the narration."},
+{"id":"b003","correctness":"CORRECT","blame":"nothing","why":"Walking into a trap set by the smirking man matches the narration; her anger fits her narrowed eyes."},
+{"id":"b004","correctness":"CORRECT","blame":"nothing","why":"The diagram chain conveys the owes-him, keeps-her-close, won't-admit logic."},
+{"id":"b005","correctness":"WRONG","blame":"icon","why":"The shield and 'safety net' text suggest he protects her, while the narration says the net being intact means no real closeness yet."},
+{"id":"b006","correctness":"NEUTRAL","blame":"words","why":"Envying her freedom is close to falling for her freedom, but the 'envies' wording and house icon miss the love and add 'content at home'."},
+{"id":"b007","correctness":"NEUTRAL","blame":"icon","why":"Financial background is right but the narration's point is his rejection of that path via her lack of that presumption, which is missed."},
+{"id":"b008","correctness":"NEUTRAL","blame":"nothing","why":"Anxious but still on familiar ground roughly matches, though the safety-net risk idea is absent."},
+{"id":"b009","correctness":"CORRECT","blame":"nothing","why":"Man hanging from the trellis outside her window while she watches matches."},
+{"id":"b010","correctness":"CORRECT","blame":"nothing","why":"The dip embrace with hair brushing the floor matches."},
+{"id":"b011","correctness":"CORRECT","blame":"nothing","why":"Total immersion and sincere surrender read as being fully absorbed in the relationship."},
+{"id":"b012","correctness":"WRONG","blame":"icon","why":"The cliff ledge shows him at an edge feeling no danger, missing the point that a relationship without risk of falling is dead."}
+]

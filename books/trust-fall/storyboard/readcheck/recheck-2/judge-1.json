@@ -1,0 +1,218 @@
+[
+ {
+  "id": "b001",
+  "narration": "You know, you can fake a laugh. You can even fake a heartfelt apology if you're a good enough actor.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "happy",
+     "body": "talk"
+    }
+   ],
+   "icon": "a theatre mask",
+   "words": "FAKE A LAUGH"
+  },
+  "viewerGuess": "The narrator describes someone pretending to be cheerful, putting on a fake laugh to hide how they really feel."
+ },
+ {
+  "id": "b002",
+  "narration": "His dad has already framed this Midwestern family as these manipulative fraudsters who built an old man out of millions, right? The intel gathering.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a courthouse / gavel",
+   "place": "street",
+   "words": "Framed as fraudsters"
+  },
+  "viewerGuess": "The narrator says the young woman is being accused or framed as a fraud and faces legal trouble."
+ },
+ {
+  "id": "b003",
+  "narration": "She narrows her eyes at him, questioning why she should focus on him instead of the math. And Damen internally thinks, \"Right in the trap, sweet girl.\" He is thrilled that she is engaging, even if it's He practically hums with excitement",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "think"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "Right in the trap"
+  },
+  "viewerGuess": "The narrator says the woman has walked right into a trap set by the smirking man, and she is angry about it."
+ },
+ {
+  "id": "b004",
+  "narration": "We can add this to your tab. He is monetizing their Yes, because that's the only way he knows how to keep his balance. If she owes him, he doesn't have to admit that he simply wants her around.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: She owes him / He keeps her close / He will not admit it"
+  },
+  "viewerGuess": "The narrator explains a chain of logic: she owes him, so he keeps her close, and he will never admit why."
+ },
+ {
+  "id": "b005",
+  "narration": "It feels like closeness, but the safety net is completely intact, which means the simulation has to end for the romance to actually start.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "hold"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "classroom",
+   "words": "The safety net"
+  },
+  "viewerGuess": "The narrator says the man provides a safety net or protection for the woman."
+ },
+ {
+  "id": "b006",
+  "narration": "He is falling in love with the freedom she Explain that because I'm not seeing it. Look at his internal monologue.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a house",
+   "place": "room",
+   "words": "He envies her freedom"
+  },
+  "viewerGuess": "The narrator says the man envies the woman's independence and freedom while she is content at home."
+ },
+ {
+  "id": "b007",
+  "narration": "He thinks about how she doesn't have a steely presumption that you'd ultimately be at the helm of that mind-numbingly boring financial conglomerate until a heart attack finally took mercy upon your money worshipping existence.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "blank",
+     "body": "idle"
+    }
+   ],
+   "icon": "an intact city skyline",
+   "place": "room",
+   "words": "Financial conglomerate"
+  },
+  "viewerGuess": "The narrator introduces the man's background in a big financial corporation."
+ },
+ {
+  "id": "b008",
+  "narration": "risk a fall of his own to act as her safety net. He certainly shifts his center of gravity. I'll give you that. But he is still on his home turf.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "Still on home turf"
+  },
+  "viewerGuess": "The narrator says the man is anxious but still on his familiar home ground."
+ },
+ {
+  "id": "b009",
+  "narration": "She looks out her window into the dark and there is Damian hanging there. He is physically dangling from the white lattice trellus of her house. He's got his expensive glasses on.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "surprised",
+     "body": "idle"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a garden trellis with climbing vine and leaves",
+   "place": "bedroom",
+   "words": "Damian hangs from the trellis"
+  },
+  "viewerGuess": "The narrator describes a man climbing or hanging from a garden trellis outside her bedroom while she watches worried."
+ },
+ {
+  "id": "b010",
+  "narration": "And then Damen dips her. He dips her so profoundly far back that the tips of her hair are physically brushing the ballroom floor. He leans over her and says, \"Let's",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "smirk",
+     "body": "embrace"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "happy",
+     "body": "embrace"
+    }
+   ],
+   "place": "room",
+   "words": "Hair brushing the floor"
+  },
+  "viewerGuess": "The narrator describes an intimate embrace where her hair brushes the floor."
+ },
+ {
+  "id": "b011",
+  "narration": "But that's what makes the surrender so genuine on Damian's part. You call it irony. I call it total immersion.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "happy",
+     "body": "talk"
+    }
+   ],
+   "icon": "a heart",
+   "place": "room",
+   "words": "Total immersion"
+  },
+  "viewerGuess": "The narrator says the man is completely absorbed and in love, totally immersed in the relationship."
+ },
+ {
+  "id": "b012",
+  "narration": "There was no elevation. There was no risk. Will recognized that a relationship with no danger of falling is already dead.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young man in his early twenties",
+     "face": "blank",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a person-sized cliff ledge",
+   "place": "room",
+   "words": "NO DANGER OF FALLING"
+  },
+  "viewerGuess": "The narrator says the young man stands at the edge feeling no danger of falling, despite looking despondent."
+ }
+]

@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-30T14:23:41.126Z",
+  "n": 256,
+  "total": 256,
+  "sources": [
+    "readcheck",
+    "recheck-1",
+    "recheck-2",
+    "recheck-3"
+  ],
+  "totals": {
+    "CORRECT": 223,
+    "NEUTRAL": 32,
+    "WRONG": 1
+  },
+  "wrongRate": 0.004,
+  "blame": {
+    "icon": 11,
+    "nothing-fits": 2,
+    "diagram": 2,
+    "people": 3,
+    "words": 12,
+    "nothing": 1,
+    "face": 1,
+    "body": 1
+  },
+  "iconBlame": {
+    "food": 1,
+    "city": 1,
+    "home": 1,
+    "book": 1,
+    "law": 2,
+    "balance": 1,
+    "ledge": 1,
+    "shield": 1
+  },
+  "beats": [
+    {
+      "i": 10,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Shield and bedrock idea reads vaguely.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "PSYCHOLOGICAL BEDROCK"
+    },
+    {
+      "i": 24,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Worry about the late uncle conveys little of the crucible role.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE LATE UNCLE REMY"
+    },
+    {
+      "i": 64,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Dinner plate suggests a dinner deal, not an extra loaf of bread offered with a favor.",
+      "from": "readcheck",
+      "concept": "food",
+      "callout": "We'll see."
+    },
+    {
+      "i": 76,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Chain states intel as first phase but not that Damian executes it as hostile acquisition.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 86,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Guess does not say it is Damen who has not stepped off the ledge.",
+      "from": "readcheck",
+      "concept": "ledge",
+      "callout": "Not a single step"
+    },
+    {
+      "i": 88,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess restates the on-screen words about a safeguard being intact but misses the closeness/romance and simulation-must-end meaning, since both faces are neutral and the classroom setting adds nothing.",
+      "from": "recheck-3",
+      "concept": null,
+      "callout": "The safety net is intact"
+    },
+    {
+      "i": 95,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Cites the play but not that the claim is fabricated.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Titus Andronicus"
+    },
+    {
+      "i": 99,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Only says the lie has subtext, no content.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "The subtext of the lie"
+    },
+    {
+      "i": 100,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Misses that the teacher hated her take.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Titus Andronicus"
+    },
+    {
+      "i": 108,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Buckets read as muddled; the disagreement over when he falls in love is not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 112,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Envying her freedom is close to falling for her freedom, but the 'envies' wording and house icon miss the love and add 'content at home'.",
+      "from": "recheck-2",
+      "concept": "home",
+      "callout": "He envies her freedom"
+    },
+    {
+      "i": 113,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Financial background is right but the narration's point is his rejection of that path via her lack of that presumption, which is missed.",
+      "from": "recheck-2",
+      "concept": "city",
+      "callout": "Financial conglomerate"
+    },
+    {
+      "i": 119,
+      "verdict": "NEUTRAL",
+      "blame": "nothing",
+      "why": "Anxious but still on familiar ground roughly matches, though the safety-net risk idea is absent.",
+      "from": "recheck-2",
+      "concept": null,
+      "callout": "Still on home turf"
+    },
+    {
+      "i": 134,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Just the question; misses the contrast with safe Will.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Could I really fall again?"
+    },
+    {
+      "i": 139,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Says context matters but not the cold-water pushback on the grand gesture.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "The context matters"
+    },
+    {
+      "i": 141,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess misses that he scaled the wall and was selfish.",
+      "from": "readcheck",
+      "concept": "trellis",
+      "callout": "Her private bedroom"
+    },
+    {
+      "i": 151,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess captures the ball but not the building tension or the cosmic dip.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Back at the formal ball"
+    },
+    {
+      "i": 162,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "House collapsing is read literally rather than as a lawsuit undermining her family.",
+      "from": "readcheck",
+      "concept": "home",
+      "callout": "Floor removed from underneath"
+    },
+    {
+      "i": 184,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Sad face does not convey passionately defending him.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Defending Damen"
+    },
+    {
+      "i": 190,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Guess misses that his father pushed them both off.",
+      "from": "readcheck",
+      "concept": "heart",
+      "callout": "Deeply into all of you"
+    },
+    {
+      "i": 200,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The viewer read 'no danger of falling' literally as reassuring safety, missing that the lack of risk means the relationship is dead, and the slumped man plus house icon pushed it toward a defeated person at home.",
+      "from": "recheck-3",
+      "concept": "home",
+      "callout": "NO DANGER OF FALLING"
+    },
+    {
+      "i": 205,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess loses the long-relationship, white-picket-fence point.",
+      "from": "readcheck",
+      "concept": "home",
+      "callout": "RATHER THAN FAKE IT"
+    },
+    {
+      "i": 221,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Opening of the book is vague; misses that the author primes the trust-fall concept.",
+      "from": "readcheck",
+      "concept": "book",
+      "callout": "BEFORE THE STORY BEGINS"
+    },
+    {
+      "i": 224,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Bare phrase misses taking risk as prerequisite to being caught.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THEY'RE ON THEIR WAY"
+    },
+    {
+      "i": 232,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Holding notes is unrelated to demanding proof before she jumps.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Padded with legal documents"
+    },
+    {
+      "i": 233,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Holding a fortress misses that prolonged punishment is self-guarding.",
+      "from": "readcheck",
+      "concept": "shield",
+      "callout": "A fortress of resentment"
+    },
+    {
+      "i": 236,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Vague, no link to romance versus legal reality.",
+      "from": "readcheck",
+      "concept": "law",
+      "callout": "Messy legal reality"
+    },
+    {
+      "i": 237,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Vague, no hint of the plot-strain criticism.",
+      "from": "readcheck",
+      "concept": "balance",
+      "callout": "One honest counterpoint"
+    },
+    {
+      "i": 242,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Holding back does not convey untangling him from his family.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "The boy you love"
+    },
+    {
+      "i": 243,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Wallet does not say he lives in the enemys ecosystem.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Suits bought by the enemy"
+    },
+    {
+      "i": 248,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "The courthouse/gavel icon pushes a literal court-case reading, whereas the narration is about emotional pressure and compartmentalizing, so the guess is plausible but off the abstract meaning.",
+      "from": "recheck-1",
+      "concept": "law",
+      "callout": "Impossible legal weight"
+    },
+    {
+      "i": 249,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Misses recap of her caution and the shift to the title.",
+      "from": "readcheck",
+      "concept": "ledge",
+      "callout": "Julia's trust fall"
+    },
+    {
+      "i": 250,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Armor and terror misses the title reinterpretation setup.",
+      "from": "readcheck",
+      "concept": "shield",
+      "callout": "Armor and terror"
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 8,
+    "wrong": [],
+    "neutral": [],
+    "cleared": 8,
+    "unread": []
+  }
+}

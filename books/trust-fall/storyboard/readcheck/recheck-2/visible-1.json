@@ -1,0 +1,170 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "talk"
+   }
+  ],
+  "icon": "a theatre mask",
+  "words": "FAKE A LAUGH"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a courthouse / gavel",
+  "place": "street",
+  "words": "Framed as fraudsters"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "think"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "Right in the trap"
+ },
+ {
+  "id": "b004",
+  "diagram": "arrows linking labels in a chain: She owes him / He keeps her close / He will not admit it"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "hold"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "classroom",
+  "words": "The safety net"
+ },
+ {
+  "id": "b006",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a house",
+  "place": "room",
+  "words": "He envies her freedom"
+ },
+ {
+  "id": "b007",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "icon": "an intact city skyline",
+  "place": "room",
+  "words": "Financial conglomerate"
+ },
+ {
+  "id": "b008",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Still on home turf"
+ },
+ {
+  "id": "b009",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "surprised",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "Damian hangs from the trellis"
+ },
+ {
+  "id": "b010",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "embrace"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "embrace"
+   }
+  ],
+  "place": "room",
+  "words": "Hair brushing the floor"
+ },
+ {
+  "id": "b011",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   }
+  ],
+  "icon": "a heart",
+  "place": "room",
+  "words": "Total immersion"
+ },
+ {
+  "id": "b012",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "blank",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "room",
+  "words": "NO DANGER OF FALLING"
+ }
+]

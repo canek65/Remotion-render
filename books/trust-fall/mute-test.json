@@ -1,0 +1,61 @@
+{
+  "runs": [
+    {
+      "label": "final",
+      "date": "2026-10-30T09:56:04.519Z",
+      "n": 30,
+      "totals": {
+        "WRONG": 2,
+        "NONE": 7,
+        "CORRECT": 14,
+        "ADDS": 19,
+        "NEUTRAL": 14,
+        "EXPLAINS": 2,
+        "TEXT_ONLY": 4
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": false,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "60d1bc08bbaddfcb31adcf51ad2b331f17c7ab19bd684ac4fd2a1bcb8439f2cb",
+      "verdict": false,
+      "dead": 7,
+      "addsTargetMet": true,
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 63
+    },
+    {
+      "label": "run2",
+      "date": "2026-10-30T15:01:49.676Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 25,
+        "ADDS": 23,
+        "EXPLAINS": 2,
+        "TEXT_ONLY": 3,
+        "NEUTRAL": 5,
+        "NONE": 4
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": true,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "7d6e02fecc6bed315ded9f2243f9dea4f09e91d791791f90293c33df616b264d",
+      "verdict": true,
+      "dead": 4,
+      "addsTargetMet": true,
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 77
+    }
+  ]
+}

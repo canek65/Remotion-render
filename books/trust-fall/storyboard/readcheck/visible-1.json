@@ -1,0 +1,1793 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "talk"
+   }
+  ],
+  "words": "A FAKE SMILE"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "talk"
+   }
+  ],
+  "words": "FAKE A LAUGH"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "tipped over backwards in mid-air, arms flailing, motion lines (falling)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "reach"
+   }
+  ],
+  "words": "ARMS THERE TO CATCH YOU"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "ON YOUR OWN TWO FEET"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "BRACE FOR IMPACT"
+ },
+ {
+  "id": "b006",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "reach"
+   }
+  ],
+  "words": "ARMS WANT TO SHOOT OUT"
+ },
+ {
+  "id": "b007",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "happy",
+    "body": "embrace"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "embrace"
+   }
+  ],
+  "icon": "a heart",
+  "words": "THE ULTIMATE ACT OF ROMANCE"
+ },
+ {
+  "id": "b008",
+  "words": "MECHANICS OF VULNERABILITY"
+ },
+ {
+  "id": "b009",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "RISKS BEING SEEN"
+ },
+ {
+  "id": "b010",
+  "words": "TRUST FALL"
+ },
+ {
+  "id": "b011",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "hold",
+    "holds": "shield"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "PSYCHOLOGICAL BEDROCK"
+ },
+ {
+  "id": "b012",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "place",
+    "holds": "shield"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "motion": "the first person sets the shield down in front of them; their hand comes back empty and the shield stays there",
+  "words": "THEIR OWN SAFETY NETS"
+ },
+ {
+  "id": "b013",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "FALLING HURTS"
+ },
+ {
+  "id": "b014",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "words": "REASONS TO GUARD THEMSELVES"
+ },
+ {
+  "id": "b015",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "bedroom",
+  "words": "A NEBRASKA GIRL"
+ },
+ {
+  "id": "b016",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "sad",
+    "body": "leave"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "motion": "the first person walks out, past the second, off the edge of the picture and is gone",
+  "words": "HAS BROKEN HER HEART"
+ },
+ {
+  "id": "b017",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "hold",
+    "holds": "shield"
+   }
+  ],
+  "words": "INFERIORITY COMPLEX"
+ },
+ {
+  "id": "b018",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "talk",
+    "holds": "book"
+   }
+  ],
+  "words": "CHANTS A SHAKESPEARE QUOTE"
+ },
+ {
+  "id": "b019",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "blank",
+    "body": "talk",
+    "holds": "book"
+   }
+  ],
+  "words": "JULIET IS THE SUN"
+ },
+ {
+  "id": "b020",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "A VERBAL BRACE POSITION"
+ },
+ {
+  "id": "b021",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "place": "office",
+  "words": "CUTTHROAT FINANCIAL EMPIRE"
+ },
+ {
+  "id": "b022",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "MOURNING UNCLE REMY"
+ },
+ {
+  "id": "b023",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "hold",
+    "holds": "shield"
+   }
+  ],
+  "words": "HIS DESIRE FOR FREEDOM"
+ },
+ {
+  "id": "b024",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "mask"
+   }
+  ],
+  "words": "HIDING BEHIND ARROGANCE"
+ },
+ {
+  "id": "b025",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "THE LATE UNCLE REMY"
+ },
+ {
+  "id": "b026",
+  "icon": "a will document with a seal",
+  "words": "BYPASSES HIS BLOOD FAMILY"
+ },
+ {
+  "id": "b027",
+  "icon": "a house",
+  "words": "A FIVE-STORY MANSION"
+ },
+ {
+  "id": "b028",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "icon": "a clock face",
+  "words": "LIVE IN IT 6 MONTHS"
+ },
+ {
+  "id": "b029",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "ELITE GARDENWOOD ACADEMY"
+ },
+ {
+  "id": "b030",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "GATHER INTEL"
+ },
+ {
+  "id": "b031",
+  "icon": "a house",
+  "words": "GET THE HOUSE BACK"
+ },
+ {
+  "id": "b032",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "hold",
+    "holds": "shield"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "HEAVY EMOTIONAL ARMOR"
+ },
+ {
+  "id": "b033",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "hold",
+    "holds": "shield"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "GRAVITY STARTS TO PULL"
+ },
+ {
+  "id": "b034",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "tipped over backwards in mid-air, arms flailing, motion lines (falling)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Crashed into Damen"
+ },
+ {
+  "id": "b035",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "take",
+    "holds": "wallet"
+   }
+  ],
+  "place": "street",
+  "words": "Will's ugly wallet"
+ },
+ {
+  "id": "b036",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "hold",
+    "holds": "wallet"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "point"
+   }
+  ],
+  "place": "street",
+  "words": "Run along, honey."
+ },
+ {
+  "id": "b037",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "point"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "street",
+  "words": "Feel small"
+ },
+ {
+  "id": "b038",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "street",
+  "words": "Towering over her"
+ },
+ {
+  "id": "b039",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "street",
+  "words": "A time you felt insecure"
+ },
+ {
+  "id": "b040",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "street",
+  "words": "Guarding looks like cruelty"
+ },
+ {
+  "id": "b041",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "street",
+  "words": "Lowering your guard"
+ },
+ {
+  "id": "b042",
+  "diagram": "arrows linking labels in a chain: Grace / Their humanity / Your vulnerability"
+ },
+ {
+  "id": "b043",
+  "diagram": "arrows linking labels in a chain: Show grace / Open a channel / Connection"
+ },
+ {
+  "id": "b044",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "sit"
+   }
+  ],
+  "icon": "a dinner plate with fork and knife",
+  "place": "room",
+  "words": "A plate of risotto"
+ },
+ {
+  "id": "b045",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "icon": "a dinner plate with fork and knife",
+  "place": "room",
+  "words": "Remy hated risotto",
+  "state": "kept from before: man in his mid-twenties: still seated"
+ },
+ {
+  "id": "b046",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "blank",
+    "body": "talk"
+   }
+  ],
+  "icon": "a dinner plate with fork and knife",
+  "place": "room",
+  "words": "Financial optics",
+  "state": "kept from before: man in his mid-twenties: still seated"
+ },
+ {
+  "id": "b047",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "idle"
+   }
+  ],
+  "icon": "a dinner plate with fork and knife",
+  "place": "room",
+  "words": "The congenial smile",
+  "state": "kept from before: man in his mid-twenties: still seated"
+ },
+ {
+  "id": "b048",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "icon": "a theatre mask",
+  "place": "room",
+  "words": "A wall of sarcasm"
+ },
+ {
+  "id": "b049",
+  "diagram": "arrows linking labels in a chain: Dining room table / Cruelty to Julia"
+ },
+ {
+  "id": "b050",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "street",
+  "words": "Grief will drown him"
+ },
+ {
+  "id": "b051",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "angry",
+    "body": "point"
+   }
+  ],
+  "icon": "a will document with a seal",
+  "place": "street",
+  "words": "Family's wealth"
+ },
+ {
+  "id": "b052",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a theatre mask",
+  "place": "street",
+  "words": "Manipulative fraudsters"
+ },
+ {
+  "id": "b053",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "street",
+  "words": "Protecting his territory"
+ },
+ {
+  "id": "b054",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Doesn't care about money"
+ },
+ {
+  "id": "b055",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "A disruptor"
+ },
+ {
+  "id": "b056",
+  "diagram": "arrows linking labels in a chain: Julia / Disruptor / Emotional stasis"
+ },
+ {
+  "id": "b057",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "hold",
+    "holds": "wallet"
+   }
+  ],
+  "place": "street",
+  "words": "A shock of reality"
+ },
+ {
+  "id": "b058",
+  "diagram": "arrows linking labels in a chain: Julia / Threatens numbness / His pain"
+ },
+ {
+  "id": "b059",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Makes him feel things"
+ },
+ {
+  "id": "b060",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Standing rigidly upright"
+ },
+ {
+  "id": "b061",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Refusing the fall"
+ },
+ {
+  "id": "b062",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "walk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Bridge the gap"
+ },
+ {
+  "id": "b063",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a book",
+  "place": "classroom",
+  "words": "Tutoring Julia in math"
+ },
+ {
+  "id": "b064",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a book",
+  "place": "classroom",
+  "words": "Curls tickling her nose"
+ },
+ {
+  "id": "b065",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a dinner plate with fork and knife",
+  "place": "classroom",
+  "words": "We'll see."
+ },
+ {
+  "id": "b066",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "point"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a dinner plate with fork and knife",
+  "place": "classroom",
+  "words": "An unnamed favor"
+ },
+ {
+  "id": "b067",
+  "diagram": "a scale from one label to another with a marker: Julia's power / Damen's power"
+ },
+ {
+  "id": "b068",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Transactional intimacy"
+ },
+ {
+  "id": "b069",
+  "diagram": "arrows linking labels in a chain: Fear of rejection / A ledger"
+ },
+ {
+  "id": "b070",
+  "diagram": "arrows linking labels in a chain: Fear of rejection / A ledger / Forced to talk"
+ },
+ {
+  "id": "b071",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "Indebted to him"
+ },
+ {
+  "id": "b072",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "reach"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "classroom",
+  "words": "A controlled fall"
+ },
+ {
+  "id": "b073",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "hold"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "classroom",
+  "words": "He controls the drop"
+ },
+ {
+  "id": "b074",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "Highly suspicious"
+ },
+ {
+  "id": "b075",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "Right in the trap"
+ },
+ {
+  "id": "b076",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "A victory on his terms"
+ },
+ {
+  "id": "b077",
+  "diagram": "arrows linking labels in a chain: Quinn wants intel / First phase"
+ },
+ {
+  "id": "b078",
+  "diagram": "arrows linking labels in a chain: Quinn wants intel / First phase / Her pressure points"
+ },
+ {
+  "id": "b079",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "place": "classroom",
+  "words": "Corporate espionage"
+ },
+ {
+  "id": "b080",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "Failing the espionage mission"
+ },
+ {
+  "id": "b081",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "His father's tactics"
+ },
+ {
+  "id": "b082",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Red lipstick"
+ },
+ {
+  "id": "b083",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "He calls her Autumn"
+ },
+ {
+  "id": "b084",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Tripping over his own feet"
+ },
+ {
+  "id": "b085",
+  "diagram": "arrows linking labels in a chain: In my debt / Her tab"
+ },
+ {
+  "id": "b086",
+  "diagram": "arrows linking labels in a chain: In my debt / Her tab / Not admitting"
+ },
+ {
+  "id": "b087",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "reach"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "classroom",
+  "words": "Not a single step"
+ },
+ {
+  "id": "b088",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "hold"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "classroom",
+  "words": "A simulation of a fall"
+ },
+ {
+  "id": "b089",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "hold"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a person-sized cliff ledge",
+  "place": "classroom",
+  "words": "The safety net"
+ },
+ {
+  "id": "b090",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "icon": "a theatre mask",
+  "place": "room",
+  "words": "The mask has to slip"
+ },
+ {
+  "id": "b091",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "The society dinner"
+ },
+ {
+  "id": "b092",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "Out of her depth"
+ },
+ {
+  "id": "b093",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "The final boss"
+ },
+ {
+  "id": "b094",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Damen steps in"
+ },
+ {
+  "id": "b095",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "An elaborate lie"
+ },
+ {
+  "id": "b096",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "book"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Titus Andronicus"
+ },
+ {
+  "id": "b097",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a theatre mask",
+  "place": "room",
+  "words": "First slip of the mask"
+ },
+ {
+  "id": "b098",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Playing the affable son"
+ },
+ {
+  "id": "b099",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Catch Julia"
+ },
+ {
+  "id": "b100",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "The subtext of the lie"
+ },
+ {
+  "id": "b101",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "book"
+   }
+  ],
+  "place": "classroom",
+  "words": "Titus Andronicus"
+ },
+ {
+  "id": "b102",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "talk",
+    "holds": "book"
+   }
+  ],
+  "place": "classroom",
+  "words": "Feminism and patriarchy"
+ },
+ {
+  "id": "b103",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "Infuriating"
+ },
+ {
+  "id": "b104",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "classroom",
+  "words": "Silenced"
+ },
+ {
+  "id": "b105",
+  "diagram": "arrows linking labels in a chain: Silenced rebellion / Her defense"
+ },
+ {
+  "id": "b106",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "He validates it"
+ },
+ {
+  "id": "b107",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "surprised",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "No Dartmouth assumption"
+ },
+ {
+  "id": "b108",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Her undefined future"
+ },
+ {
+  "id": "b109",
+  "diagram": "labelled buckets: Falls in love here / Not this moment"
+ },
+ {
+  "id": "b110",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "idle"
+   }
+  ],
+  "icon": "a heart",
+  "place": "room",
+  "words": "Textbook falling in love"
+ },
+ {
+  "id": "b111",
+  "diagram": "arrows linking labels in a chain: Partner's strengths / A weapon"
+ },
+ {
+  "id": "b112",
+  "diagram": "arrows linking labels in a chain: Partner's strengths / A weapon / Own family"
+ },
+ {
+  "id": "b113",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "He envies her freedom"
+ },
+ {
+  "id": "b114",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Financial conglomerate"
+ },
+ {
+  "id": "b115",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "angry",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "Resentful of his parents"
+ },
+ {
+  "id": "b116",
+  "diagram": "arrows linking labels in a chain: Defending Julia / Fighting his dad"
+ },
+ {
+  "id": "b117",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a heart",
+  "place": "room",
+  "words": "He loves her freedom"
+ },
+ {
+  "id": "b118",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "point"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "He elevates her mind"
+ },
+ {
+  "id": "b119",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "reach"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "icon": "a balance scale",
+  "place": "room",
+  "words": "He unbalances himself"
+ },
+ {
+  "id": "b120",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "A safety net"
+ },
+ {
+  "id": "b121",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "icon": "an intact city skyline",
+  "place": "street",
+  "words": "His home turf"
+ },
+ {
+  "id": "b122",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "talk"
+   }
+  ],
+  "icon": "an intact city skyline",
+  "place": "street",
+  "words": "Brave in his own backyard"
+ },
+ {
+  "id": "b123",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a house",
+  "place": "bedroom",
+  "words": "Far from New York"
+ },
+ {
+  "id": "b124",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a storm cloud with lightning",
+  "place": "bedroom",
+  "words": "A freezing autumn rainstorm"
+ },
+ {
+  "id": "b125",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a shield",
+  "place": "bedroom",
+  "words": "Seeking refuge"
+ },
+ {
+  "id": "b126",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   },
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "Dangling from the trellis"
+ },
+ {
+  "id": "b127",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "sad",
+    "body": "talk"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "I wasn't ready yet, Jules"
+ },
+ {
+  "id": "b128",
+  "diagram": "arrows linking labels in a chain: Leave your environment / Drop your guard"
+ },
+ {
+  "id": "b129",
+  "diagram": "arrows linking labels in a chain: Leave your environment / Drop your guard / He meets her"
+ },
+ {
+  "id": "b130",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a storm cloud with lightning",
+  "place": "bedroom",
+  "words": "Exposed to the elements"
+ },
+ {
+  "id": "b131",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a heart",
+  "place": "bedroom",
+  "words": "Her heart in her throat"
+ },
+ {
+  "id": "b132",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "The ghost of her past"
+ },
+ {
+  "id": "b133",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "happy",
+    "body": "idle"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "Will, her ex-boyfriend"
+ },
+ {
+  "id": "b134",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "reach"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "Can I trust this rich boy?"
+ },
+ {
+  "id": "b135",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "Could I really fall again?"
+ },
+ {
+  "id": "b136",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "A suburban routine"
+ },
+ {
+  "id": "b137",
+  "diagram": "labelled buckets: Will: safe routine / Damian: the unknown"
+ },
+ {
+  "id": "b138",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "talk"
+   }
+  ],
+  "icon": "a heart",
+  "place": "bedroom",
+  "words": "Ultimate grand gesture"
+ },
+ {
+  "id": "b139",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "happy",
+    "body": "celebrate"
+   }
+  ],
+  "icon": "a garden trellis with climbing vine and leaves",
+  "place": "bedroom",
+  "words": "Swoonworthy"
+ },
+ {
+  "id": "b140",
+  "people": [
+   {
+    "looks": "young woman in her early twenties",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "The context matters"
+ }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "i": 33,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Crashed into Damen",
+      "style": "highlight"
+    },
+    "explainedBy": "Julia crashes into Damen on the street and goes down; he looks on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia crashes into Damen in New York.",
+      "concreteVisual": "Julia falling on a street, Damen standing startled beside her.",
+      "onScreenText": "none",
+      "relationToPrevious": "Opens the street scene.",
+      "addedInformation": "The collision itself."
+    },
+    "set": "street",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "surprised",
+    "action": "falling",
+    "partnerExpression": "surprised"
+  },
+  {
+    "i": 34,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Will's ugly wallet",
+      "style": "highlight"
+    },
+    "explainedBy": "Julia reaches down and picks up the abandoned wallet, trying to do right.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia picks up Will's ugly wallet.",
+      "concreteVisual": "Julia on the street taking a wallet in hand, sad face.",
+      "onScreenText": "Will's old wallet",
+      "relationToPrevious": "Same street; she now picks up the wallet.",
+      "addedInformation": "The deed of picking it up."
+    },
+    "set": "street",
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "take",
+    "holds": "wallet",
+    "actionCue": "pick up"
+  },
+  {
+    "i": 35,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Run along, honey.",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen looks down on Julia and sneers at her while she holds the wallet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen sneers 'Run along, honey' at Julia.",
+      "concreteVisual": "Julia holding the wallet, sad; Damen beside her pointing with a smirk.",
+      "onScreenText": "Run along, honey.",
+      "relationToPrevious": "Continues the street; Damen sneers.",
+      "addedInformation": "His disdain toward her."
+    },
+    "continue": true,
+    "set": "street",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "wallet",
+    "partnerExpression": "smirk",
+    "partnerAction": "point"
+  },
+  {
+    "i": 36,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Feel small",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen deliberately makes Julia feel small with a threat-like warning.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen tries to make her feel small.",
+      "concreteVisual": "Damen smirking and pointing down at Julia, who shrinks, worried.",
+      "onScreenText": "Feel small",
+      "relationToPrevious": "Same pair; he presses on.",
+      "addedInformation": "His intent to belittle."
+    },
+    "set": "street",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "partnerExpression": "worried",
+    "partnerAction": "slump"
+  },
+  {
+    "i": 37,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Towering over her",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen towers over Julia physically and socially, big city over Midwest.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen towers over her.",
+      "concreteVisual": "Low-angle Damen talking down at a slumped Julia.",
+      "onScreenText": "Towering over her",
+      "relationToPrevious": "Same pair, reframed from below.",
+      "addedInformation": "The height difference."
+    },
+    "set": "street",
+    "shotOverride": "lowAngle",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "sad",
+    "partnerAction": "slump"
+  },
+  {
+    "i": 38,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A time you felt insecure",
+      "style": "highlight"
+    },
+    "explainedBy": "The host asks the listener to recall feeling insecure in a new place; only a feeling.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Think of a time you felt insecure.",
+      "concreteVisual": "Julia alone, worried, shoulders low.",
+      "onScreenText": "A time you felt insecure",
+      "relationToPrevious": "Turns to the listener.",
+      "addedInformation": "weak: a feeling, shown as a face."
+    },
+    "set": "street",
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "slump"
+  },
+  {
+    "i": 39,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Guarding looks like cruelty",
+      "style": "highlight"
+    },
+    "explainedBy": "Both guard themselves with a shield, and the guarding looks like cruelty; neither gives grace.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Guarding looks like cruelty.",
+      "concreteVisual": "Julia and Damen standing stiffly apart, both angry, a shield between them.",
+      "onScreenText": "Guarding looks like cruelty",
+      "relationToPrevious": "Back to the pair; adds the shield.",
+      "addedInformation": "Protection as the root of the coldness."
+    },
+    "set": "street",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "partnerExpression": "angry"
+  },
+  {
+    "i": 40,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Lowering your guard",
+      "style": "highlight"
+    },
+    "explainedBy": "Grace requires lowering the guard; they will not.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Grace requires lowering your guard.",
+      "concreteVisual": "Same two behind the shield, faces tense, neither moves.",
+      "onScreenText": "Lowering your guard",
+      "relationToPrevious": "Same stage; the point is what grace requires.",
+      "addedInformation": "The cost of grace."
+    },
+    "continue": true,
+    "set": "street",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "smirk"
+  },
+  {
+    "i": 41,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Grace",
+        "Their humanity",
+        "Your vulnerability"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "Grace means acknowledging the other's humanity, hence your own vulnerability.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Grace leads to acknowledging your own vulnerability.",
+      "concreteVisual": "A flow: grace to the other's humanity to your own vulnerability.",
+      "onScreenText": "Grace / Their humanity / Your vulnerability",
+      "relationToPrevious": "New diagram for the chain.",
+      "addedInformation": "The cause chain in order."
+    },
+    "cast": []
+  },
+  {
+    "i": 42,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Show grace",
+        "Open a channel",
+        "Connection"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "If you show grace you open a channel and invite connection.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Grace opens a channel to connection.",
+      "concreteVisual": "A flow: show grace, open a channel, connection.",
+      "onScreenText": "Show grace / Open a channel / Connection",
+      "relationToPrevious": "Next step of the same argument.",
+      "addedInformation": "Grace to connection."
+    },
+    "cast": []
+  },
+  {
+    "i": 43,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "A plate of risotto",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen sits at the family table staring at a plate of risotto.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen sits before the risotto plate.",
+      "concreteVisual": "Damen seated in a room, a plate icon, sad face.",
+      "onScreenText": "Risotto",
+      "relationToPrevious": "Moves to the prologue.",
+      "addedInformation": "The setting of his grief."
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "sad",
+    "action": "sit"
+  },
+  {
+    "i": 44,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "Remy hated risotto",
+      "style": "highlight"
+    },
+    "explainedBy": "Uncle Remy hated risotto; Damen zones out choking on grief.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen grieves for the man who understood him.",
+      "concreteVisual": "Same seated Damen, blank stare at the plate.",
+      "onScreenText": "Uncle Remy hated risotto",
+      "relationToPrevious": "Same table; grief shows.",
+      "addedInformation": "The grief behind the detail."
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "blank",
+    "action": "idle"
+  },
+  {
+    "i": 45,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "Financial optics",
+      "style": "highlight"
+    },
+    "explainedBy": "His parents bicker about balls and financial optics while Damen sits there.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His parents bicker and ignore him.",
+      "concreteVisual": "Damen still seated, face closed, plate in front.",
+      "onScreenText": "Financial optics",
+      "relationToPrevious": "Same table; the parents' oblivion.",
+      "addedInformation": "weak: parents are not drawn."
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "blank",
+    "action": "talk"
+  },
+  {
+    "i": 46,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "The congenial smile",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen offers polite sarcastic compliance, a congenial smile.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He smiles the congenial smile of an affable son (forced).",
+      "concreteVisual": "Damen seated with a forced smile.",
+      "onScreenText": "The congenial smile",
+      "relationToPrevious": "Same table; the face changes to a forced smile.",
+      "addedInformation": "The mask over grief."
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "happy",
+    "action": "idle"
+  },
+  {
+    "i": 47,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "A wall of sarcasm",
+      "style": "highlight"
+    },
+    "explainedBy": "Sarcasm is a wall protecting grief from parents who call Remy demented.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He builds a wall of sarcasm to protect his grief.",
+      "concreteVisual": "Damen smirking with a mask icon.",
+      "onScreenText": "A wall of sarcasm",
+      "relationToPrevious": "Same Damen; new icon for the pretense.",
+      "addedInformation": "The pretense protects grief."
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "idle"
+  },
+  {
+    "i": 48,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Dining room table",
+        "Cruelty to Julia"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "The dining-room table cruelty extends to the street: cause then effect.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cruelty on the street extends from the dining table.",
+      "concreteVisual": "A flow: dining room table to cruelty to Julia.",
+      "onScreenText": "Dining table / Cruelty to Julia",
+      "relationToPrevious": "Links prologue to street.",
+      "addedInformation": "The cause chain."
+    },
+    "cast": []
+  },
+  {
+    "i": 49,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Grief will drown him",
+      "style": "highlight"
+    },
+    "explainedBy": "He keeps the world at arm's length or the grief will drown him; the host pushes back.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He holds everyone back to stop grief drowning him.",
+      "concreteVisual": "Damen afraid, shield up.",
+      "onScreenText": "Grief will drown him",
+      "relationToPrevious": "Back to Damen alone.",
+      "addedInformation": "His fear of letting anyone in."
+    },
+    "set": "street",
+    "cast": [
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "idle"
+  },
+  {
+    "i": 50,
+    "concept": "inheritance",
+    "diagram": null,
+    "callout": {
+      "text": "Family's wealth",
+      "style": "highlight"
+    },
+    "explainedBy": "The second host claims Julia threatens his family's wealth and legacy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia is a threat to his family's wealth.",
+      "concreteVisual": "Damen angry beside an inheritance icon.",
+      "onScreenText": "Threat to his family's wealth",
+      "relationToPrevious": "The counter-reading begins.",
+      "addedInformation": "The rival claim."
+    },
+    "set": "street",
+    "cast": [
+      "damen"
+    ],
+    "expression": "angry",
+    "action": "point"
+  },
+  {
+    "i": 51,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "Framed as fraudsters",
+      "style": "highlight"
+    },
+    "explainedBy": "Her father frames her family as manipulative fraudsters.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her family is framed as fraudsters.",
+      "concreteVisual": "Julia worried with a mask icon.",
+      "onScreenText": "Manipulative fraudsters",
+      "relationToPrevious": "Same argument; what the father said.",
+      "addedInformation": "How her family is cast."
+    },
+    "set": "street",
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "idle"
+  },
+  {
+    "i": 52,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Protecting his territory",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen protects his territory, the primitive reading.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen is protecting his territory.",
+      "concreteVisual": "Damen smirking, a shield icon beside him.",
+      "onScreenText": "Protecting his territory",
+      "relationToPrevious": "Closes the first reading.",
+      "addedInformation": "The territory reading."
+    },
+    "set": "street",
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "idle"
+  },
+  {
+    "i": 53,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Doesn't care about money",
+      "style": "highlight"
+    },
+    "explainedBy": "The other host disagrees: Damen says he does not care about the money.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He does not care about the money.",
+      "concreteVisual": "Damen with a blank, unbothered face.",
+      "onScreenText": "Doesn't care about the money",
+      "relationToPrevious": "Rebuts the territory reading.",
+      "addedInformation": "The rejecting claim."
+    },
+    "set": "street",
+    "cast": [
+      "damen"
+    ],
+    "expression": "blank",
+    "action": "idle"
+  },
+  {
+    "i": 54,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A disruptor",
+      "style": "highlight"
+    },
+    "explainedBy": "He is a jerk because he sees she is a disruptor, not because of a bank account.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen recognizes Julia as a disruptor.",
+      "concreteVisual": "Damen facing Julia, worried, she stands still.",
+      "onScreenText": "A disruptor",
+      "relationToPrevious": "Back to the pair.",
+      "addedInformation": "What he sees in her."
+    },
+    "set": "street",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 55,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Julia",
+        "Disruptor",
+        "Emotional stasis"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "She disrupts his emotional stasis.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia disrupts his emotional stasis.",
+      "concreteVisual": "A flow: Julia, disruptor, emotional stasis.",
+      "onScreenText": "Julia / Disruptor / Emotional stasis",
+      "relationToPrevious": "Answers 'disruptor to what'.",
+      "addedInformation": "What she disrupts."
+    },
+    "cast": []
+  },
+  {
+    "i": 56,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A shock of reality",
+      "style": "highlight"
+    },
+    "explainedBy": "Messy, bruised Julia with her ugly wallet is a shock of reality in his curated numb life.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia is a shock of reality.",
+      "concreteVisual": "Julia holding the wallet, sad, bruised.",
+      "onScreenText": "A shock of reality",
+      "relationToPrevious": "Back to Julia herself.",
+      "addedInformation": "Why she is a shock."
+    },
+    "set": "street",
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "wallet"
+  },
+  {
+    "i": 57,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Julia",
+        "Threatens numbness",
+        "His pain"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "She threatens the numbness that keeps him from his pain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia threatens his numbness.",
+      "concreteVisual": "A flow: Julia, threatens numbness, feeling his pain.",
+      "onScreenText": "Julia / Threatens numbness / His pain",
+      "relationToPrevious": "Chain step.",
+      "addedInformation": "The cause chain."
+    },
+    "cast": []
+  },
+  {
+    "i": 58,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Makes him feel things",
+      "style": "highlight"
+    },
+    "explainedBy": "Her existence makes him feel; that terrifies him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her existence makes him feel things.",
+      "concreteVisual": "Damen afraid.",
+      "onScreenText": "Makes him feel things",
+      "relationToPrevious": "Result of the chain.",
+      "addedInformation": "His terror."
+    },
+    "set": "street",
+    "cast": [
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "idle"
+  },
+  {
+    "i": 59,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Standing rigidly upright",
+      "style": "highlight"
+    },
+    "explainedBy": "Both stand rigidly upright on the sidewalk, heels dug in.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Both stand rigid, heels dug in.",
+      "concreteVisual": "Julia and Damen upright and stiff.",
+      "onScreenText": "Standing rigidly upright",
+      "relationToPrevious": "The recurring image.",
+      "addedInformation": "Their stance."
+    },
+    "set": "street",
+    "shotOverride": "wide",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "partnerExpression": "angry"
+  },
+  {
+    "i": 60,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Refusing the fall",
+      "style": "highlight"
+    },
+    "explainedBy": "Neither tips forward; they refuse the vulnerability of the fall.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Neither will tip forward.",
+      "concreteVisual": "Same two, still rigid, worried faces.",
+      "onScreenText": "Refusing the fall",
+      "relationToPrevious": "Same stance continues.",
+      "addedInformation": "What the stance means."
+    },
+    "continue": true,
+    "set": "street",
+    "shotOverride": "wide",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried"
+  },
+  {
+    "i": 61,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Bridge the gap",
+      "style": "highlight"
+    },
+    "explainedBy": "One finally tries to bridge the gap but does it wrong.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "One tries to bridge the gap.",
+      "concreteVisual": "Damen walks toward Julia.",
+      "onScreenText": "Bridge the gap",
+      "relationToPrevious": "Moves on from the sidewalk.",
+      "addedInformation": "The attempt."
+    },
+    "set": "street",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "partnerExpression": "worried"
+  },
+  {
+    "i": 62,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "Tutoring Julia in math",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen is assigned to tutor Julia in math and decides to leverage it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen is assigned to tutor Julia.",
+      "concreteVisual": "Classroom, Damen smirking with a book, Julia beside him.",
+      "onScreenText": "Tutoring Julia in math",
+      "relationToPrevious": "New scene.",
+      "addedInformation": "The tutoring setup."
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 63,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "Curls tickling her nose",
+      "style": "highlight"
+    },
+    "explainedBy": "He leans in so close his curls tickle her nose.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen leans in close.",
+      "concreteVisual": "Close two-shot, Damen leaning toward uneasy Julia.",
+      "onScreenText": "Curls tickling her nose",
+      "relationToPrevious": "Same scene, nearer.",
+      "addedInformation": "The closeness."
+    },
+    "continue": true,
+    "set": "classroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried"
+  },
+  {
+    "i": 64,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "We'll see.",
+      "style": "highlight"
+    },
+    "explainedBy": "He offers a second loaf of bread and whispers 'We'll see.'",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He offers bread and whispers 'We'll see.'",
+      "concreteVisual": "Damen smirking, talking toward worried Julia; a plate icon.",
+      "onScreenText": "We'll see.",
+      "relationToPrevious": "Continues the tutoring, adds the bread.",
+      "addedInformation": "The whispered line."
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried"
+  },
+  {
+    "i": 65,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "An unnamed favor",
+      "style": "highlight"
+    },
+    "explainedBy": "He demands an unnamed favor in exchange for help, invading her space.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He demands an unnamed favor.",
+      "concreteVisual": "Same pair; Damen leaning toward her, she leaning back.",
+      "onScreenText": "An unnamed favor",
+      "relationToPrevious": "Same moment.",
+      "addedInformation": "The deal."
+    },
+    "continue": true,
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "partnerExpression": "afraid"
+  },
+  {
+    "i": 66,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Julia's power",
+        "Damen's power"
+      ],
+      "values": [
+        1
+      ]
+    },
+    "callout": null,
+    "explainedBy": "In this setup he holds 100% of the power.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He holds all the power.",
+      "concreteVisual": "A spectrum with the marker at his side.",
+      "onScreenText": "Julia / Damen",
+      "relationToPrevious": "The mechanics.",
+      "addedInformation": "Who holds power."
+    },
+    "cast": []
+  },
+  {
+    "i": 67,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Transactional intimacy",
+      "style": "highlight"
+    },
+    "explainedBy": "The hosts name it transactional intimacy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Transactional intimacy.",
+      "concreteVisual": "Damen smirking, name given.",
+      "onScreenText": "Transactional intimacy",
+      "relationToPrevious": "Names the pattern.",
+      "addedInformation": "weak: a label."
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "talk"
+  }
+]

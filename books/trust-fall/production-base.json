@@ -1,0 +1,20 @@
+{
+  "productionBase": "efdad434ec98f052de105a8b9c2618ed208ba5ea",
+  "from": "origin/god-mode",
+  "at": "2026-10-30T16:01:49.328Z",
+  "worktree": "wt-book-trust-fall",
+  "previousProductionBase": "9e27acecfebd51a4dd3003dc5ba7e0fa73f8fdff",
+  "repin": {
+    "kind": "maintenance",
+    "approvedByOperator": true,
+    "reason": "Operator approved the narrow preview-ready.json record fix (2026-10-30 maintenance decision): only scripts/preview-ready.js changes; no render, storyboard, engine, mute, audio, VTT or quality change",
+    "scope": "technical files only (maintenance-upgrade.js)",
+    "files": 1
+  },
+  "pinHistory": [
+    {
+      "productionBase": "9e27acecfebd51a4dd3003dc5ba7e0fa73f8fdff",
+      "until": "2026-10-30T16:01:49.328Z"
+    }
+  ]
+}

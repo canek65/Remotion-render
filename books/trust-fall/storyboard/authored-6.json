@@ -1,0 +1,933 @@
+[
+  {
+    "i": 192,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE STONE FLOOR",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "explainedBy": "Julia lies broken on the floor after the fall.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia is broken on the stone floor.",
+      "concreteVisual": "Julia sprawled on the floor, eyes shut.",
+      "onScreenText": "THE STONE FLOOR",
+      "relationToPrevious": "Follows the freefall of the previous beat.",
+      "addedInformation": "The result of the fall: she is down."
+    },
+    "set": "room",
+    "expression": "sad",
+    "action": "collapsed"
+  },
+  {
+    "i": 193,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "BACK TO NEBRASKA",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "explainedBy": "Julia retreats home to Nebraska after the fallout.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "After the fallout she retreats to Nebraska.",
+      "concreteVisual": "Julia bowed beside a home icon.",
+      "onScreenText": "BACK TO NEBRASKA",
+      "relationToPrevious": "New place: home after New York.",
+      "addedInformation": "Names where she goes."
+    },
+    "set": "room",
+    "expression": "sad",
+    "action": "slump"
+  },
+  {
+    "i": 194,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TALK WITH HER EX",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "will"
+    ],
+    "explainedBy": "Julia and her ex Will have a pivotal conversation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia has a pivotal conversation with Will, who cheated on her.",
+      "concreteVisual": "Julia talking, Will facing her.",
+      "onScreenText": "A TALK WITH HER EX",
+      "relationToPrevious": "Introduces Will as the other speaker.",
+      "addedInformation": "Who Will is: the ex who cheated."
+    },
+    "set": "room",
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 195,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "JUST COMFORTABLE",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "julia"
+    ],
+    "explainedBy": "Will explains to Julia why he broke up with her: they were only comfortable.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will admits they were just comfortable.",
+      "concreteVisual": "Will talking, Julia listening.",
+      "onScreenText": "JUST COMFORTABLE",
+      "relationToPrevious": "Will now leads the exchange.",
+      "addedInformation": "His reason for the breakup."
+    },
+    "set": "room",
+    "expression": "sad",
+    "action": "talk",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 196,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PLANNED SINCE THEY WERE 10",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "julia"
+    ],
+    "explainedBy": "Will says their whole life was planned out for them since age ten.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Their life was planned out since they were 10.",
+      "concreteVisual": "Will talking, Julia listening.",
+      "onScreenText": "PLANNED SINCE THEY WERE 10",
+      "relationToPrevious": "Same conversation; his face turns uneasy.",
+      "addedInformation": "The quoted reason: destiny."
+    },
+    "set": "room",
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "continue": true
+  },
+  {
+    "i": 197,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A CORNER OF DESTINY",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "julia"
+    ],
+    "explainedBy": "Will felt backed into a corner of destiny instead of making a choice.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He felt backed into a corner of destiny.",
+      "concreteVisual": "Will bowed and sad, Julia beside him.",
+      "onScreenText": "A CORNER OF DESTINY",
+      "relationToPrevious": "Same pair; his posture drops.",
+      "addedInformation": "The feeling of having no choice."
+    },
+    "set": "room",
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "neutral",
+    "continue": true
+  },
+  {
+    "i": 198,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Comfort without risk",
+        "Just a habit"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Comfort without risk leads to a habit, not love.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Comfort without risk is not love, just a habit.",
+      "concreteVisual": "A flow: Comfort without risk to Just a habit.",
+      "onScreenText": "COMFORT WITHOUT RISK, JUST A HABIT",
+      "relationToPrevious": "Turns Will's quote into the thesis.",
+      "addedInformation": "The cause and effect of the thesis."
+    }
+  },
+  {
+    "i": 199,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "0% CHANCE OF FALLING",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "julia"
+    ],
+    "explainedBy": "Two flat, blank faces: nothing can fall when you are already on the ground.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Their relationship had a 0% chance of falling.",
+      "concreteVisual": "Will and Julia standing flat, blank faces.",
+      "onScreenText": "0% CHANCE OF FALLING",
+      "relationToPrevious": "Back to the pair, now emptied of feeling.",
+      "addedInformation": "Shows the apathy of a risk-free bond."
+    },
+    "set": "room",
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "blank"
+  },
+  {
+    "i": 200,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "NO DANGER OF FALLING",
+      "style": "highlight"
+    },
+    "cast": [
+      "will"
+    ],
+    "explainedBy": "Flat safe ground with no edge: no danger of falling, so the bond is already dead.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A relationship with no danger of falling is already dead.",
+      "concreteVisual": "Will alone, bowed.",
+      "onScreenText": "NO DANGER OF FALLING",
+      "relationToPrevious": "Narrows to Will realizing it.",
+      "addedInformation": "His recognition."
+    },
+    "set": "room",
+    "expression": "blank",
+    "action": "slump"
+  },
+  {
+    "i": 201,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHEATED WITH HANNAH",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "julia"
+    ],
+    "explainedBy": "The host calls Will a coward who cheated on Julia to break the stasis.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will took the coward's way out and cheated with Hannah.",
+      "concreteVisual": "Will afraid, Julia hurt beside him.",
+      "onScreenText": "CHEATED WITH HANNAH",
+      "relationToPrevious": "Opens the host's disagreement.",
+      "addedInformation": "The accusation against Will."
+    },
+    "set": "room",
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "slump"
+  },
+  {
+    "i": 202,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MOST EMOTIONAL MATURITY",
+      "style": "highlight"
+    },
+    "cast": [
+      "will"
+    ],
+    "explainedBy": "The other host argues Will shows the most maturity of any male character.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will displays the most emotional maturity.",
+      "concreteVisual": "Will alone, talking.",
+      "onScreenText": "MOST EMOTIONAL MATURITY",
+      "relationToPrevious": "Counter-argument to the coward claim.",
+      "addedInformation": "The disagreement."
+    },
+    "set": "room",
+    "expression": "neutral",
+    "action": "talk"
+  },
+  {
+    "i": 203,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MORE MATURE THAN DAMIAN",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "damen"
+    ],
+    "explainedBy": "Will is compared with Damen as the more mature one.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cheating ex is more mature than Damian.",
+      "concreteVisual": "Will beside Damen, who looks uneasy.",
+      "onScreenText": "MORE MATURE THAN DAMIAN",
+      "relationToPrevious": "Compares the two men.",
+      "addedInformation": "The surprising comparison."
+    },
+    "set": "room",
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "worried"
+  },
+  {
+    "i": 204,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PLAYING BOTH SIDES",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "explainedBy": "Damen keeps his family wealth and the girl, playing both sides.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damian wants his family wealth and the girl.",
+      "concreteVisual": "Damen smirking with a wallet.",
+      "onScreenText": "PLAYING BOTH SIDES",
+      "relationToPrevious": "Back to Damen as the contrast.",
+      "addedInformation": "His double game."
+    },
+    "set": "room",
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "wallet"
+  },
+  {
+    "i": 205,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "RATHER THAN FAKE IT",
+      "style": "highlight"
+    },
+    "cast": [
+      "will"
+    ],
+    "explainedBy": "Will ended a decade-long relationship rather than fake it behind a picket fence.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will had the guts to end a comfortable illusion.",
+      "concreteVisual": "Will beside a home icon.",
+      "onScreenText": "RATHER THAN FAKE IT",
+      "relationToPrevious": "Returns to Will after Damen.",
+      "addedInformation": "Why Will ended it."
+    },
+    "set": "room",
+    "expression": "neutral",
+    "action": "talk"
+  },
+  {
+    "i": 206,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Destiny removed choice",
+        "No trust"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Destiny removed choice, and without choice there is no trust.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Destiny removed choice; no choice to fall, no trust.",
+      "concreteVisual": "A flow from Destiny removed choice to No trust.",
+      "onScreenText": "DESTINY REMOVED CHOICE, NO TRUST",
+      "relationToPrevious": "Summarizes Will's argument.",
+      "addedInformation": "The cause and effect."
+    }
+  },
+  {
+    "i": 207,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DESTINY REMOVING CHOICE",
+      "style": "highlight"
+    },
+    "cast": [
+      "will"
+    ],
+    "explainedBy": "The host concedes the point about destiny.",
+    "noVisual": "A host conceding a point is commentary; nothing in the vocabulary shows it.",
+    "storyboard": {
+      "claim": "The point about destiny removing choice is strong.",
+      "concreteVisual": "Will standing neutral.",
+      "onScreenText": "DESTINY REMOVING CHOICE",
+      "relationToPrevious": "The other host concedes.",
+      "addedInformation": "Agreement, no new event."
+    },
+    "set": "room",
+    "expression": "neutral",
+    "action": "idle"
+  },
+  {
+    "i": 208,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TALKING TO LAUREN",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "explainedBy": "Julia later talks with her friend Lauren about Damian.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia talks to her friend Lauren about Damian.",
+      "concreteVisual": "Julia talking.",
+      "onScreenText": "TALKING TO LAUREN",
+      "relationToPrevious": "Moves to Julia later.",
+      "addedInformation": "Who she confides in."
+    },
+    "set": "room",
+    "expression": "neutral",
+    "action": "talk"
+  },
+  {
+    "i": 209,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ENTIRELY UNPREDICTABLE",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "Julia compares the boys and likes that Damen is unpredictable.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen is unpredictable, but she likes it.",
+      "concreteVisual": "Julia happy with Damen beside her.",
+      "onScreenText": "ENTIRELY UNPREDICTABLE",
+      "relationToPrevious": "Her comparison of the two boys.",
+      "addedInformation": "What she likes about Damen."
+    },
+    "set": "room",
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 210,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "FLAT SAFE SURFACE",
+        "EDGE OF THE CLIFF"
+      ],
+      "values": [
+        0.08
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Will sits at the flat, safe end of a scale whose other end is the cliff edge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will was a flat safe surface.",
+      "concreteVisual": "Spectrum from flat safe surface to edge of the cliff; marker at the flat end.",
+      "onScreenText": "FLAT SAFE SURFACE",
+      "relationToPrevious": "Opens the comparison.",
+      "addedInformation": "Places Will on the scale."
+    }
+  },
+  {
+    "i": 211,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "FLAT SAFE SURFACE",
+        "EDGE OF THE CLIFF"
+      ],
+      "values": [
+        0.92
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Damen sits at the terrifying edge; the marker moves to that end.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damian is the terrifying edge of the cliff.",
+      "concreteVisual": "Same spectrum; marker moves to the cliff edge.",
+      "onScreenText": "EDGE OF THE CLIFF",
+      "relationToPrevious": "Marker moves from Will to Damen.",
+      "addedInformation": "Places Damen on the scale."
+    },
+    "continue": true
+  },
+  {
+    "i": 212,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "THE DROP IS LETHAL",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "explainedBy": "Loving Damen takes bravery because the drop is lethal.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Loving Damian requires bravery; the drop is lethal.",
+      "concreteVisual": "Julia afraid at a ledge.",
+      "onScreenText": "THE DROP IS LETHAL",
+      "relationToPrevious": "Moves from the scale to what it costs her.",
+      "addedInformation": "The danger of loving Damen."
+    },
+    "set": "room",
+    "expression": "afraid",
+    "action": "idle"
+  },
+  {
+    "i": 213,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HE STRIPS AWAY SARCASM",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "explainedBy": "Damen drops his sarcasm and looks at Julia sincerely.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen strips away the sarcasm and looks into her eyes.",
+      "concreteVisual": "Damen facing Julia, earnest.",
+      "onScreenText": "HE STRIPS AWAY SARCASM",
+      "relationToPrevious": "Climax opens.",
+      "addedInformation": "His sincerity."
+    },
+    "set": "room",
+    "expression": "sad",
+    "action": "talk",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 214,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "YOU'RE JUST MY GIRL",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "explainedBy": "Damen drops arrogance, leverage and money and says she is his girl.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He strips away arrogance and money: \"you're just my girl\".",
+      "concreteVisual": "Same pair; Damen's face warms.",
+      "onScreenText": "YOU'RE JUST MY GIRL",
+      "relationToPrevious": "His face turns warm as he speaks.",
+      "addedInformation": "His plain declaration."
+    },
+    "set": "room",
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "continue": true
+  },
+  {
+    "i": 215,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ALL THE DATA",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "Julia has one breath to decide with all the data.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia must decide in a single breath.",
+      "concreteVisual": "Julia worried facing Damen.",
+      "onScreenText": "ALL THE DATA",
+      "relationToPrevious": "Switches to Julia as the decider.",
+      "addedInformation": "The weight of the choice."
+    },
+    "set": "room",
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 216,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FALLING HURTS",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "explainedBy": "Julia knows his family is toxic and she is still bruised.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She knows falling hurts; she is still bruised.",
+      "concreteVisual": "Julia bowed and sad.",
+      "onScreenText": "FALLING HURTS",
+      "relationToPrevious": "Lists what she knows.",
+      "addedInformation": "Her bruises."
+    },
+    "set": "room",
+    "expression": "sad",
+    "action": "slump"
+  },
+  {
+    "i": 217,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRUST YOU ONE MORE TIME",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "Julia decides to take a risk and trust Damen again.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She takes a risk and trusts him one more time.",
+      "concreteVisual": "Julia talking to Damen, hopeful.",
+      "onScreenText": "TRUST YOU ONE MORE TIME",
+      "relationToPrevious": "The decision itself.",
+      "addedInformation": "Her quoted choice."
+    },
+    "set": "room",
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 218,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NEVER 100% SURE",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "You can never be sure they will catch you.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You can never be 100% sure they will catch you.",
+      "concreteVisual": "Same pair; Julia afraid.",
+      "onScreenText": "NEVER 100% SURE",
+      "relationToPrevious": "Her face shifts from hope to fear.",
+      "addedInformation": "The uncertainty of trust."
+    },
+    "set": "room",
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "continue": true
+  },
+  {
+    "i": 219,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "GRAVITY IS STILL THERE",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "No promises or tearful apologies guarantee safety.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "No data, promises or apologies guarantee safety.",
+      "concreteVisual": "Damen apologizing, Julia uneasy.",
+      "onScreenText": "GRAVITY IS STILL THERE",
+      "relationToPrevious": "Damen apologizes; she stays uneasy.",
+      "addedInformation": "No guarantee."
+    },
+    "set": "room",
+    "expression": "worried",
+    "action": "slump",
+    "partnerExpression": "sad",
+    "partnerAction": "talk",
+    "continue": true
+  },
+  {
+    "i": 220,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "Choose to jump",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "explainedBy": "The core truth: choose to jump anyway, aware of the risk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Choose to jump anyway, fully aware of the risk.",
+      "concreteVisual": "Julia afraid at the ledge.",
+      "onScreenText": "JUMP ANYWAY",
+      "relationToPrevious": "Returns to the ledge image.",
+      "addedInformation": "The book's core claim."
+    },
+    "set": "room",
+    "expression": "afraid",
+    "action": "idle"
+  },
+  {
+    "i": 221,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "BEFORE THE STORY BEGINS",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The author primes the reader before the story begins.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Lynn Painter primes the reader before the story begins.",
+      "concreteVisual": "A book icon.",
+      "onScreenText": "BEFORE THE STORY BEGINS",
+      "relationToPrevious": "New topic: the book itself.",
+      "addedInformation": "Where the idea first appears."
+    }
+  },
+  {
+    "i": 222,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "A DEDICATION TO EMILY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The first dedication honors Emily, a real person.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The first dedication is to Emily, a real person who died.",
+      "concreteVisual": "A photo icon.",
+      "onScreenText": "A DEDICATION TO EMILY",
+      "relationToPrevious": "Opens the dedications.",
+      "addedInformation": "Who Emily was."
+    }
+  },
+  {
+    "i": 223,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "DEDICATED TO THE READER",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The second dedication is to the reader.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The second dedication is to the reader.",
+      "concreteVisual": "A book icon.",
+      "onScreenText": "DEDICATED TO THE READER",
+      "relationToPrevious": "Second of two dedications.",
+      "addedInformation": "The reader is addressed."
+    }
+  },
+  {
+    "i": 224,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THEY'RE ON THEIR WAY",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The dedication says people are on their way; you must jump to be found.",
+    "noVisual": "A quoted dedication has no person or object in the vocabulary.",
+    "storyboard": {
+      "claim": "Your people are on their way; you must jump to be found.",
+      "concreteVisual": "Only the quoted words on screen.",
+      "onScreenText": "THEY'RE ON THEIR WAY",
+      "relationToPrevious": "Quotes the second dedication.",
+      "addedInformation": "The dedication's promise."
+    }
+  },
+  {
+    "i": 225,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ALONE ON THE SIDEWALK",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "explainedBy": "Refuse to jump and you stay alone on the sidewalk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If you refuse to jump you stay alone on the sidewalk.",
+      "concreteVisual": "Julia alone on the street, bowed.",
+      "onScreenText": "ALONE ON THE SIDEWALK",
+      "relationToPrevious": "The image of refusing to jump.",
+      "addedInformation": "The cost of not jumping."
+    },
+    "set": "street",
+    "expression": "sad",
+    "action": "slump"
+  },
+  {
+    "i": 226,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TOO EASY ON DAMEN",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "The host thinks Julia let Damen off too easily.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia let Damen off way too easy.",
+      "concreteVisual": "Julia and a smirking Damen.",
+      "onScreenText": "TOO EASY ON DAMEN",
+      "relationToPrevious": "Opens the narrative objection.",
+      "addedInformation": "The objection."
+    },
+    "set": "room",
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "smirk"
+  },
+  {
+    "i": 227,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AFTER ONE EARNEST CONVERSATION",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "She shut him out, then took him back after one earnest conversation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She put him through it, then took him back quickly.",
+      "concreteVisual": "Julia angry, Damen bowed.",
+      "onScreenText": "AFTER ONE EARNEST CONVERSATION",
+      "relationToPrevious": "Same pair; she is hard, he is down.",
+      "addedInformation": "How fast she forgave."
+    },
+    "set": "room",
+    "expression": "angry",
+    "action": "talk",
+    "partnerExpression": "sad",
+    "partnerAction": "slump",
+    "continue": true
+  },
+  {
+    "i": 228,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "FRAUD LAWSUIT AGAINST HER PARENTS",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "His family sued her working-class parents for fraud.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A billionaire family launched a fraud lawsuit against her parents.",
+      "concreteVisual": "A law icon.",
+      "onScreenText": "FRAUD LAWSUIT AGAINST HER PARENTS",
+      "relationToPrevious": "Raises the stakes.",
+      "addedInformation": "What his family did."
+    }
+  },
+  {
+    "i": 229,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MAKE HIM GROVEL FOR MONTHS",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "explainedBy": "She should have made him grovel for months.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She should have made him grovel for months.",
+      "concreteVisual": "Julia pointing at a bowed Damen.",
+      "onScreenText": "MAKE HIM GROVEL FOR MONTHS",
+      "relationToPrevious": "Back to the pair after the stakes.",
+      "addedInformation": "The host's demand."
+    },
+    "set": "room",
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "sad",
+    "partnerAction": "slump"
+  }
+]

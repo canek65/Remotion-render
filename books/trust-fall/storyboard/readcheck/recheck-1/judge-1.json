@@ -1,0 +1,45 @@
+[
+ {
+  "id": "b001",
+  "narration": "These workingclass grocery store owners from the Midwest. Exactly. But there was a catch. They have to live in it for 6 months.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young woman in her early twenties",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "icon": "a house",
+   "words": "LIVE IN IT 6 MONTHS"
+  },
+  "viewerGuess": "A young woman is startled to learn she must live in a house for six months."
+ },
+ {
+  "id": "b002",
+  "narration": "Quinn literally operates on the philosophy that perception is reality. He is a master manipulator.",
+  "onScreen": {
+   "icon": "a theatre mask",
+   "words": "Master manipulator"
+  },
+  "viewerGuess": "The narrator describes someone as a master manipulator who plays roles and deceives others."
+ },
+ {
+  "id": "b003",
+  "narration": "If you look at the book's dual dedications, it's laid out right there on page one. Oh, I loved those. The first dedication is to Emily, a real person who passed away, described as the ultimate main character who had fire and cheated at Uno,",
+  "onScreen": {
+   "icon": "a book",
+   "words": "A DEDICATION TO EMILY"
+  },
+  "viewerGuess": "A book is dedicated to someone named Emily, and the dedication carries meaning."
+ },
+ {
+  "id": "b004",
+  "narration": "It asks a lot of the reader's capacity to compartmentalize. But perhaps that extreme pressure, that impossible legal and financial weight,",
+  "onScreen": {
+   "icon": "a courthouse / gavel",
+   "words": "Impossible legal weight"
+  },
+  "viewerGuess": "The narrator says the legal case or documents carry enormous, nearly insurmountable weight in court."
+ }
+]

@@ -1,0 +1,28 @@
+{
+  "slug": "trust-fall",
+  "hook": "WHO CATCHES WHO",
+  "at": "2026-10-30T15:59:39.886Z",
+  "variants": [
+    {
+      "letter": "A",
+      "file": "out/thumbnail-trust-fall.png",
+      "hookVisible": true,
+      "changedPct": 6.4,
+      "detail": "6.40% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "B",
+      "file": "out/thumbnail-trust-fall-b.png",
+      "hookVisible": true,
+      "changedPct": 9.66,
+      "detail": "9.66% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "C",
+      "file": "out/thumbnail-trust-fall-c.png",
+      "hookVisible": true,
+      "changedPct": 3.37,
+      "detail": "3.37% of pixels change with the hook (visible ≥ 0.8%)"
+    }
+  ]
+}

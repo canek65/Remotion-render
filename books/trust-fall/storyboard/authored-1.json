@@ -1,0 +1,802 @@
+[
+  {
+    "i": 0,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A FAKE SMILE",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "A smile can be faked: Julia wears a smile that is staged as a front.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A smile can be faked, a fall cannot.",
+      "concreteVisual": "Julia in a wide frame with a forced smile, talking.",
+      "onScreenText": "A FAKE SMILE",
+      "relationToPrevious": "Opens the book on faking.",
+      "addedInformation": "weak: a face carries the idea of faking; text names it."
+    }
+  },
+  {
+    "i": 1,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "FAKE A LAUGH",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "A mask over her smile: the laugh is a performance, not a feeling.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A laugh and even an apology can be faked.",
+      "concreteVisual": "Julia still wearing the stage smile, talking.",
+      "onScreenText": "FAKE A LAUGH",
+      "relationToPrevious": "Continues the list of things you can fake.",
+      "addedInformation": "weak: same face, new label."
+    }
+  },
+  {
+    "i": 2,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ARMS THERE TO CATCH YOU",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "falling",
+    "partnerExpression": "worried",
+    "partnerAction": "reach",
+    "explainedBy": "A person leans back into a fall and hopes the other person is there: Julia falls backward while Damen holds his arms out.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You lean back and hope the other person catches you.",
+      "concreteVisual": "Julia falling backward, afraid; Damen beside her with arms out.",
+      "onScreenText": "ARMS THERE TO CATCH YOU",
+      "relationToPrevious": "Switches from faking to the real trust fall.",
+      "addedInformation": "Shows the one who falls and the one who may catch."
+    }
+  },
+  {
+    "i": 3,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ON YOUR OWN TWO FEET",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The alternative to falling is staying planted alone: one figure standing stiff and alone.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Or you stay planted on your own feet, alone.",
+      "concreteVisual": "Julia standing alone, upright and tense.",
+      "onScreenText": "ON YOUR OWN TWO FEET",
+      "relationToPrevious": "The other branch of the choice: no one else on screen.",
+      "addedInformation": "Contrast with the previous beat: alone, no partner."
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BRACE FOR IMPACT",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The body is wired to brace the instant balance goes: an afraid, stiff figure braced.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Instinct hardwired to brace for impact, panic signals.",
+      "concreteVisual": "Julia afraid, rigid and braced.",
+      "onScreenText": "BRACE FOR IMPACT",
+      "relationToPrevious": "Gives the reason she stays planted.",
+      "addedInformation": "Fear face carries the panic signals."
+    }
+  },
+  {
+    "i": 5,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ARMS WANT TO SHOOT OUT",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "continue": true,
+    "explainedBy": "The body tenses: arms shoot out, knees bend, the figure braces.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Arms shoot out, knees bend, you tense up.",
+      "concreteVisual": "The same afraid Julia, now with her arms thrown out.",
+      "onScreenText": "ARMS WANT TO SHOOT OUT",
+      "relationToPrevious": "Same person; the face stays afraid, the arms now fly out.",
+      "addedInformation": "The body reaction shown as arms out."
+    }
+  },
+  {
+    "i": 6,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "THE ULTIMATE ACT OF ROMANCE",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "happy",
+    "action": "embrace",
+    "partnerExpression": "happy",
+    "actionCue": "trust",
+    "explainedBy": "Choosing not to brace and trusting someone to interrupt the fall: the one who lets go is caught in the other's arms.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Not bracing, trusting someone to catch you, is the ultimate act of romance.",
+      "concreteVisual": "Julia falling into Damen's arms, heart icon.",
+      "onScreenText": "THE ULTIMATE ACT OF ROMANCE",
+      "relationToPrevious": "The override of instinct: the catch arrives.",
+      "addedInformation": "Resolves the fall with the catch."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MECHANICS OF VULNERABILITY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "explainedBy": "The hosts name the lens of the deep dive: the hidden mechanics of vulnerability. No picture shows an abstract topic.",
+    "noVisual": "an abstract topic statement with no event or object in the vocabulary",
+    "storyboard": {
+      "claim": "Today's lens: the hidden mechanics of vulnerability.",
+      "concreteVisual": "Nobody on screen; the callout names the topic.",
+      "onScreenText": "MECHANICS OF VULNERABILITY",
+      "relationToPrevious": "New topic sentence.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "RISKS BEING SEEN",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "shotOverride": "twoShot",
+    "explainedBy": "A romance works only when each person risks being seen: two people face each other, both exposed and uneasy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Romance works only when each person risks being seen.",
+      "concreteVisual": "Julia and Damen facing each other, both worried.",
+      "onScreenText": "RISKS BEING SEEN",
+      "relationToPrevious": "Applies the lens to a couple.",
+      "addedInformation": "Two faces that are both exposed."
+    }
+  },
+  {
+    "i": 9,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRUST FALL",
+      "style": "reveal"
+    },
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "explainedBy": "The hosts name the book, Trust Fall, and the idea that you risk being seen before you are sure of the catch.",
+    "noVisual": "a book title is a name, nothing in the vocabulary draws it",
+    "storyboard": {
+      "claim": "They are discussing Lynn Painter's novel Trust Fall.",
+      "concreteVisual": "Nobody on screen; the title in the callout.",
+      "onScreenText": "TRUST FALL",
+      "relationToPrevious": "Names the book after the idea.",
+      "addedInformation": "weak: title card."
+    }
+  },
+  {
+    "i": 10,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PSYCHOLOGICAL BEDROCK",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "shield",
+    "partnerExpression": "worried",
+    "explainedBy": "Two guarded people, each carrying a shield as the story's safety net: Julia holds a shield with Damen beside her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We dig into the psychological bedrock of the story.",
+      "concreteVisual": "Julia holding a shield, Damen beside her, both guarded.",
+      "onScreenText": "PSYCHOLOGICAL BEDROCK",
+      "relationToPrevious": "Moves from the title to the two guarded people.",
+      "addedInformation": "The shield stands for the safety net."
+    }
+  },
+  {
+    "i": 11,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THEIR OWN SAFETY NETS",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "sad",
+    "action": "place",
+    "holds": "shield",
+    "partnerExpression": "worried",
+    "actionCue": "strip",
+    "continue": true,
+    "explainedBy": "The two systematically strip away their own safety nets: Julia sets the shield down.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Two guarded people strip away their own safety nets.",
+      "concreteVisual": "Julia sets the shield down in front of her, Damen watching.",
+      "onScreenText": "THEIR OWN SAFETY NETS",
+      "relationToPrevious": "Keeps the shield and shows it set aside.",
+      "addedInformation": "The shield is put down on the word strip."
+    }
+  },
+  {
+    "i": 12,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FALLING HURTS",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "shotOverride": "twoShot",
+    "explainedBy": "Two people try hard to stay upright because falling hurts: both stand stiff and afraid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Two people desperately try to remain upright, because falling hurts.",
+      "concreteVisual": "Julia and Damen both stiff and afraid.",
+      "onScreenText": "FALLING HURTS",
+      "relationToPrevious": "Back to the upright stance.",
+      "addedInformation": "Both afraid faces."
+    }
+  },
+  {
+    "i": 13,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "REASONS TO GUARD THEMSELVES",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "explainedBy": "Both have strong reasons to guard themselves: a shield icon between two uneasy people.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Both have incredible reasons to guard themselves.",
+      "concreteVisual": "Julia and Damen with a shield icon.",
+      "onScreenText": "REASONS TO GUARD THEMSELVES",
+      "relationToPrevious": "Introduces the two characters.",
+      "addedInformation": "Shield as guard."
+    }
+  },
+  {
+    "i": 14,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A NEBRASKA GIRL",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "set": "bedroom",
+    "explainedBy": "Julia is a Nebraska girl who was recently shattered: she stands bowed and sad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia, Nebraska girl, just shattered.",
+      "concreteVisual": "Julia alone, bowed and sad.",
+      "onScreenText": "A NEBRASKA GIRL",
+      "relationToPrevious": "First character introduced.",
+      "addedInformation": "Sad posture carries the shattered state."
+    }
+  },
+  {
+    "i": 15,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HAS BROKEN HER HEART",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "leave",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "actionCue": "moved on",
+    "explainedBy": "Will broke Julia's heart and moved on: Will walks off while Julia stands sad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her boyfriend Will broke her heart and immediately moved on.",
+      "concreteVisual": "Will walking away from Julia, who is sad.",
+      "onScreenText": "HAS BROKEN HER HEART",
+      "relationToPrevious": "Shows who did what to her.",
+      "addedInformation": "Will is the one who leaves."
+    }
+  },
+  {
+    "i": 16,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "INFERIORITY COMPLEX",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "shield",
+    "explainedBy": "Julia guards a broken heart and an inferiority complex: she holds a shield, sad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia guards her broken heart and an inferiority complex.",
+      "concreteVisual": "Julia holding a shield, sad.",
+      "onScreenText": "INFERIORITY COMPLEX",
+      "relationToPrevious": "Back to Julia alone after Will left.",
+      "addedInformation": "The shield shows guarding."
+    }
+  },
+  {
+    "i": 17,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHANTS A SHAKESPEARE QUOTE",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "holds": "book",
+    "explainedBy": "When pain creeps in, Julia chants a Shakespeare quote to block it: she speaks with a book in hand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She chants a Shakespeare quote to block the pain.",
+      "concreteVisual": "Julia speaking, a book in hand, sad.",
+      "onScreenText": "CHANTS A SHAKESPEARE QUOTE",
+      "relationToPrevious": "Shows the tactic after the shield.",
+      "addedInformation": "The book stands for Shakespeare."
+    }
+  },
+  {
+    "i": 18,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "JULIET IS THE SUN",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "blank",
+    "action": "talk",
+    "holds": "book",
+    "continue": true,
+    "explainedBy": "The quote is a mantra that works as a wall to stop herself from feeling: she keeps reciting it, face gone blank.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mantra is a wall that stops her from feeling.",
+      "concreteVisual": "The same Julia, still reciting, now blank.",
+      "onScreenText": "JULIET IS THE SUN",
+      "relationToPrevious": "Same stage; the face goes numb as the wall goes up.",
+      "addedInformation": "Blank face shows the stopped feeling."
+    }
+  },
+  {
+    "i": 19,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A VERBAL BRACE POSITION",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "explainedBy": "The mantra is a verbal brace position, like throwing hands up to protect her face; Damen stands at the far end.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A verbal brace position, hands up to protect the face.",
+      "concreteVisual": "Julia afraid and braced; Damen standing apart.",
+      "onScreenText": "A VERBAL BRACE POSITION",
+      "relationToPrevious": "Ties the mantra back to bracing.",
+      "addedInformation": "Damen is introduced as the opposite end."
+    }
+  },
+  {
+    "i": 20,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CUTTHROAT FINANCIAL EMPIRE",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "set": "office",
+    "explainedBy": "Damen is New York elite, heir to a cutthroat financial empire: a confident figure in an office.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen is a New York elite and heir to a financial empire.",
+      "concreteVisual": "Damen in a suit in an office, smirking.",
+      "onScreenText": "CUTTHROAT FINANCIAL EMPIRE",
+      "relationToPrevious": "Introduces the second guarded person.",
+      "addedInformation": "The suit and office say wealth."
+    }
+  },
+  {
+    "i": 21,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MOURNING UNCLE REMY",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Damen is mourning his uncle Remy, the one person who understood him: he stands bowed and sad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen grieves his uncle Remy.",
+      "concreteVisual": "Damen alone, bowed and sad.",
+      "onScreenText": "MOURNING UNCLE REMY",
+      "relationToPrevious": "Shows the grief beneath the empire.",
+      "addedInformation": "Sad posture carries the mourning."
+    }
+  },
+  {
+    "i": 22,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HIS DESIRE FOR FREEDOM",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "shield",
+    "explainedBy": "Damen guards his true self and his wish to escape his destiny: he holds a shield.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He guards his true self, his desire for freedom.",
+      "concreteVisual": "Damen holding a shield, sad.",
+      "onScreenText": "HIS DESIRE FOR FREEDOM",
+      "relationToPrevious": "Parallels Julia guarding her heart.",
+      "addedInformation": "Shield as guard."
+    }
+  },
+  {
+    "i": 23,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HIDING BEHIND ARROGANCE",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "mask",
+    "explainedBy": "Damen masks his terror with arrogance: he holds a mask and wears a smirk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Nebraska girl hides behind Shakespeare, the heir behind arrogance.",
+      "concreteVisual": "Damen smirking with a mask in hand.",
+      "onScreenText": "HIDING BEHIND ARROGANCE",
+      "relationToPrevious": "Shows the front over the guarded self.",
+      "addedInformation": "Mask as false face."
+    }
+  },
+  {
+    "i": 24,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE LATE UNCLE REMY",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "shotOverride": "twoShot",
+    "explainedBy": "Uncle Remy is the force that brings the two opposites together: Julia and Damen stand facing each other.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The late Uncle Remy forces the two together.",
+      "concreteVisual": "Julia and Damen side by side, uneasy.",
+      "onScreenText": "THE LATE UNCLE REMY",
+      "relationToPrevious": "Moves from separate guards to both together.",
+      "addedInformation": "weak: Remy himself is not drawn."
+    }
+  },
+  {
+    "i": 25,
+    "concept": "inheritance",
+    "diagram": null,
+    "callout": {
+      "text": "BYPASSES HIS BLOOD FAMILY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "explainedBy": "Remy leaves his will past his blood family: an inheritance icon alone.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Remy bypasses his blood family and the billionaire brother.",
+      "concreteVisual": "The inheritance icon, nobody on screen.",
+      "onScreenText": "BYPASSES HIS BLOOD FAMILY",
+      "relationToPrevious": "Starts the will.",
+      "addedInformation": "Inheritance reads as an estate left."
+    }
+  },
+  {
+    "i": 26,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "A FIVE-STORY MANSION",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "explainedBy": "He leaves the five-story mansion to Julia's family: a home icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A five-story upper west side mansion goes to Julia's family.",
+      "concreteVisual": "A house icon, nobody on screen.",
+      "onScreenText": "A FIVE-STORY MANSION",
+      "relationToPrevious": "The estate is the mansion.",
+      "addedInformation": "The object named: the house."
+    }
+  },
+  {
+    "i": 27,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "LIVE IN IT 6 MONTHS",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "explainedBy": "Julia stands surprised in the house they must live in.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Working-class grocers must live in it for 6 months.",
+      "concreteVisual": "Julia surprised, clock icon.",
+      "onScreenText": "LIVE IN IT 6 MONTHS",
+      "relationToPrevious": "Adds the condition to the inheritance.",
+      "addedInformation": "Clock for the deadline."
+    }
+  },
+  {
+    "i": 28,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ELITE GARDENWOOD ACADEMY",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "set": "classroom",
+    "explainedBy": "Julia must attend the hyper elite Gardenwood Academy: she stands uneasy in a classroom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia has to attend Gardenwood Academy.",
+      "concreteVisual": "Julia worried in a classroom.",
+      "onScreenText": "ELITE GARDENWOOD ACADEMY",
+      "relationToPrevious": "Second condition after the house.",
+      "addedInformation": "Classroom places the academy."
+    }
+  },
+  {
+    "i": 29,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "GATHER INTEL",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "explainedBy": "Damen is tasked with getting close to the new family to gather intel: he leans in toward Julia with a smirk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quinn tasks Damian with getting close to gather intel.",
+      "concreteVisual": "Damen talking and smirking toward Julia, who is neutral.",
+      "onScreenText": "GATHER INTEL",
+      "relationToPrevious": "Moves from the school to the plan.",
+      "addedInformation": "Two people, one with a motive."
+    }
+  },
+  {
+    "i": 30,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "GET THE HOUSE BACK",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "explainedBy": "The goal is to get the house back by any means: a home icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The goal is to get the house back by any means.",
+      "concreteVisual": "A house icon alone.",
+      "onScreenText": "GET THE HOUSE BACK",
+      "relationToPrevious": "States the aim.",
+      "addedInformation": "House as the target."
+    }
+  },
+  {
+    "i": 31,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HEAVY EMOTIONAL ARMOR",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "shield",
+    "partnerExpression": "neutral",
+    "explainedBy": "Two armored people pulled into the same orbit under false pretenses: Julia holds a shield, Damen beside her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Two people in heavy armor forced together under false pretenses.",
+      "concreteVisual": "Julia holding a shield next to Damen.",
+      "onScreenText": "HEAVY EMOTIONAL ARMOR",
+      "relationToPrevious": "Summarizes the setup.",
+      "addedInformation": "Shield as armor."
+    }
+  },
+  {
+    "i": 32,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "GRAVITY STARTS TO PULL",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "shield",
+    "partnerExpression": "worried",
+    "continue": true,
+    "explainedBy": "To see how they break out of the armor, look where gravity starts to pull: Julia keeps the shield, now afraid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We look at the moments where gravity starts to pull.",
+      "concreteVisual": "Julia afraid with the shield, Damen worried.",
+      "onScreenText": "GRAVITY STARTS TO PULL",
+      "relationToPrevious": "Same stage; the faces change as the pull begins.",
+      "addedInformation": "Faces show gravity starting."
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+ {
+  "id": "b001",
+  "narration": "It feels like closeness, but the safety net is completely intact, which means the simulation has to end for the romance to actually start.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "man in his mid-twenties",
+     "face": "neutral",
+     "body": "hold"
+    },
+    {
+     "looks": "young woman in her early twenties",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "classroom",
+   "words": "The safety net is intact"
+  },
+  "viewerGuess": "The narrator is explaining that a safeguard or support system is still in place, as a teacher and a student stand calmly in a classroom."
+ },
+ {
+  "id": "b002",
+  "narration": "There was no elevation. There was no risk. Will recognized that a relationship with no danger of falling is already dead.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "young man in his early twenties",
+     "face": "blank",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a house",
+   "place": "room",
+   "words": "NO DANGER OF FALLING"
+  },
+  "viewerGuess": "The narrator says a person is at home, slumped and numb, with no immediate danger of falling or collapse even though he looks defeated."
+ }
+]

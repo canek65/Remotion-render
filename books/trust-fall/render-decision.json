@@ -1,0 +1,2359 @@
+{
+  "note": "Operator render decisions. Written only by render.js --accept-quality-debt. Each binds to one config hash; BLOCK findings are never accepted.",
+  "decisions": [
+    {
+      "at": "2026-10-30T16:22:55.710Z",
+      "commit": "efdad434",
+      "configHash": "151776c942cf71f7",
+      "renderInputHash": "d01af6b27ab6e933",
+      "reason": "Operator accepted, for render input d01af6b27ab6e933 only: the 215 non-diagnostic REVIEW findings (182 strategy-requirement expectations and 33 unresolved strategies; 43 absence and 7 state gaps acknowledged, not resolved). Basis: sealed holdout run2 PASS (WRONG 0/30, DEAD 4/30, ADDS 23/30, EXPLAINS 2/30) on config 151776c9. BLOCK 0. Does not cover other books, other configs, new findings or BLOCK findings.",
+      "keys": [
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "a7ffb0413ddadc6c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'mask' is not grounded in this segment's narration"
+        },
+        {
+          "key": "4712d6c0d9f82d8b",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'lowAngle' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "418742bbee86e8ad",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'state' is not satisfied by the scene: no character carries one of the required expressions/emotions"
+        },
+        {
+          "key": "cc081f191ba130ac",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "4712d6c0d9f82d8b",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'lowAngle' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "feddd634a0aca306",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'inheritance' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "cc081f191ba130ac",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "cc081f191ba130ac",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "834db3bb2e707dc7",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'lowAngle' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "b20b834c842b3ac7",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'food' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "b20b834c842b3ac7",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'food' is not grounded in this segment's narration"
+        },
+        {
+          "key": "418742bbee86e8ad",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'state' is not satisfied by the scene: no character carries one of the required expressions/emotions"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "b20b834c842b3ac7",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'food' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "b20b834c842b3ac7",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'food' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "a7ffb0413ddadc6c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'mask' is not grounded in this segment's narration"
+        },
+        {
+          "key": "418742bbee86e8ad",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'state' is not satisfied by the scene: no character carries one of the required expressions/emotions"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "feddd634a0aca306",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'inheritance' is not grounded in this segment's narration"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "29243a2c671255bf",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'law' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50b2a9108bf7fece",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'book' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50b2a9108bf7fece",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'book' is not grounded in this segment's narration"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "b20b834c842b3ac7",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'food' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "b20b834c842b3ac7",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'food' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "87c15badddb741d1",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'diorama' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "418742bbee86e8ad",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'state' is not satisfied by the scene: no character carries one of the required expressions/emotions"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8c8f585387814108",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'city' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "bdf6007f7c941f2d",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'balance' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8c8f585387814108",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'city' is not grounded in this segment's narration"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8c8f585387814108",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'city' is not grounded in this segment's narration"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "a689a1c3af721ff9",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'storm' is not grounded in this segment's narration"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "a689a1c3af721ff9",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'storm' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "8c8f585387814108",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'city' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "861af7135750aeab",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "1da4a2bf2eac810b",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'trellis' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "418742bbee86e8ad",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'state' is not satisfied by the scene: no character carries one of the required expressions/emotions"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "418742bbee86e8ad",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'state' is not satisfied by the scene: no character carries one of the required expressions/emotions"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "29243a2c671255bf",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'law' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "cc081f191ba130ac",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "bdf6007f7c941f2d",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'balance' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a7ffb0413ddadc6c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'mask' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "401ff5719c73f4e8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'home' is not grounded in this segment's narration"
+        },
+        {
+          "key": "418742bbee86e8ad",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'state' is not satisfied by the scene: no character carries one of the required expressions/emotions"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "cc081f191ba130ac",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50b2a9108bf7fece",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'book' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50b2a9108bf7fece",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'book' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "29243a2c671255bf",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'law' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "75f730a3195c52f2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "feddd634a0aca306",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'inheritance' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "29243a2c671255bf",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'law' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "bdf6007f7c941f2d",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'balance' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "06f7e709ad6e5c96",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'heart' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "29243a2c671255bf",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'law' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "75f730a3195c52f2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "29243a2c671255bf",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'law' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "8dac0bc3ec1d322c",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'ledge' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "slug": "trust-fall",
+  "title": "Trust Fall",
+  "author": "Lynn Painter",
+  "genre": "romance",
+  "engine": "antidote",
+  "primaryKeyword": "Trust Fall Lynn Painter summary",
+  "titles": [
+    "Trust Fall by Lynn Painter Summary: The Ultimate Fall Was Damen's",
+    "Trust Fall Explained: Why the Romance Only Works if You Risk Being Seen",
+    "Lynn Painter's Trust Fall Analysis: Damen's Fall, Not Julia's",
+    "Trust Fall Review: Why Julia Trusts a Man Hanging From a Trellis",
+    "Trust Fall Lynn Painter Ending Explained: Not Only Julia's Broken Heart"
+  ],
+  "titleAngles": [
+    {
+      "kind": "myth",
+      "myth": "the trust fall in this romance is Julia's to take",
+      "book": "Trust Fall",
+      "quote": "the ultimate trust fall wasn't hers. It was Damian's."
+    },
+    {
+      "kind": "myth",
+      "myth": "the story is only about Julia's broken heart and her guard",
+      "book": "Trust Fall",
+      "quote": "Julia is guarding this deeply broken heart"
+    }
+  ],
+  "description": "A romance only works when each person risks being seen before they are sure the other will catch them. That is the argument this breakdown of Trust Fall by Lynn Painter sets out to prove.\n\nWe follow Julia, a Nebraska woman whose long relationship has just ended, and Damen, the New York heir whose family is fighting over money and reputation. The story turns on one scene: Damen hanging from the white lattice trellis outside Julia's childhood home in the rain, dropping his guard to ask, \"I wasn't ready yet, Jules. Were you?\"\n\nWe also test the book's weakest point, where the romance strains and a reader can push back.\n\nChapters:\n0:00 Cold open: You cannot fake a fall\n2:30 Julia's broken heart and her Shakespeare mantra\n6:00 Julia's Nebraska home and the six-month catch\n10:00 Damen engineers a connection\n14:00 Damen steps in\n18:00 The New York power game\n22:00 Two guarded people, one trust fall\n26:00 The warm ballroom and the cold stone wall\n30:00 Will and the decade-long relationship that ended\n34:00 Bravery, honesty and the final risk\n36:20 The ultimate trust fall: the counterpoint and the payoff\n\nSubscribe for more book breakdowns.",
+  "tags": [
+    "Trust Fall summary",
+    "Trust Fall explained",
+    "Trust Fall analysis",
+    "Trust Fall Lynn Painter",
+    "Lynn Painter",
+    "Lynn Painter books",
+    "Trust Fall ending explained",
+    "Trust Fall themes",
+    "Trust Fall characters",
+    "Trust Fall book review",
+    "contemporary romance",
+    "romance books",
+    "book summary",
+    "book analysis",
+    "book club"
+  ],
+  "hashtags": [
+    "#TrustFall",
+    "#LynnPainter",
+    "#BookSummary",
+    "#Romance",
+    "#BookTube"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "label": "Cold open: You cannot fake a fall"
+    },
+    {
+      "t": 150,
+      "label": "Julia's broken heart and her Shakespeare mantra"
+    },
+    {
+      "t": 360,
+      "label": "Julia's Nebraska home and the six-month catch"
+    },
+    {
+      "t": 600,
+      "label": "Damen engineers a connection"
+    },
+    {
+      "t": 840,
+      "label": "Damen steps in"
+    },
+    {
+      "t": 1080,
+      "label": "The New York power game"
+    },
+    {
+      "t": 1320,
+      "label": "Two guarded people, one trust fall"
+    },
+    {
+      "t": 1560,
+      "label": "The warm ballroom and the cold stone wall"
+    },
+    {
+      "t": 1800,
+      "label": "Will and the decade-long relationship that ended"
+    },
+    {
+      "t": 2040,
+      "label": "Bravery, honesty and the final risk"
+    },
+    {
+      "t": 2180,
+      "label": "The ultimate trust fall: the counterpoint and the payoff"
+    }
+  ],
+  "thumbnail": {
+    "hook": "WHO CATCHES WHO",
+    "subject": "dramatic cinematic scene representing \"Trust Fall\", intense emotional character framed on right side with dark atmospheric lighting",
+    "layout": "cinematic-bleed",
+    "image": "scenes/trust-fall/thumbnail-hero.png",
+    "grammar": {
+      "layout": "scene-still",
+      "textPos": "left",
+      "type": "label",
+      "treatment": "color",
+      "accent": "red",
+      "sceneRank": 0
+    },
+    "variants": [
+      {
+        "layout": "scene-still",
+        "textPos": "left",
+        "type": "label",
+        "treatment": "color",
+        "accent": "red",
+        "sceneRank": 0
+      },
+      {
+        "layout": "text-poster",
+        "textPos": "bottom",
+        "type": "block",
+        "treatment": "color",
+        "accent": "gold"
+      },
+      {
+        "layout": "scene-still",
+        "textPos": "bottom",
+        "type": "editorial",
+        "treatment": "color",
+        "accent": "gold",
+        "sceneRank": 1
+      }
+    ]
+  },
+  "metaSource": "fallback",
+  "needsClaudeRefine": false,
+  "generatedAt": null
+}

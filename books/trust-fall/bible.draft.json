@@ -1,0 +1,473 @@
+{
+  "slug": "trust-fall",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "Then: node scripts/plan-bible.js --slug=trust-fall --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "trust-fall",
+    "world": {
+      "era": "post-apocalyptic sci-fi future",
+      "worldId": "",
+      "approxYear": 2350,
+      "setting": "",
+      "register": "",
+      "forbid": []
+    },
+    "visualProvenance": {
+      "bookId": "trust-fall",
+      "worldId": "",
+      "allowedMotifs": [],
+      "forbiddenMotifs": [],
+      "allowedCharacters": [],
+      "allowedLocations": [],
+      "allowedProps": []
+    },
+    "cast": {
+      "damian": {
+        "name": "Damian",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 16
+      },
+      "julia": {
+        "name": "Julia",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 12
+      },
+      "damen": {
+        "name": "Damen",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 7
+      },
+      "will": {
+        "name": "Will",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 4
+      },
+      "juliet": {
+        "name": "Juliet",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 3
+      },
+      "rutled": {
+        "name": "Rutled",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      }
+    },
+    "places": {
+      "street": {
+        "set": "street",
+        "look": "",
+        "mentions": 8
+      },
+      "manuscript": {
+        "set": "manuscript",
+        "look": "",
+        "mentions": 5
+      },
+      "bedroom": {
+        "set": "bedroom",
+        "look": "",
+        "mentions": 2
+      },
+      "shipDeck": {
+        "set": "shipDeck",
+        "look": "",
+        "mentions": 1
+      },
+      "colonnade": {
+        "set": "colonnade",
+        "look": "",
+        "mentions": 1
+      }
+    },
+    "objects": [
+      {
+        "concept": "family",
+        "mentions": 46,
+        "why": ""
+      },
+      {
+        "concept": "heart",
+        "mentions": 28,
+        "why": ""
+      },
+      {
+        "concept": "shield",
+        "mentions": 26,
+        "why": ""
+      },
+      {
+        "concept": "ledge",
+        "mentions": 19,
+        "why": ""
+      },
+      {
+        "concept": "coin",
+        "mentions": 12,
+        "why": ""
+      },
+      {
+        "concept": "phone",
+        "mentions": 10,
+        "why": ""
+      },
+      {
+        "concept": "storm",
+        "mentions": 10,
+        "why": ""
+      },
+      {
+        "concept": "law",
+        "mentions": 10,
+        "why": ""
+      },
+      {
+        "concept": "war",
+        "mentions": 8,
+        "why": ""
+      },
+      {
+        "concept": "gift",
+        "mentions": 6,
+        "why": ""
+      },
+      {
+        "concept": "inheritance",
+        "mentions": 5,
+        "why": ""
+      },
+      {
+        "concept": "home",
+        "mentions": 5,
+        "why": ""
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 10,
+        "claim": ""
+      },
+      {
+        "act": "development",
+        "fromFrame": 14765,
+        "claim": ""
+      },
+      {
+        "act": "turn",
+        "fromFrame": 28368,
+        "claim": ""
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 40730,
+        "claim": ""
+      },
+      {
+        "act": "close",
+        "fromFrame": 52932,
+        "claim": ""
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 510,
+    "cast": [
+      {
+        "name": "Damian",
+        "asSubject": 16,
+        "total": 41,
+        "samples": [
+          "Truly. But Damian is mourning.",
+          "Damian is fiercely guarding his true self, right?",
+          "Damian is standing over her, looking down with absolute disdain."
+        ]
+      },
+      {
+        "name": "Julia",
+        "asSubject": 12,
+        "total": 35,
+        "samples": [
+          "So, Julia is guarding this deeply broken heart, but she's also guarding a massive inferiority complex.",
+          "And Julia has to attend the hyper elite Gardenwood Academy, which sets off an absolute bomb in the Rutled family.",
+          "Picture this. Julia has just physically crashed into Damian on the street."
+        ]
+      },
+      {
+        "name": "Damen",
+        "asSubject": 7,
+        "total": 22,
+        "samples": [
+          "Damen is zoning out, actively choking on the grief of losing the one man who understood him.",
+          "I don't think it's just about Damen is acting like a jerk to Julia on the street, primarily because she represents a massive threat to his family's wealth and l",
+          "Yeah. Damen is being a jerk because he's protecting his territory."
+        ]
+      },
+      {
+        "name": "Will",
+        "asSubject": 4,
+        "total": 13,
+        "samples": [
+          "Will is such a cowardly high school ex, though.",
+          "Will is actually displaying the most emotional maturity of any male character in the book at this exact moment.",
+          "Will looked at a decade long relationship, saw that it was a comfortable zerorisk illusion, and he had the guts to end it rather than fake it for the next 50 ye"
+        ]
+      },
+      {
+        "name": "Juliet",
+        "asSubject": 3,
+        "total": 3,
+        "samples": [
+          "It is the east and Juliet is the sun.",
+          "It is the east and Juliet is the sun.",
+          "It is the east and Juliet is the sun."
+        ]
+      },
+      {
+        "name": "Rutled",
+        "asSubject": 2,
+        "total": 3,
+        "samples": [
+          "Quinn Rutled is simultaneously out in the hallway or the joining room executing the legal maneuver to destroy Julia's family, claiming they built Remy with deme",
+          "The trigger for this, of course, is that Quinn Rutled has just publicly humiliated Julia's parents."
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "street",
+        "mentions": 8,
+        "samples": [
+          "Picture this. Julia has just physically crashed into Damian on the street.",
+          "And he snears, \"Run along, honey.\" And this time, maybe look before you cross the street."
+        ]
+      },
+      {
+        "set": "manuscript",
+        "mentions": 5,
+        "samples": [
+          "He smiles what the text calls the congenial smile of an affable son.",
+          "Really, Damen explicitly notes in the text that he doesn't care about the money."
+        ]
+      },
+      {
+        "set": "bedroom",
+        "mentions": 2,
+        "samples": [
+          "So cold. Julia is in her childhood bedroom seeking refuge from the overwhelming reality of the New York inheritance and the looming lawsuit.",
+          "He hops on a plane, tracks down her childhood home, and literally scales the wall to peer into her private bedroom."
+        ]
+      },
+      {
+        "set": "shipDeck",
+        "mentions": 1,
+        "samples": [
+          "He thinks about how she doesn't have a steely presumption that you'd ultimately be at the helm of that mind-numbingly boring financial conglomerate un"
+        ]
+      },
+      {
+        "set": "colonnade",
+        "mentions": 1,
+        "samples": [
+          "She went to Nebraska to find a safe sanctuary."
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "family",
+        "mentions": 46,
+        "sample": "He is New York elite, the heir to a massive, cutthroat financial empire run by his toxic, moneyobsessed parents, Quinn and Toxic is almost a"
+      },
+      {
+        "concept": "heart",
+        "mentions": 28,
+        "sample": "Exactly. So, making the conscious choice not to brace, to let gravity take you and actively trust someone else to interrupt it, that is a co"
+      },
+      {
+        "concept": "shield",
+        "mentions": 26,
+        "sample": "And instead of just giving you, the listener a standard plot summary, we are going to dig into the psychological bedrock of this story to sh"
+      },
+      {
+        "concept": "ledge",
+        "mentions": 19,
+        "sample": "Really, you have two people who are desperately trying to remain upright because falling hurts."
+      },
+      {
+        "concept": "coin",
+        "mentions": 12,
+        "sample": "In a move of absolute chaotic brilliance, Uncle Remy bypasses his own blood family, bypasses the billionaire brother, and leaves a five-stor"
+      },
+      {
+        "concept": "phone",
+        "mentions": 10,
+        "sample": "He smiles what the text calls the congenial smile of an affable son."
+      },
+      {
+        "concept": "storm",
+        "mentions": 10,
+        "sample": "to truly drop his guard to execute a real trust fall, he has to completely strip away his geographical armor, which forces him to chase her "
+      },
+      {
+        "concept": "law",
+        "mentions": 10,
+        "sample": "So cold. Julia is in her childhood bedroom seeking refuge from the overwhelming reality of the New York inheritance and the looming lawsuit."
+      },
+      {
+        "concept": "war",
+        "mentions": 8,
+        "sample": "He isn't a foot soldier for his father's bank account.\" He is a jerk to Julia because the moment he sees her, he recognizes that she is a di"
+      },
+      {
+        "concept": "gift",
+        "mentions": 6,
+        "sample": "And instead of just giving you, the listener a standard plot summary, we are going to dig into the psychological bedrock of this story to sh"
+      },
+      {
+        "concept": "inheritance",
+        "mentions": 5,
+        "sample": "He is New York elite, the heir to a massive, cutthroat financial empire run by his toxic, moneyobsessed parents, Quinn and Toxic is almost a"
+      },
+      {
+        "concept": "home",
+        "mentions": 5,
+        "sample": "So gross. The goal is to get the house back by any means necessary."
+      }
+    ],
+    "openingLines": [
+      "You cannot fake a fall.",
+      "Like that is the absolute terrifying truth of the matter.",
+      "You can fake a smile.",
+      "You know, you can fake a laugh.",
+      "You can even fake a heartfelt apology if you're a good enough actor.",
+      "But gravity gravity does not negotiate."
+    ],
+    "closingLines": [
+      "He had to fall completely away from his family's toxic empire, his limitless inheritance, and his rigidly predetermined Ivy League identity.",
+      "He had to step off the precipice of his entire known universe, trusting that Julia's world, the messy, unpolished Nebraska reality, would be strong enough to catch him.",
+      "The true risk wasn't her losing her heart.",
+      "The true risk was him losing his entire world just to find it."
+    ]
+  }
+}

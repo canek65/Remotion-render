@@ -1,0 +1,4 @@
+[
+ {"id":"b001","correctness":"NEUTRAL","blame":"words","why":"The guess restates the on-screen words about a safeguard being intact but misses the closeness/romance and simulation-must-end meaning, since both faces are neutral and the classroom setting adds nothing."},
+ {"id":"b002","correctness":"WRONG","blame":"words","why":"The viewer read 'no danger of falling' literally as reassuring safety, missing that the lack of risk means the relationship is dead, and the slumped man plus house icon pushed it toward a defeated person at home."}
+]

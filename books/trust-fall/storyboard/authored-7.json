@@ -1,0 +1,602 @@
+[
+  {
+    "i": 230,
+    "concept": "inheritance",
+    "diagram": null,
+    "callout": {
+      "text": "Prove his loyalty",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen must prove loyalty and free himself from his father's empire: shown as Damen beside an inheritance icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He should prove loyalty and emancipate himself from his father's empire first.",
+      "concreteVisual": "Damen standing beside an inheritance icon.",
+      "onScreenText": "Prove his loyalty",
+      "relationToPrevious": "Opens the devil's-advocate demand after the grocery-store stakes.",
+      "addedInformation": "weak: the demand is carried partly by text"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "neutral",
+    "action": "idle"
+  },
+  {
+    "i": 231,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Forgiving him too quickly",
+      "style": "highlight"
+    },
+    "explainedBy": "The sentence is a feeling about Julia forgiving too fast: a worried, slumped Julia.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Forgiving him so fast feels like ignoring the concrete she just hit.",
+      "concreteVisual": "Julia worried and slumped, alone.",
+      "onScreenText": "Forgiving him too quickly",
+      "relationToPrevious": "Moves from the demand to its emotional objection.",
+      "addedInformation": "weak: feeling carried by face and text"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "slump"
+  },
+  {
+    "i": 232,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Padded with legal documents",
+      "style": "highlight"
+    },
+    "explainedBy": "The ground must be padded with legal documents before she jumps: Julia holds the papers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He demands the ground be padded with legal documents and months of graveling.",
+      "concreteVisual": "Julia holding notes (documents).",
+      "onScreenText": "Padded with legal documents",
+      "relationToPrevious": "Continues the safety-net demand with the documents as object.",
+      "addedInformation": "Names the safety net as paperwork"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes"
+  },
+  {
+    "i": 233,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "A fortress of resentment",
+      "style": "highlight"
+    },
+    "explainedBy": "Prolonged punishment is guarding yourself, a fortress of resentment: a shield with an angry Julia.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The leap needs immediate action; punishing for months is another way of guarding yourself.",
+      "concreteVisual": "Julia, angry, beside a shield icon.",
+      "onScreenText": "A fortress of resentment",
+      "relationToPrevious": "Answers the demand: the safety net is itself a defence.",
+      "addedInformation": "Shield names the guarding"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "angry",
+    "action": "hold"
+  },
+  {
+    "i": 234,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "I will trust you",
+      "style": "highlight"
+    },
+    "explainedBy": "Julia chooses to forgive in one breath, the ultimate bravery: a heart and a speaking Julia.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Choosing to say \"I will trust you one more time\" is the ultimate bravery.",
+      "concreteVisual": "Julia speaking with a heart icon.",
+      "onScreenText": "I will trust you",
+      "relationToPrevious": "Turns from resentment to the brave choice.",
+      "addedInformation": "Names the choice as trust"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "talk"
+  },
+  {
+    "i": 235,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "Chooses to trust",
+      "style": "highlight"
+    },
+    "explainedBy": "She feels the pull, remembers the hard ground and still chooses to trust: Julia afraid, reaching toward a ledge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She remembers how hard the ground is and consciously chooses to trust his arms.",
+      "concreteVisual": "Julia afraid, reaching toward a ledge icon.",
+      "onScreenText": "Chooses to trust",
+      "relationToPrevious": "Moves from the choice to the fear it overcomes.",
+      "addedInformation": "Fear plus the reach shows the fall"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "reach"
+  },
+  {
+    "i": 236,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "Messy legal reality",
+      "style": "highlight"
+    },
+    "explainedBy": "A romantic view set against a messy legal reality: a law icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The host calls that a romantic view of a messy legal reality.",
+      "concreteVisual": "Law icon alone.",
+      "onScreenText": "Messy legal reality",
+      "relationToPrevious": "Pushes back on the romantic reading.",
+      "addedInformation": "weak: icon and callout carry the objection"
+    },
+    "cast": []
+  },
+  {
+    "i": 237,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "One honest counterpoint",
+      "style": "highlight"
+    },
+    "explainedBy": "The hosts weigh praise against one honest criticism: a balance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "After the praise comes one honest counterpoint about the book.",
+      "concreteVisual": "Balance icon alone.",
+      "onScreenText": "One honest counterpoint",
+      "relationToPrevious": "Transitions into the criticism.",
+      "addedInformation": "weak: the criticism is only labelled"
+    },
+    "cast": []
+  },
+  {
+    "i": 238,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "Romance strains",
+      "style": "highlight"
+    },
+    "explainedBy": "The romance strains under the legal and financial plot: a worried Julia with a heart.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The romance strains under the weight of the legal and financial conspiracy.",
+      "concreteVisual": "Julia worried and slumped with a heart icon.",
+      "onScreenText": "Romance strains",
+      "relationToPrevious": "Names what strains.",
+      "addedInformation": "weak: a feeling carried by a face"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "slump"
+  },
+  {
+    "i": 239,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Forgiving Damian so quickly",
+      "style": "highlight"
+    },
+    "explainedBy": "Julia forgiving Damen while his family tries to ruin her parents: the two together, Julia troubled.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is hard to accept Julia forgiving Damian so fast when his family is bankrupting her parents.",
+      "concreteVisual": "Julia worried beside Damen.",
+      "onScreenText": "Forgiving Damian so quickly",
+      "relationToPrevious": "Applies the criticism to the pair.",
+      "addedInformation": "weak: the family threat is only said"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle"
+  },
+  {
+    "i": 240,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Scorched earth warfare",
+      "style": "highlight"
+    },
+    "explainedBy": "Not a misread text but scorched-earth warfare: a frightened Julia.",
+    "noVisual": "war icon forbidden by the bible and reads as literal combat; figurative warfare has no safe icon.",
+    "storyboard": {
+      "claim": "This is scorched-earth multi-million dollar warfare, not a misunderstanding.",
+      "concreteVisual": "Julia afraid, alone.",
+      "onScreenText": "Scorched earth warfare",
+      "relationToPrevious": "Raises the stakes against trivial conflicts.",
+      "addedInformation": "weak: no safe icon for the warfare"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "idle"
+  },
+  {
+    "i": 241,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "Malicious civil lawsuit",
+      "style": "highlight"
+    },
+    "explainedBy": "A malicious civil lawsuit alleging elder abuse and fraud: a law icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The lawsuit alleges elder abuse and fraud.",
+      "concreteVisual": "Law icon alone.",
+      "onScreenText": "Malicious civil lawsuit",
+      "relationToPrevious": "Names the concrete weapon of the warfare.",
+      "addedInformation": "Names the lawsuit"
+    },
+    "cast": []
+  },
+  {
+    "i": 242,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The boy you love",
+      "style": "highlight"
+    },
+    "explainedBy": "Can you untangle the boy you love from the family that raised and funds him: Damen alone, troubled.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Can you separate the boy you love from the crime-syndicate family that funds him?",
+      "concreteVisual": "Damen worried, alone.",
+      "onScreenText": "The boy you love",
+      "relationToPrevious": "Poses the question the book asks.",
+      "addedInformation": "weak: the entanglement is only said"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "hold"
+  },
+  {
+    "i": 243,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Suits bought by the enemy",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen wears suits bought by the man trying to ruin Julia's father: Damen holding a wallet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damian has good intentions but wears suits bought by the enemy.",
+      "concreteVisual": "Damen in his suit holding a wallet.",
+      "onScreenText": "Suits bought by the enemy",
+      "relationToPrevious": "Concrete example of the entanglement.",
+      "addedInformation": "Wallet shows the enemy's money"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "wallet"
+  },
+  {
+    "i": 244,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Damian's heart",
+        "Quinn's bank accounts"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "You must separate Damian's heart from Quinn's bank accounts: a sorter with the two buckets.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You have to separate Damian's heart from Quinn's bank accounts.",
+      "concreteVisual": "Sorter with two buckets.",
+      "onScreenText": "Damian's heart | Quinn's bank accounts",
+      "relationToPrevious": "Shows the separation the reader must accept.",
+      "addedInformation": "Two parts kept apart"
+    },
+    "cast": []
+  },
+  {
+    "i": 245,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "The fall feels perilous",
+      "style": "highlight"
+    },
+    "explainedBy": "The trust fall metaphor feels perilous in this one area: Julia beside the ledge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trust fall metaphor feels perilous because the two things are tied together.",
+      "concreteVisual": "Julia worried, reaching toward the ledge icon.",
+      "onScreenText": "The fall feels perilous",
+      "relationToPrevious": "Returns to the trust-fall image with a warning.",
+      "addedInformation": "Ledge links criticism to the metaphor"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "reach"
+  },
+  {
+    "i": 246,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Can he shield her",
+      "style": "highlight"
+    },
+    "explainedBy": "She is trusting Damian to shield her from ruthless corporate forces: Julia and Damen with a shield icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She trusts that Damian can shield her from corporate forces.",
+      "concreteVisual": "Julia worried beside Damen with a shield icon.",
+      "onScreenText": "Can he shield her",
+      "relationToPrevious": "Specifies what she is trusting him to do.",
+      "addedInformation": "Shield names the protection asked of him"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle"
+  },
+  {
+    "i": 247,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Fractures under the pressure",
+      "style": "highlight"
+    },
+    "explainedBy": "The central relationship fractures under outside pressure: both worried.",
+    "noVisual": "the crack icon reads as an abstract branching line; both worried faces and the callout carry it.",
+    "storyboard": {
+      "claim": "Too much external reality and the central relationship fractures.",
+      "concreteVisual": "Julia and Damen both worried.",
+      "onScreenText": "Fractures under the pressure",
+      "relationToPrevious": "Generalises the pressure on the pair.",
+      "addedInformation": "weak: no icon reads as a fracture"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "partnerExpression": "worried",
+    "partnerAction": "idle"
+  },
+  {
+    "i": 248,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "Impossible legal weight",
+      "style": "highlight"
+    },
+    "explainedBy": "Impossible legal and financial weight, falling on the pair.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The extreme pressure is an impossible legal and financial weight.",
+      "concreteVisual": "Boulder icon alone.",
+      "onScreenText": "Impossible legal weight",
+      "relationToPrevious": "Turns the pressure into the potent factor.",
+      "addedInformation": "Boulder shows a heavy burden"
+    },
+    "cast": []
+  },
+  {
+    "i": 249,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "Julia's trust fall",
+      "style": "highlight"
+    },
+    "explainedBy": "We have spent the whole time on Julia's trust fall: Julia beside a ledge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts recap Julia's trust fall and her Midwestern caution.",
+      "concreteVisual": "Julia talking beside a ledge icon.",
+      "onScreenText": "Julia's trust fall",
+      "relationToPrevious": "Opens the reframe by recapping the view so far.",
+      "addedInformation": "weak: recap only"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "talk"
+  },
+  {
+    "i": 250,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Armor and terror",
+      "style": "highlight"
+    },
+    "explainedBy": "Her armor and terror of hitting the concrete after Will dropped her: an afraid Julia with a shield.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her Shakespearean armor and her terror of hitting concrete after Will dropped her.",
+      "concreteVisual": "Julia afraid beside a shield.",
+      "onScreenText": "Armor and terror",
+      "relationToPrevious": "Lists what the trust fall was thought to be about.",
+      "addedInformation": "Shield stands for armor"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "idle"
+  },
+  {
+    "i": 251,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "Damian's trust fall",
+      "style": "reveal"
+    },
+    "explainedBy": "The ultimate trust fall was Damian's: Damen afraid at the ledge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ultimate trust fall was not hers but Damian's.",
+      "concreteVisual": "Damen afraid, reaching toward a ledge.",
+      "onScreenText": "Damian's trust fall",
+      "relationToPrevious": "Reverses who falls.",
+      "addedInformation": "Reveals the fall as his"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "reach"
+  },
+  {
+    "i": 252,
+    "concept": "inheritance",
+    "diagram": null,
+    "callout": {
+      "text": "Fall away from empire",
+      "style": "highlight"
+    },
+    "explainedBy": "He had to fall away from the toxic empire, inheritance and Ivy League identity: Damen leaving the inheritance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He had to fall away from the empire, inheritance and predetermined identity.",
+      "concreteVisual": "Damen walking away from an inheritance icon.",
+      "onScreenText": "Fall away from empire",
+      "relationToPrevious": "Says what he must give up.",
+      "addedInformation": "Walking away shows leaving"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "leave",
+    "actionCue": "fall completely away"
+  },
+  {
+    "i": 253,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "Step off the precipice",
+      "style": "highlight"
+    },
+    "explainedBy": "He steps off the precipice of his known universe, trusting Julia's world: Damen at the ledge, Julia beside.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He steps off the precipice trusting Julia's messy Nebraska reality.",
+      "concreteVisual": "Damen afraid at a ledge, Julia beside him.",
+      "onScreenText": "Step off the precipice",
+      "relationToPrevious": "Brings Julia into the picture as who he trusts.",
+      "addedInformation": "Julia shown as the one he trusts"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle"
+  },
+  {
+    "i": 254,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "Strong enough to catch him",
+      "style": "highlight"
+    },
+    "explainedBy": "Julia's world must be strong enough to catch him: Julia reaches while Damen stays at the ledge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her world would be strong enough to catch him.",
+      "concreteVisual": "Julia reaching toward Damen at the ledge.",
+      "onScreenText": "Strong enough to catch him",
+      "relationToPrevious": "Same stage: Julia now reaches.",
+      "addedInformation": "Julia's reach shows the catch"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "partnerExpression": "happy",
+    "partnerAction": "reach",
+    "continue": true
+  },
+  {
+    "i": 255,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Losing his entire world",
+      "style": "reveal"
+    },
+    "explainedBy": "The true risk was him losing his entire world: a worried, slumped Damen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The true risk was him losing his whole world to find it.",
+      "concreteVisual": "Damen worried and slumped.",
+      "onScreenText": "Losing his entire world",
+      "relationToPrevious": "Closes on the cost to Damen.",
+      "addedInformation": "weak: a feeling carried by face"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "slump"
+  }
+]

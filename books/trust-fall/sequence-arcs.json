@@ -1,0 +1,3267 @@
+{
+  "slug": "trust-fall",
+  "totalSequences": 90,
+  "totalScenes": 256,
+  "averageDurationSecs": 24.5,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "authored",
+      "fromFrame": 10,
+      "durationFrames": 391,
+      "durationSeconds": 13,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 10,
+          "durationFrames": 244,
+          "role": "authored-start",
+          "narration": "You cannot fake a fall. Like that is the absolute terrifying truth of the matter. You can fake a smi"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 254,
+          "durationFrames": 147,
+          "role": "authored-kept",
+          "narration": "You know, you can fake a laugh. You can even fake a heartfelt apology if you're a good enough actor."
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "engine",
+      "fromFrame": 401,
+      "durationFrames": 569,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 401,
+          "durationFrames": 341,
+          "role": "setup",
+          "narration": "But gravity gravity does not negotiate. No, it really doesn't. You either lean back and completely h"
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 742,
+          "durationFrames": 228,
+          "role": "reveal",
+          "narration": "stay planted safely on your own two feet entirely alone because our survival instincts are literally"
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "authored",
+      "fromFrame": 970,
+      "durationFrames": 566,
+      "durationSeconds": 18.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 970,
+          "durationFrames": 340,
+          "role": "authored-start",
+          "narration": "I mean, every biological imperative we have evolved over millions of years is it's hardwired to brac"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1310,
+          "durationFrames": 226,
+          "role": "authored-kept",
+          "narration": "Your arms want to shoot out. Your knees want to bend. Yeah. You physically tense up. Exactly. So, ma"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "engine",
+      "fromFrame": 1536,
+      "durationFrames": 1090,
+      "durationSeconds": 36.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1536,
+          "durationFrames": 319,
+          "role": "setup",
+          "narration": "to let gravity take you and actively trust someone else to interrupt it, that is a complete override"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1855,
+          "durationFrames": 207,
+          "role": "question",
+          "narration": "And that is the exact lens we are bringing to this deep dive today. We are looking at the hidden mec"
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2062,
+          "durationFrames": 201,
+          "role": "complication",
+          "narration": "Yes. Specifically, the idea that a romance only actually works when each person risks being seen"
+        },
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2263,
+          "durationFrames": 363,
+          "role": "reveal",
+          "narration": "before they are completely sure the other person will catch them, which is such a terrifying concept"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "authored",
+      "fromFrame": 2626,
+      "durationFrames": 360,
+      "durationSeconds": 12,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2626,
+          "durationFrames": 194,
+          "role": "authored-start",
+          "narration": "the listener a standard plot summary, we are going to dig into the psychological bedrock of this sto"
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 2820,
+          "durationFrames": 166,
+          "role": "authored-kept",
+          "narration": "to show how two incredibly guarded people systematically strip away their own safety nets."
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "engine",
+      "fromFrame": 2986,
+      "durationFrames": 1060,
+      "durationSeconds": 35.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 2986,
+          "durationFrames": 237,
+          "role": "setup",
+          "narration": "It's a fascinating study in emotional physics. Really, you have two people who are desperately tryin"
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3223,
+          "durationFrames": 214,
+          "role": "question",
+          "narration": "Oh yeah. And both of them have incredible reasons to guard themselves. Let's talk about who we are a"
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3437,
+          "durationFrames": 384,
+          "role": "complication",
+          "narration": "First, we have Julia Lol, uh, a Nebraska girl born and raised in the Midwest, and she has recently b"
+        },
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 3821,
+          "durationFrames": 225,
+          "role": "reveal",
+          "narration": "has literally had her entire life planned out with since they were 10 years old, has broken her hear"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "engine",
+      "fromFrame": 4046,
+      "durationFrames": 358,
+      "durationSeconds": 11.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 4046,
+          "durationFrames": 358,
+          "role": "reveal",
+          "narration": "So, Julia is guarding this deeply broken heart, but she's also guarding a massive inferiority comple"
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "authored",
+      "fromFrame": 4404,
+      "durationFrames": 449,
+      "durationSeconds": 15,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4404,
+          "durationFrames": 250,
+          "role": "authored-start",
+          "narration": "When she feels the pain creeping in, she actually chants a Shakespeare quote to block it out. Oh, th"
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4654,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "is the sun. She uses it as a cognitive wall, like a mantra to stop herself from feeling."
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "engine",
+      "fromFrame": 4853,
+      "durationFrames": 1219,
+      "durationSeconds": 40.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 4853,
+          "durationFrames": 336,
+          "role": "setup",
+          "narration": "It's a verbal brace position. You can almost see her throwing her hands up to protect her face every"
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5189,
+          "durationFrames": 314,
+          "role": "question",
+          "narration": "He is New York elite, the heir to a massive, cutthroat financial empire run by his toxic, moneyobses"
+        },
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5503,
+          "durationFrames": 305,
+          "role": "complication",
+          "narration": "Truly. But Damian is mourning. He's grieving the loss of his eccentric uncle Remy, who was essential"
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5808,
+          "durationFrames": 264,
+          "role": "reveal",
+          "narration": "Damian is fiercely guarding his true self, right? like his desire for freedom, his desire to escape "
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "engine",
+      "fromFrame": 6072,
+      "durationFrames": 982,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 6072,
+          "durationFrames": 353,
+          "role": "setup",
+          "narration": "And he masks that terror with this arrogant, untouchable New York So you have the Nebraska girl hidi"
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6425,
+          "durationFrames": 163,
+          "role": "question",
+          "narration": "And the crucible that forces these two opposing forces together is the late Uncle Remy."
+        },
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6588,
+          "durationFrames": 252,
+          "role": "complication",
+          "narration": "God bless Uncle Remy. I know, right? In a move of absolute chaotic brilliance, Uncle Remy bypasses h"
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 6840,
+          "durationFrames": 214,
+          "role": "reveal",
+          "narration": "the billionaire brother, and leaves a five-story multi-million dollar upper westside mansion to Juli"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "engine",
+      "fromFrame": 7054,
+      "durationFrames": 928,
+      "durationSeconds": 30.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7054,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "These workingclass grocery store owners from the Midwest. Exactly. But there was a catch. They have "
+        },
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7258,
+          "durationFrames": 331,
+          "role": "question",
+          "narration": "And Julia has to attend the hyper elite Gardenwood Academy, which sets off an absolute bomb in the R"
+        },
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7589,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "acquisitions, hostile takeovers, and leverage, tasks Damian with getting close to this new Midwester"
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 7822,
+          "durationFrames": 160,
+          "role": "reveal",
+          "narration": "The goal is to get the house back by any means necessary. It's the perfect pressure cooker."
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "authored",
+      "fromFrame": 7982,
+      "durationFrames": 586,
+      "durationSeconds": 19.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 7982,
+          "durationFrames": 204,
+          "role": "authored-start",
+          "narration": "Two people wearing heavy emotional armor forced into the same orbit under completely false pretenses"
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8186,
+          "durationFrames": 382,
+          "role": "authored-kept",
+          "narration": "Two people wearing heavy emotional armor forced into the same orbit under completely false pretenses"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "engine",
+      "fromFrame": 8568,
+      "durationFrames": 276,
+      "durationSeconds": 9.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8568,
+          "durationFrames": 276,
+          "role": "reveal",
+          "narration": "Let's drop right down to the pavement in New York for their very first real Okay, set the scene. Pic"
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "authored",
+      "fromFrame": 8844,
+      "durationFrames": 554,
+      "durationSeconds": 18.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 8844,
+          "durationFrames": 226,
+          "role": "authored-start",
+          "narration": "She's got a bruised, throbbing nose, and she reaches down to pick up an ugly abandoned wallet that h"
+        },
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9070,
+          "durationFrames": 328,
+          "role": "authored-kept",
+          "narration": "Trying to do the right thing. Yeah, that ugly wallet. Damian is standing over her, looking down with"
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "engine",
+      "fromFrame": 9398,
+      "durationFrames": 737,
+      "durationSeconds": 24.6,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9398,
+          "durationFrames": 200,
+          "role": "setup",
+          "narration": "People in the big city get killed that way. It is so visceral. He is actively trying to make her fee"
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 9598,
+          "durationFrames": 304,
+          "role": "question",
+          "narration": "emphasizing the geographical divide, you know, the big city versus her obvious Midwestern He is towe"
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 9902,
+          "durationFrames": 233,
+          "role": "reveal",
+          "narration": "I want you listening to this to think about a time you felt incredibly insecure or threatened in a n"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "authored",
+      "fromFrame": 10135,
+      "durationFrames": 456,
+      "durationSeconds": 15.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 10135,
+          "durationFrames": 315,
+          "role": "authored-start",
+          "narration": "Guarding yourself often looks exactly like cruelty. Yes, it looks like intense In this moment on the"
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10450,
+          "durationFrames": 141,
+          "role": "authored-kept",
+          "narration": "the other person. Why? Because grace requires lowering your"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "engine",
+      "fromFrame": 10591,
+      "durationFrames": 514,
+      "durationSeconds": 17.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 10591,
+          "durationFrames": 159,
+          "role": "setup",
+          "narration": "It requires acknowledging the humanity of the other person, which means acknowledging your own vulne"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 10750,
+          "durationFrames": 355,
+          "role": "reveal",
+          "narration": "Precisely. If you show grace, you open a channel. You invite connection. And Damian is fundamentally"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "authored",
+      "fromFrame": 11105,
+      "durationFrames": 1142,
+      "durationSeconds": 38.1,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11105,
+          "durationFrames": 204,
+          "role": "authored-start",
+          "narration": "He is sitting at his parents' massive dining room table staring at a plate of risoto. Now, the senso"
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 11309,
+          "durationFrames": 384,
+          "role": "authored-kept",
+          "narration": "Uncle Remy hated Risoto. Oh, that detail breaks my heart. It's so sad. Damen is zoning out, actively"
+        },
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 11693,
+          "durationFrames": 297,
+          "role": "authored-kept",
+          "narration": "His father is in a powers suit. His mother is in her hot bar workout clothes and they are bickering "
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 11990,
+          "durationFrames": 257,
+          "role": "authored-kept",
+          "narration": "offering this polite, sarcastic compliance. He smiles what the text calls the congenial smile of an "
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "engine",
+      "fromFrame": 12247,
+      "durationFrames": 996,
+      "durationSeconds": 33.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 12247,
+          "durationFrames": 377,
+          "role": "setup",
+          "narration": "Exactly. He is building a massive wall of sarcasm to protect his devastating grief from parents who "
+        },
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 12624,
+          "durationFrames": 298,
+          "role": "question",
+          "narration": "They are insulting the memory of the man Damian loved most right in front of him. So Damen's cruelty"
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 12922,
+          "durationFrames": 321,
+          "role": "reveal",
+          "narration": "He is keeping the world at arms length because if he lets anyone in, the grief will drown him. See, "
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "engine",
+      "fromFrame": 13243,
+      "durationFrames": 1222,
+      "durationSeconds": 40.7,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 13243,
+          "durationFrames": 207,
+          "role": "setup",
+          "narration": "is acting like a jerk to Julia on the street, primarily because she represents a massive threat to h"
+        },
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13450,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "His dad has already framed this Midwestern family as these manipulative fraudsters who built an old "
+        },
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13702,
+          "durationFrames": 237,
+          "role": "partial_answer",
+          "narration": "Yeah. Damen is being a jerk because he's protecting his territory. It's primitive I fundamentally di"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 13939,
+          "durationFrames": 204,
+          "role": "complication",
+          "narration": "Really, Damen explicitly notes in the text that he doesn't care about the money. He literally thinks"
+        },
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 14143,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "Did it really matter if the old guy threw his money at some nobody's? He isn't a foot soldier for hi"
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "engine",
+      "fromFrame": 14465,
+      "durationFrames": 1118,
+      "durationSeconds": 37.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14465,
+          "durationFrames": 230,
+          "role": "setup",
+          "narration": "a disruptor. Oh, disruptor to what though? If he doesn't care about the money, what is she disruptin"
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 14695,
+          "durationFrames": 420,
+          "role": "question",
+          "narration": "Look at her. She is messy. She's bruised. She is trying to do a nice thing with an ugly wallet on a "
+        },
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 15115,
+          "durationFrames": 147,
+          "role": "complication",
+          "narration": "Oh wow. She threatens the numbness that is keeping him from feeling his own pain."
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 15262,
+          "durationFrames": 321,
+          "role": "reveal",
+          "narration": "That is what actually terrifies him. Wait, so you're saying he attacks her character because her she"
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "authored",
+      "fromFrame": 15583,
+      "durationFrames": 725,
+      "durationSeconds": 24.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 15583,
+          "durationFrames": 351,
+          "role": "authored-start",
+          "narration": "She isn't a threat to his bank account. She's a threat to his emotional numbness. And so we get this"
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 15934,
+          "durationFrames": 374,
+          "role": "authored-kept",
+          "narration": "concrete. Neither one is willing to tip forward even a fraction of an inch. They are absolutely refu"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "engine",
+      "fromFrame": 16308,
+      "durationFrames": 276,
+      "durationSeconds": 9.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 16308,
+          "durationFrames": 276,
+          "role": "reveal",
+          "narration": "on the sidewalk True. which transitions us into what happens when one of them finally tries to bridg"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "authored",
+      "fromFrame": 16584,
+      "durationFrames": 564,
+      "durationSeconds": 18.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 16584,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "does it completely wrong. Let's look at the tutoring setup. Oh, this scene. Damian discovers that he"
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 16913,
+          "durationFrames": 235,
+          "role": "authored-kept",
+          "narration": "he decides to leverage this. Picture him leaning in so close to her that his curls are physically ti"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "authored",
+      "fromFrame": 17148,
+      "durationFrames": 703,
+      "durationSeconds": 23.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 17148,
+          "durationFrames": 343,
+          "role": "authored-start",
+          "narration": "The proximity there is insane, right? He offers her a second loaf of bread because he's observed tha"
+        },
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 17491,
+          "durationFrames": 360,
+          "role": "authored-kept",
+          "narration": "Demanding an unnamed favor from her in exchange for his help. The sensory proximity is so deliberate"
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "engine",
+      "fromFrame": 17851,
+      "durationFrames": 567,
+      "durationSeconds": 18.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 17851,
+          "durationFrames": 257,
+          "role": "setup",
+          "narration": "between them. But look at the actual mechanics of what he is doing. He is engineering a connection w"
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 18108,
+          "durationFrames": 310,
+          "role": "reveal",
+          "narration": "of the power. We call this transactional intimacy. Let's unpack transactional intimacy for a second "
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "authored",
+      "fromFrame": 18418,
+      "durationFrames": 460,
+      "durationSeconds": 15.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 18418,
+          "durationFrames": 172,
+          "role": "authored-start",
+          "narration": "Think about someone who is terrified of rejection. What do they do? They create a ledger."
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 18590,
+          "durationFrames": 288,
+          "role": "authored-kept",
+          "narration": "If you owe me a favor, you have to talk to me. It's a defense mechanism that guarantees interaction "
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "engine",
+      "fromFrame": 18878,
+      "durationFrames": 276,
+      "durationSeconds": 9.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 18878,
+          "durationFrames": 276,
+          "role": "reveal",
+          "narration": "Transactional intimacy is not real vulnerability. By demanding an unnamed favor, Damen creates a pow"
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "authored",
+      "fromFrame": 19154,
+      "durationFrames": 456,
+      "durationSeconds": 15.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 19154,
+          "durationFrames": 200,
+          "role": "authored-start",
+          "narration": "It's a controlled fall. He's asking her to lean into him, but he is securely holding the safety harn"
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 19354,
+          "durationFrames": 256,
+          "role": "authored-kept",
+          "narration": "He completely controls the drop. It's manipulative, but it's also incredibly revealing about how des"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "authored",
+      "fromFrame": 19610,
+      "durationFrames": 771,
+      "durationSeconds": 25.7,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 19610,
+          "durationFrames": 195,
+          "role": "authored-start",
+          "narration": "And Julia, to her credit, feels the strings on that harness immediately. She totally does. She is hi"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 19805,
+          "durationFrames": 398,
+          "role": "authored-kept",
+          "narration": "She narrows her eyes at him, questioning why she should focus on him instead of the math. And Damen "
+        },
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 20203,
+          "durationFrames": 178,
+          "role": "authored-kept",
+          "narration": "when she pushes back. Because to Damian, any engagement is a victory, provided it's on his terms."
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "authored",
+      "fromFrame": 20381,
+      "durationFrames": 571,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 20381,
+          "durationFrames": 307,
+          "role": "authored-start",
+          "narration": "This perfectly aligns with his father's plot. Quinn Rutledge wants intel. Damian is executing the fi"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 20688,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "Yes. He is finding her pressure points, her love of bread, her need for tutoring, and exploiting the"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "engine",
+      "fromFrame": 20952,
+      "durationFrames": 290,
+      "durationSeconds": 9.7,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 20952,
+          "durationFrames": 290,
+          "role": "reveal",
+          "narration": "It's corporate espionage disguised as high school flirting. Okay, I have to stop you there. You are "
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "authored",
+      "fromFrame": 21242,
+      "durationFrames": 682,
+      "durationSeconds": 22.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 21242,
+          "durationFrames": 344,
+          "role": "authored-start",
+          "narration": "Am I? Yes, he is completely failing the espionage mission in this scene. Think about it realisticall"
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 21586,
+          "durationFrames": 338,
+          "role": "authored-kept",
+          "narration": "Well, sure, but he is using this elaborate, vaguely threatening favor as a desperately transparent e"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "engine",
+      "fromFrame": 21924,
+      "durationFrames": 610,
+      "durationSeconds": 20.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 21924,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "He uses his father's vocabulary because it's the only language he knows. But look at his internal mo"
+        },
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 22145,
+          "durationFrames": 240,
+          "role": "question",
+          "narration": "He calls her Autumn. Okay, the Autumn comment was cute, right? This isn't corporate espionage. This "
+        },
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 22385,
+          "durationFrames": 149,
+          "role": "reveal",
+          "narration": "and is using leverage in transactions to mask the fact that he's already tripping over his own feet."
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "authored",
+      "fromFrame": 22534,
+      "durationFrames": 628,
+      "durationSeconds": 20.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 22534,
+          "durationFrames": 278,
+          "role": "authored-start",
+          "narration": "You're right that he's captivated, but you can't ignore how he translates that captivation into a le"
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 22812,
+          "durationFrames": 350,
+          "role": "authored-kept",
+          "narration": "We can add this to your tab. He is monetizing their Yes, because that's the only way he knows how to"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "authored",
+      "fromFrame": 23162,
+      "durationFrames": 848,
+      "durationSeconds": 28.3,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 23162,
+          "durationFrames": 320,
+          "role": "authored-start",
+          "narration": "It brings us right back to the physical reality of the fall. He's asking her to lean into his space,"
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 23482,
+          "durationFrames": 271,
+          "role": "authored-kept",
+          "narration": "He is holding the harness tightly. He is not a true fall yet because he risks absolutely nothing by "
+        },
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 23753,
+          "durationFrames": 257,
+          "role": "authored-kept",
+          "narration": "It feels like closeness, but the safety net is completely intact, which means the simulation has to "
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "engine",
+      "fromFrame": 24010,
+      "durationFrames": 388,
+      "durationSeconds": 12.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 24010,
+          "durationFrames": 230,
+          "role": "setup",
+          "narration": "The mask has to slip. And oh man, does it slip at the society dinner. This scene, this scene"
+        },
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 24240,
+          "durationFrames": 158,
+          "role": "reveal",
+          "narration": "is an absolute masterpiece of social It really is. Set it up for us."
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "authored",
+      "fromFrame": 24398,
+      "durationFrames": 1505,
+      "durationSeconds": 50.2,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 24398,
+          "durationFrames": 262,
+          "role": "authored-start",
+          "narration": "We are at a high society gathering. Julia is already feeling entirely out of her depth, surrounded b"
+        },
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 24660,
+          "durationFrames": 334,
+          "role": "authored-kept",
+          "narration": "Chattingham, who is essentially the final boss of judgmental society the final boss. I love that. Is"
+        },
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 24994,
+          "durationFrames": 285,
+          "role": "authored-kept",
+          "narration": "lack of a rigid Ivy League life plan. Julia is suffocating and suddenly Damen steps in. And he doesn"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 25279,
+          "durationFrames": 406,
+          "role": "authored-kept",
+          "narration": "he invents a massive, elaborate lie to protect her. He tells Shantel and his own parents that Julia "
+        },
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 25685,
+          "durationFrames": 218,
+          "role": "authored-kept",
+          "narration": "tragedy Titus Andronicus was so which is incredibly specific and completely fabricated."
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "engine",
+      "fromFrame": 25903,
+      "durationFrames": 970,
+      "durationSeconds": 32.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 25903,
+          "durationFrames": 312,
+          "role": "setup",
+          "narration": "But here is the profound truth this moment reveals for anyone navigating a relationship. Risking you"
+        },
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 26215,
+          "durationFrames": 331,
+          "role": "question",
+          "narration": "You cannot catch someone without stepping out of your own safe zone. Damen has spent his entire life"
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 26546,
+          "durationFrames": 327,
+          "role": "reveal",
+          "narration": "a woman with a reputation for destroying anyone who crosses her is a massive unforced error in his w"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "engine",
+      "fromFrame": 26873,
+      "durationFrames": 173,
+      "durationSeconds": 5.8,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 26873,
+          "durationFrames": 173,
+          "role": "reveal",
+          "narration": "vertigo. We really need to unpack the subtext of the lie itself because it's brilliant."
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "authored",
+      "fromFrame": 27046,
+      "durationFrames": 883,
+      "durationSeconds": 29.4,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 27046,
+          "durationFrames": 163,
+          "role": "authored-start",
+          "narration": "Mr. Long Haven, the actual literature teacher, hated Julia's take on Titus Andronicus."
+        },
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 27209,
+          "durationFrames": 237,
+          "role": "authored-kept",
+          "narration": "Why? Because she brought political ideologies, specifically feminism and critiques of the patriarchy"
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 27446,
+          "durationFrames": 284,
+          "role": "authored-kept",
+          "narration": "Long Haven cautioned the class against it. And Julia raged internally about how dismissing feminism "
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 27730,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "Damian taking that specific moment, a moment where Julia was rebellious and silenced by a patriarcha"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "engine",
+      "fromFrame": 27929,
+      "durationFrames": 240,
+      "durationSeconds": 8,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 27929,
+          "durationFrames": 240,
+          "role": "reveal",
+          "narration": "and weaponizing it to defend her against the matriarch of high society. It's a breathtaking layer of"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "authored",
+      "fromFrame": 28169,
+      "durationFrames": 801,
+      "durationSeconds": 26.7,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 28169,
+          "durationFrames": 240,
+          "role": "authored-start",
+          "narration": "He sees her rebellion, he remembers it, and he validates it in front of the very people she is rebel"
+        },
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 28409,
+          "durationFrames": 209,
+          "role": "authored-kept",
+          "narration": "marvels at her in this scene. He looks at her and realizes she has no lifelong assumption of a Dartm"
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 28618,
+          "durationFrames": 352,
+          "role": "authored-kept",
+          "narration": "She has no expectation to join a mind-numbingly boring financial conglomerate. He looks at her undef"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "engine",
+      "fromFrame": 28970,
+      "durationFrames": 461,
+      "durationSeconds": 15.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 28970,
+          "durationFrames": 214,
+          "role": "setup",
+          "narration": "moment Damen falls in love with See, I don't think this is the moment. Wait, what? Are you kidding?"
+        },
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 29184,
+          "durationFrames": 247,
+          "role": "reveal",
+          "narration": "He literally risks the wrath of his terrifying father and the most powerful woman in the room to sav"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "authored",
+      "fromFrame": 29431,
+      "durationFrames": 535,
+      "durationSeconds": 17.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 29431,
+          "durationFrames": 331,
+          "role": "authored-start",
+          "narration": "He is acting entirely selflessly for the first time in the Is it selfless though? It Let's look at t"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 29762,
+          "durationFrames": 204,
+          "role": "authored-kept",
+          "narration": "as a weapon against their own family dynamics. Damian isn't falling in love with Julia, the person i"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "engine",
+      "fromFrame": 29966,
+      "durationFrames": 1078,
+      "durationSeconds": 35.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 29966,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "He is falling in love with the freedom she Explain that because I'm not seeing it. Look at his inter"
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 30170,
+          "durationFrames": 351,
+          "role": "question",
+          "narration": "He thinks about how she doesn't have a steely presumption that you'd ultimately be at the helm of th"
+        },
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 30521,
+          "durationFrames": 317,
+          "role": "complication",
+          "narration": "Okay, true. That's a direct quote. He is deeply resentful of his parents. By defending Julia, he is "
+        },
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 30838,
+          "durationFrames": 206,
+          "role": "reveal",
+          "narration": "He is using Julia as a weapon against his parents expectations. It's a proxy war. He's fighting his "
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "engine",
+      "fromFrame": 31044,
+      "durationFrames": 1030,
+      "durationSeconds": 34.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 31044,
+          "durationFrames": 353,
+          "role": "setup",
+          "narration": "Okay, I see the proxy war argument and I agree he is deeply resentful of his parents, but I think yo"
+        },
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 31397,
+          "durationFrames": 357,
+          "role": "question",
+          "narration": "but he uses her specific intellectual fire to defend her. He doesn't just say, \"Leave her alone or c"
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 31754,
+          "durationFrames": 320,
+          "role": "reveal",
+          "narration": "regarding his parents, the physical reality of the moment remains the same. He steps off his secure "
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "engine",
+      "fromFrame": 32074,
+      "durationFrames": 237,
+      "durationSeconds": 7.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 32074,
+          "durationFrames": 237,
+          "role": "reveal",
+          "narration": "risk a fall of his own to act as her safety net. He certainly shifts his center of gravity. I'll giv"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "authored",
+      "fromFrame": 32311,
+      "durationFrames": 540,
+      "durationSeconds": 18,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 32311,
+          "durationFrames": 147,
+          "role": "authored-start",
+          "narration": "They are in New York surrounded by his people playing a game he knows the rules to."
+        },
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 32458,
+          "durationFrames": 393,
+          "role": "authored-kept",
+          "narration": "It's easy to be brave in your own backyard. to truly drop his guard to execute a real trust fall, he"
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "engine",
+      "fromFrame": 32851,
+      "durationFrames": 1008,
+      "durationSeconds": 33.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 32851,
+          "durationFrames": 214,
+          "role": "setup",
+          "narration": "me set the sensory scene here because it is iconic and it completely shifts the dynamic. We are far "
+        },
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 33065,
+          "durationFrames": 293,
+          "role": "question",
+          "narration": "We are in Springfield, Nebraska. It is a blustery, freezing autumn rainstorm. So cold. Julia is in h"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 33358,
+          "durationFrames": 184,
+          "role": "complication",
+          "narration": "seeking refuge from the overwhelming reality of the New York inheritance and the looming lawsuit."
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 33542,
+          "durationFrames": 317,
+          "role": "reveal",
+          "narration": "She looks out her window into the dark and there is Damian hanging there. He is physically dangling "
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "engine",
+      "fromFrame": 33859,
+      "durationFrames": 377,
+      "durationSeconds": 12.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 33859,
+          "durationFrames": 377,
+          "role": "reveal",
+          "narration": "The rain is pouring down and he looks at her, dropping all the swagger, dropping all the leverage, a"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "authored",
+      "fromFrame": 34236,
+      "durationFrames": 449,
+      "durationSeconds": 15,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 34236,
+          "durationFrames": 209,
+          "role": "authored-start",
+          "narration": "environment is the message here. Sometimes to truly drop your guard, you have to completely leave yo"
+        },
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 34445,
+          "durationFrames": 240,
+          "role": "authored-kept",
+          "narration": "Damian leaves his New York armor, his tailored suits, his controlled society dinners, and he meets h"
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "engine",
+      "fromFrame": 34685,
+      "durationFrames": 1166,
+      "durationSeconds": 38.9,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 34685,
+          "durationFrames": 228,
+          "role": "setup",
+          "narration": "He exposes himself to the elements, literally to the rain and the physical danger of the climb to st"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 34913,
+          "durationFrames": 175,
+          "role": "partial_answer",
+          "narration": "And the physical reaction Julia has is visceral. Her heart is instantly in her throat."
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 35088,
+          "durationFrames": 168,
+          "role": "question",
+          "narration": "Why? Because the ghost of her past is attached to that exact trellis."
+        },
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 35256,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "Ooh, yes. Will. Her ex-boyfriend Will, the guy who shattered her, used to climb that same trellis on"
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 35501,
+          "durationFrames": 350,
+          "role": "reveal",
+          "narration": "But Damian doing it feels infinitely more dangerous to her. Damen reaches through the window, his wa"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "engine",
+      "fromFrame": 35851,
+      "durationFrames": 1090,
+      "durationSeconds": 36.3,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 35851,
+          "durationFrames": 202,
+          "role": "setup",
+          "narration": "Could I really fall again?\" It's a brilliant juosition by the author. Will climbing the trellis was "
+        },
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 36053,
+          "durationFrames": 177,
+          "role": "question",
+          "narration": "predictable, a suburban routine. It was a boy who lived down the street doing what was expected."
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 36230,
+          "durationFrames": 168,
+          "role": "partial_answer",
+          "narration": "Damian climbing it in a freezing rainstorm is an invasion of the unknown."
+        },
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 36398,
+          "durationFrames": 298,
+          "role": "complication",
+          "narration": "It is the ultimate grand gesture. It is incredibly romantic. I mean, think about it. He tracks her d"
+        },
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 36696,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "He physically scales a wall in a storm just to admit he was scared. It's swoonworthy. It's exactly w"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "source": "engine",
+      "fromFrame": 36941,
+      "durationFrames": 1185,
+      "durationSeconds": 39.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 36941,
+          "durationFrames": 235,
+          "role": "setup",
+          "narration": "I am going to throw absolute cold water on this grand gesture. Well, okay, go ahead. ruin the romanc"
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 37176,
+          "durationFrames": 322,
+          "role": "question",
+          "narration": "Julia literally fled New York because the pressure and the toxic environment of his family were dest"
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 37498,
+          "durationFrames": 343,
+          "role": "complication",
+          "narration": "She put up boundaries. And what does Damen do? He hops on a plane, tracks down her childhood home, a"
+        },
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 37841,
+          "durationFrames": 285,
+          "role": "reveal",
+          "narration": "Selfish. He flew across the country. Yes. Selfish. He is forcing the issue, demanding her attention "
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "source": "engine",
+      "fromFrame": 38126,
+      "durationFrames": 1037,
+      "durationSeconds": 34.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 38126,
+          "durationFrames": 212,
+          "role": "setup",
+          "narration": "exactly when she is seeking refuge. It's an invasion of her safe space under the guise of romantic u"
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 38338,
+          "durationFrames": 192,
+          "role": "question",
+          "narration": "He couldn't handle his own anxiety about losing her, so he violated her boundary to soo himself."
+        },
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 38530,
+          "durationFrames": 285,
+          "role": "partial_answer",
+          "narration": "Wait, you can't punish the guy for trying. If he stays in New York, he's aloof and doesn't care. If "
+        },
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 38815,
+          "durationFrames": 147,
+          "role": "complication",
+          "narration": "She wanted him to fight for it. She wanted space. He breached her"
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 38962,
+          "durationFrames": 201,
+          "role": "reveal",
+          "narration": "I see the architectural reality of what you're saying. He did breach the fortress. But let's look at"
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "source": "authored",
+      "fromFrame": 39163,
+      "durationFrames": 994,
+      "durationSeconds": 33.1,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 39163,
+          "durationFrames": 358,
+          "role": "authored-start",
+          "narration": "The actual physics of the moment. Look at the physical danger of the trellis. It's precarious. It is"
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 39521,
+          "durationFrames": 353,
+          "role": "authored-kept",
+          "narration": "He's entirely at her mercy. If she shuts the window, he falls. He places himself in a position of co"
+        },
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 39874,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "He is hanging there, asking to be And she does open the window. And she lets him in, which sets the "
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "source": "engine",
+      "fromFrame": 40157,
+      "durationFrames": 895,
+      "durationSeconds": 29.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 40157,
+          "durationFrames": 338,
+          "role": "setup",
+          "narration": "The moment where the emotional physics become literal, the cosmic dip. this is the moment in the bal"
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 40495,
+          "durationFrames": 235,
+          "role": "question",
+          "narration": "Damian and Julia are on the dance floor. Damen looks at her and asks point blank if she's willing to"
+        },
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 40730,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "Does it send her running? And her response. And Julia, dropping the Shakespeare mantra, dropping the"
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "source": "authored",
+      "fromFrame": 41052,
+      "durationFrames": 1001,
+      "durationSeconds": 33.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 41052,
+          "durationFrames": 302,
+          "role": "authored-start",
+          "narration": "And then Damen dips her. He dips her so profoundly far back that the tips of her hair are physically"
+        },
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 41354,
+          "durationFrames": 380,
+          "role": "authored-kept",
+          "narration": "fall This is the argument made flush. It is the physical manifestation of complete surrender. Imagin"
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 41734,
+          "durationFrames": 319,
+          "role": "authored-kept",
+          "narration": "your center of gravity is entirely outside of your own control. If his arms give out, if he lets go,"
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "source": "engine",
+      "fromFrame": 42053,
+      "durationFrames": 991,
+      "durationSeconds": 33,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 42053,
+          "durationFrames": 341,
+          "role": "setup",
+          "narration": "the survival instinct we talked about in the cold open. And he cloaks it in this staggering arroganc"
+        },
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 42394,
+          "durationFrames": 290,
+          "role": "question",
+          "narration": "same way again.\" Classic Damian. Such a Damian line. He wraps his terrifying vulnerability, the fact"
+        },
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 42684,
+          "durationFrames": 360,
+          "role": "reveal",
+          "narration": "cocky confidence. But we have to talk about the dramatic irony of this moment because it is downrigh"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "source": "authored",
+      "fromFrame": 43044,
+      "durationFrames": 578,
+      "durationSeconds": 19.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 43044,
+          "durationFrames": 326,
+          "role": "authored-start",
+          "narration": "you also know the larger context. Damian is dipping her, holding her suspended in this moment of pur"
+        },
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 43370,
+          "durationFrames": 252,
+          "role": "authored-kept",
+          "narration": "god. Yes, that's the worst part. Quinn Rutled is simultaneously out in the hallway or the joining ro"
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "source": "engine",
+      "fromFrame": 43622,
+      "durationFrames": 478,
+      "durationSeconds": 15.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 43622,
+          "durationFrames": 284,
+          "role": "setup",
+          "narration": "Julia's family, claiming they built Remy with dementia. Damian is asking her to fall while the floor"
+        },
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 43906,
+          "durationFrames": 194,
+          "role": "reveal",
+          "narration": "But that's what makes the surrender so genuine on Damian's part. You call it irony. I call it total "
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "source": "authored",
+      "fromFrame": 44100,
+      "durationFrames": 830,
+      "durationSeconds": 27.7,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 44100,
+          "durationFrames": 156,
+          "role": "authored-start",
+          "narration": "In that microscond, Damian has completely forgotten his father's minations exist."
+        },
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 44256,
+          "durationFrames": 355,
+          "role": "authored-kept",
+          "narration": "He isn't thinking about the lawsuit. He isn't thinking about the inheritance. The text says his smil"
+        },
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 44611,
+          "durationFrames": 319,
+          "role": "authored-kept",
+          "narration": "holding her. He surrendered to the moment just as much as she surrendered to his arms. He may have s"
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "source": "engine",
+      "fromFrame": 44930,
+      "durationFrames": 754,
+      "durationSeconds": 25.1,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 44930,
+          "durationFrames": 305,
+          "role": "setup",
+          "narration": "And when the illusion breaks, the fall is Okay? Because when the person who caught you drops you, hi"
+        },
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 45235,
+          "durationFrames": 185,
+          "role": "question",
+          "narration": "I want you to imagine a time you finally let your guard down with someone. You took a massive emotio"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 45420,
+          "durationFrames": 264,
+          "role": "reveal",
+          "narration": "You let yourself be entirely supported. Now imagine in that exact second the floor completely gives "
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "source": "authored",
+      "fromFrame": 45684,
+      "durationFrames": 670,
+      "durationSeconds": 22.3,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 45684,
+          "durationFrames": 235,
+          "role": "authored-start",
+          "narration": "We cut from the breathless romance of the ballroom dip to a dark cavernous hallway. Julia is facing "
+        },
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 45919,
+          "durationFrames": 240,
+          "role": "authored-kept",
+          "narration": "Her arms are wrapped tightly around herself. She is sobbing and she is desperately whispering her se"
+        },
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 46159,
+          "durationFrames": 195,
+          "role": "authored-kept",
+          "narration": "It is the east and Juliet is the sun. It is the east and Juliet is the sun. The safety net has vanis"
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "source": "engine",
+      "fromFrame": 46354,
+      "durationFrames": 1125,
+      "durationSeconds": 37.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 46354,
+          "durationFrames": 196,
+          "role": "setup",
+          "narration": "Our entire argument states that romance requires risk. But this is the necessary brutal corollary."
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 46550,
+          "durationFrames": 188,
+          "role": "question",
+          "narration": "The risk carries the real threat of devastation. She took the fall and he wasn't there."
+        },
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 46738,
+          "durationFrames": 340,
+          "role": "complication",
+          "narration": "The japosition of the warm illuminated ballroom where she was held to the cold dark stone wall where"
+        },
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 47078,
+          "durationFrames": 401,
+          "role": "reveal",
+          "narration": "is that Quinn Rutled has just publicly humiliated Julia's parents. In front of the entire society, Q"
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "source": "authored",
+      "fromFrame": 47479,
+      "durationFrames": 612,
+      "durationSeconds": 20.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 47479,
+          "durationFrames": 343,
+          "role": "authored-start",
+          "narration": "and Julia connects the dots. The devastating realization. The boy who just dipped her, the boy she j"
+        },
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 47822,
+          "durationFrames": 269,
+          "role": "authored-kept",
+          "narration": "of the man trying to destroy her family. She realizes Damian was part of the machinery that just rui"
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "source": "engine",
+      "fromFrame": 48091,
+      "durationFrames": 1104,
+      "durationSeconds": 36.8,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 48091,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "The question that divides readers. Did Damian actually betray her? I argue yes. Absolutely."
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 48312,
+          "durationFrames": 194,
+          "role": "partial_answer",
+          "narration": "Yes. How? He wasn't the one launching the His silence is complicity."
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 48506,
+          "durationFrames": 183,
+          "role": "partial_answer",
+          "narration": "He knew his father's tactics. He knew his father viewed the LL as small town nobodies to be crushed."
+        },
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 48689,
+          "durationFrames": 180,
+          "role": "question",
+          "narration": "Damian actively gathered intel in the early days of tutoring. Remember the transactional intimacy?"
+        },
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 48869,
+          "durationFrames": 326,
+          "role": "reveal",
+          "narration": "Yeah, but that was before he fell for Even if he caught real feelings later, he never disclosed the "
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "source": "engine",
+      "fromFrame": 49195,
+      "durationFrames": 1236,
+      "durationSeconds": 41.2,
+      "sceneCount": 6,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 49195,
+          "durationFrames": 163,
+          "role": "setup",
+          "narration": "That makes him guilty of I am going to passionately defend Damian here."
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 49358,
+          "durationFrames": 149,
+          "role": "question",
+          "narration": "Damian is a victim of his father's mob boss tactics just as much as the Lowels are."
+        },
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 49507,
+          "durationFrames": 178,
+          "role": "partial_answer",
+          "narration": "Quinn literally operates on the philosophy that perception is reality. He is a master manipulator."
+        },
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 49685,
+          "durationFrames": 206,
+          "role": "complication",
+          "narration": "True, but Damen still knew enough. Damen didn't know his father was going to launch a public nuclear"
+        },
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 49891,
+          "durationFrames": 178,
+          "role": "complication",
+          "narration": "In fact, Damen actively tried to push back against his father in earlier scenes, questioning the evi"
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 50069,
+          "durationFrames": 362,
+          "role": "reveal",
+          "narration": "Pushing back isn't the same as warning But look at Damian in the hallway. He chases Julia down. He i"
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "source": "engine",
+      "fromFrame": 50431,
+      "durationFrames": 1107,
+      "durationSeconds": 36.9,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 50431,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "He says, \"I'm so damn deeply into all of you.\" He didn't drop her. His father pushed them both off t"
+        },
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 50647,
+          "durationFrames": 199,
+          "role": "question",
+          "narration": "He's just as devastated by the fall as she is. Regardless of who did the pushing, she is in freef fa"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 50846,
+          "durationFrames": 231,
+          "role": "partial_answer",
+          "narration": "She's broken on the stone floor. And this trauma forces a massive re-evaluation of her past, which b"
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 51077,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "The contrast of comfort versus the edge, right? Because after the devastating fallout in New York, J"
+        },
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 51322,
+          "durationFrames": 216,
+          "role": "reveal",
+          "narration": "And she has a pivotal conversation with Will, her ex-boyfriend, the guy who cheated on her at the ve"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "source": "authored",
+      "fromFrame": 51538,
+      "durationFrames": 794,
+      "durationSeconds": 26.5,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 51538,
+          "durationFrames": 230,
+          "role": "authored-start",
+          "narration": "Well, Will finally explains why he broke up with her. He looks into her eyes and admits that they we"
+        },
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 51768,
+          "durationFrames": 370,
+          "role": "authored-kept",
+          "narration": "He says, \"It was like our whole life had been planned out for us since we were 10 years old. I feel "
+        },
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 52138,
+          "durationFrames": 194,
+          "role": "authored-kept",
+          "narration": "a corner of destiny rather than making an active choice. This is a profound thematic moment."
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "source": "engine",
+      "fromFrame": 52332,
+      "durationFrames": 1248,
+      "durationSeconds": 41.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 52332,
+          "durationFrames": 199,
+          "role": "setup",
+          "narration": "True romance requires the terror of the unknown. Comfort without risk isn't love. It's just a habit."
+        },
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 52531,
+          "durationFrames": 195,
+          "role": "question",
+          "narration": "Wool and Julia had a relationship with a 0% chance of falling. Why? Because they were already flat o"
+        },
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 52726,
+          "durationFrames": 206,
+          "role": "partial_answer",
+          "narration": "There was no elevation. There was no risk. Will recognized that a relationship with no danger of fal"
+        },
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 52932,
+          "durationFrames": 314,
+          "role": "complication",
+          "narration": "Will is such a cowardly high school ex, though. I mean, come on. He couldn't just communicate that h"
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 53246,
+          "durationFrames": 334,
+          "role": "reveal",
+          "narration": "way out of a comfortable I wildly disagree with uh you characterizing him as a coward here. Will is "
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "source": "engine",
+      "fromFrame": 53580,
+      "durationFrames": 994,
+      "durationSeconds": 33.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 53580,
+          "durationFrames": 209,
+          "role": "setup",
+          "narration": "exact moment. What more than Damian? You're saying the cheating ex is more mature than the male Yes."
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 53789,
+          "durationFrames": 379,
+          "role": "question",
+          "narration": "Damian is still trying to have his cake and eat it too, keep his family's wealth and keep the girl. "
+        },
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 54168,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "had the guts to end it rather than fake it for the next 50 years behind a white picket fence. He art"
+        },
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 54413,
+          "durationFrames": 161,
+          "role": "reveal",
+          "narration": "Destiny removed choice. And without the conscious choice to fall, there is no trust."
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "source": "engine",
+      "fromFrame": 54574,
+      "durationFrames": 552,
+      "durationSeconds": 18.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 54574,
+          "durationFrames": 153,
+          "role": "setup",
+          "narration": "Okay, that is a compelling argument. The point about destiny removing choice is strong."
+        },
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 54727,
+          "durationFrames": 163,
+          "role": "question",
+          "narration": "And Julie actually realizes this, too. Later, she's talking to her friend Lauren about Damian."
+        },
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 54890,
+          "durationFrames": 236,
+          "role": "reveal",
+          "narration": "She compares the two boys in her head. She admits that Damen is everything she doesn't understand. H"
+        }
+      ]
+    },
+    {
+      "id": "seq-75",
+      "source": "authored",
+      "fromFrame": 55126,
+      "durationFrames": 420,
+      "durationSeconds": 14,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 55126,
+          "durationFrames": 208,
+          "role": "authored-start",
+          "narration": "She says, \"He makes me feel alive and Because Will was a flat safe surface."
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 55334,
+          "durationFrames": 212,
+          "role": "authored-kept",
+          "narration": "You can't be brave walking on a sidewalk. That doesn't require courage. Damian is the terrifying edg"
+        }
+      ]
+    },
+    {
+      "id": "seq-76",
+      "source": "engine",
+      "fromFrame": 55546,
+      "durationFrames": 268,
+      "durationSeconds": 8.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 55546,
+          "durationFrames": 268,
+          "role": "reveal",
+          "narration": "Loving Damian requires bravery because the drop is lethal. Which brings us to the climax of the stor"
+        }
+      ]
+    },
+    {
+      "id": "seq-77",
+      "source": "authored",
+      "fromFrame": 55814,
+      "durationFrames": 430,
+      "durationSeconds": 14.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 55814,
+          "durationFrames": 238,
+          "role": "authored-start",
+          "narration": "Damian and Julia finally strip away all the external noise. Damen looks down into her burnt amber ey"
+        },
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 56052,
+          "durationFrames": 192,
+          "role": "authored-kept",
+          "narration": "He strips away the arrogance, the leverage, the money, and just says, \"I think you're just my girl.\""
+        }
+      ]
+    },
+    {
+      "id": "seq-78",
+      "source": "engine",
+      "fromFrame": 56244,
+      "durationFrames": 444,
+      "durationSeconds": 14.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 56244,
+          "durationFrames": 144,
+          "role": "setup",
+          "narration": "And Julia has to make a decision in that single breath. She has all the data."
+        },
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 56388,
+          "durationFrames": 300,
+          "role": "reveal",
+          "narration": "She knows his family is incredibly toxic. She knows he lied by omission. She knows falling hurts bec"
+        }
+      ]
+    },
+    {
+      "id": "seq-79",
+      "source": "authored",
+      "fromFrame": 56688,
+      "durationFrames": 641,
+      "durationSeconds": 21.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 56688,
+          "durationFrames": 221,
+          "role": "authored-start",
+          "narration": "\"I'm going to take a risk and trust you one more time, but please don't let me down.\" Here is the br"
+        },
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 56909,
+          "durationFrames": 194,
+          "role": "authored-kept",
+          "narration": "You can never be 100% sure they will catch you. No amount of data, no amount of promises,"
+        },
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 57103,
+          "durationFrames": 226,
+          "role": "authored-kept",
+          "narration": "no amount of tearful apologies in dark hallways guarantees your safety. Gravity is still there. The "
+        }
+      ]
+    },
+    {
+      "id": "seq-80",
+      "source": "engine",
+      "fromFrame": 57329,
+      "durationFrames": 1325,
+      "durationSeconds": 44.2,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 57329,
+          "durationFrames": 185,
+          "role": "setup",
+          "narration": "The core truth of this book is that you have to make the conscious choice to jump anyway, fully awar"
+        },
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 57514,
+          "durationFrames": 187,
+          "role": "question",
+          "narration": "And the author, Lynn Painter, actually primes the reader for this exact concept before the story eve"
+        },
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 57701,
+          "durationFrames": 413,
+          "role": "partial_answer",
+          "narration": "If you look at the book's dual dedications, it's laid out right there on page one. Oh, I loved those"
+        },
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 58114,
+          "durationFrames": 170,
+          "role": "complication",
+          "narration": "a real, messy, vibrant person who lived fully. The second dedication is to the reader."
+        },
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 58284,
+          "durationFrames": 370,
+          "role": "reveal",
+          "narration": "It says, \"You might think you're alone, but you're not. Your people just haven't found you yet. They"
+        }
+      ]
+    },
+    {
+      "id": "seq-81",
+      "source": "engine",
+      "fromFrame": 58654,
+      "durationFrames": 254,
+      "durationSeconds": 8.5,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 58654,
+          "durationFrames": 254,
+          "role": "reveal",
+          "narration": "refuse to jump. You just stay alone on the sidewalk. Exactly. But I know you have reservations about"
+        }
+      ]
+    },
+    {
+      "id": "seq-82",
+      "source": "authored",
+      "fromFrame": 58908,
+      "durationFrames": 514,
+      "durationSeconds": 17.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 58908,
+          "durationFrames": 271,
+          "role": "authored-start",
+          "narration": "I agree with the thematic resonance of jumping. But on a narrative level, I think Julia let Damen of"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 59179,
+          "durationFrames": 243,
+          "role": "authored-kept",
+          "narration": "Too easy. She put him through the emotional ringer. She shut him out completely. She took him back a"
+        }
+      ]
+    },
+    {
+      "id": "seq-83",
+      "source": "engine",
+      "fromFrame": 59422,
+      "durationFrames": 1188,
+      "durationSeconds": 39.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 59422,
+          "durationFrames": 254,
+          "role": "setup",
+          "narration": "Think about the stakes. His billionaire family launched a malicious fraud lawsuit against her workin"
+        },
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 59676,
+          "durationFrames": 202,
+          "role": "question",
+          "narration": "They could have lost their grocery store, their livelihood, everything. She should have made him gro"
+        },
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 59878,
+          "durationFrames": 225,
+          "role": "partial_answer",
+          "narration": "He needed to definitively prove his loyalty, perhaps legally emancipate himself from his father's em"
+        },
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 60103,
+          "durationFrames": 221,
+          "role": "complication",
+          "narration": "Forgiving him this quickly feels like she's ignoring the very real concrete she just You are demandi"
+        },
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 60324,
+          "durationFrames": 286,
+          "role": "reveal",
+          "narration": "You're demanding that Damen proved the ground is padded with legal documents and months of graveling"
+        }
+      ]
+    },
+    {
+      "id": "seq-84",
+      "source": "engine",
+      "fromFrame": 60610,
+      "durationFrames": 1238,
+      "durationSeconds": 41.3,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 60610,
+          "durationFrames": 376,
+          "role": "setup",
+          "narration": "Yes. The leap of faith requires immediate terrifying action. Prolonged punishment making him gravel "
+        },
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 60986,
+          "durationFrames": 209,
+          "role": "question",
+          "narration": "Julia choosing to forgive him in that breath, choosing to say, \"I will trust you one more time,\" is "
+        },
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 61195,
+          "durationFrames": 199,
+          "role": "partial_answer",
+          "narration": "She feels the gravity pull. She remembers how hard the ground is. And she consciously chooses to tru"
+        },
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 61394,
+          "durationFrames": 166,
+          "role": "complication",
+          "narration": "that is a very romantic view of a very messy legal reality, which"
+        },
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 61560,
+          "durationFrames": 288,
+          "role": "reveal",
+          "narration": "actually transitions us perfectly into a broader criticism of the book. We have to bring up one hone"
+        }
+      ]
+    },
+    {
+      "id": "seq-85",
+      "source": "engine",
+      "fromFrame": 61848,
+      "durationFrames": 972,
+      "durationSeconds": 32.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 61848,
+          "durationFrames": 257,
+          "role": "setup",
+          "narration": "strains incredibly heavily under the weight of the legal and financial conspiracy plot. It really do"
+        },
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 62105,
+          "durationFrames": 247,
+          "role": "question",
+          "narration": "difficult to accept Julia forgiving Damian so quickly when his family is actively trying to bankrupt"
+        },
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 62352,
+          "durationFrames": 269,
+          "role": "complication",
+          "narration": "We are not talking about a misunderstanding over a misread text message or a high school rumor. We a"
+        },
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 62621,
+          "durationFrames": 199,
+          "role": "reveal",
+          "narration": "a malicious civil lawsuit alleging elder abuse and fraud. The question the book asks you to swallow "
+        }
+      ]
+    },
+    {
+      "id": "seq-86",
+      "source": "engine",
+      "fromFrame": 62820,
+      "durationFrames": 1097,
+      "durationSeconds": 36.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 62820,
+          "durationFrames": 235,
+          "role": "setup",
+          "narration": "can you truly untangle the boy you love from the billionaire crime syndicate family that raised him "
+        },
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 63055,
+          "durationFrames": 271,
+          "role": "question",
+          "narration": "Damian might have good intentions, but he wears suits bought by the man trying to ruin Julia's fathe"
+        },
+        {
+          "index": 244,
+          "sceneId": "scene-244",
+          "fromFrame": 63326,
+          "durationFrames": 334,
+          "role": "complication",
+          "narration": "Can love actually conquer a malicious civil It requires a massive suspension of disbelief. You have "
+        },
+        {
+          "index": 245,
+          "sceneId": "scene-245",
+          "fromFrame": 63660,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "And in the real world, those two things are intricately tied together. It's the one area where the t"
+        }
+      ]
+    },
+    {
+      "id": "seq-87",
+      "source": "engine",
+      "fromFrame": 63917,
+      "durationFrames": 989,
+      "durationSeconds": 33,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 246,
+          "sceneId": "scene-246",
+          "fromFrame": 63917,
+          "durationFrames": 211,
+          "role": "setup",
+          "narration": "she isn't just trusting Damian. She's trusting that Damian can shield her from a fleet of ruthless c"
+        },
+        {
+          "index": 247,
+          "sceneId": "scene-247",
+          "fromFrame": 64128,
+          "durationFrames": 240,
+          "role": "question",
+          "narration": "It pushes the boundaries of how much external reality a romance novel can handle before the central "
+        },
+        {
+          "index": 248,
+          "sceneId": "scene-248",
+          "fromFrame": 64368,
+          "durationFrames": 254,
+          "role": "complication",
+          "narration": "It asks a lot of the reader's capacity to compartmentalize. But perhaps that extreme pressure, that "
+        },
+        {
+          "index": 249,
+          "sceneId": "scene-249",
+          "fromFrame": 64622,
+          "durationFrames": 284,
+          "role": "reveal",
+          "narration": "is exactly what makes the final choice so potent. We've spent this entire time looking at Julia's tr"
+        }
+      ]
+    },
+    {
+      "id": "seq-88",
+      "source": "engine",
+      "fromFrame": 64906,
+      "durationFrames": 823,
+      "durationSeconds": 27.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 250,
+          "sceneId": "scene-250",
+          "fromFrame": 64906,
+          "durationFrames": 372,
+          "role": "setup",
+          "narration": "her Shakespearean armor, her terror of hitting the concrete after Will dropped her. We thought the t"
+        },
+        {
+          "index": 251,
+          "sceneId": "scene-251",
+          "fromFrame": 65278,
+          "durationFrames": 182,
+          "role": "question",
+          "narration": "the mechanics of the story, the ultimate trust fall wasn't hers. It was Damian's."
+        },
+        {
+          "index": 252,
+          "sceneId": "scene-252",
+          "fromFrame": 65460,
+          "durationFrames": 269,
+          "role": "reveal",
+          "narration": "He had to fall completely away from his family's toxic empire, his limitless inheritance, and his ri"
+        }
+      ]
+    },
+    {
+      "id": "seq-89",
+      "source": "authored",
+      "fromFrame": 65729,
+      "durationFrames": 413,
+      "durationSeconds": 13.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 253,
+          "sceneId": "scene-253",
+          "fromFrame": 65729,
+          "durationFrames": 257,
+          "role": "authored-start",
+          "narration": "He had to step off the precipice of his entire known universe, trusting that Julia's world, the mess"
+        },
+        {
+          "index": 254,
+          "sceneId": "scene-254",
+          "fromFrame": 65986,
+          "durationFrames": 156,
+          "role": "authored-kept",
+          "narration": "would be strong enough to catch him. The true risk wasn't her losing her heart."
+        }
+      ]
+    },
+    {
+      "id": "seq-90",
+      "source": "engine",
+      "fromFrame": 66142,
+      "durationFrames": 135,
+      "durationSeconds": 4.5,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 255,
+          "sceneId": "scene-255",
+          "fromFrame": 66142,
+          "durationFrames": 135,
+          "role": "reveal",
+          "narration": "The true risk was him losing his entire world just to find it."
+        }
+      ]
+    }
+  ]
+}

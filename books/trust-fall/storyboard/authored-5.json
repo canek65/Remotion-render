@@ -1,0 +1,976 @@
+[
+  {
+    "i": 152,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "callout": {
+      "text": "Willing to risk it?",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen asks Julia point blank, face to face, if she will risk falling for him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen asks Julia if she will risk falling in love with him",
+      "concreteVisual": "Damen and Julia on the ballroom floor, he asks, she listens",
+      "onScreenText": "Willing to risk it?",
+      "relationToPrevious": "New scene: the ballroom",
+      "addedInformation": "weak: ask and listener only"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 153,
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "set": "room",
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "callout": {
+      "text": "Not even a little bit",
+      "style": "reveal"
+    },
+    "explainedBy": "Julia answers him straight, dropping her caution; he is taken aback.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia says not even a little bit",
+      "concreteVisual": "Julia looks him in the eye and answers, Damen reacts",
+      "onScreenText": "Not even a little bit",
+      "relationToPrevious": "Her answer to his question",
+      "addedInformation": "her answer, his reaction"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 154,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "smirk",
+    "action": "embrace",
+    "actionCue": "dips",
+    "callout": {
+      "text": "Hair brushing the floor",
+      "style": "reveal"
+    },
+    "explainedBy": "Damen dips her far back in his arms.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen dips Julia so far back her hair brushes the floor",
+      "concreteVisual": "Damen holds Julia bent back in a dip",
+      "onScreenText": "Hair brushing the floor",
+      "relationToPrevious": "He acts on her yes",
+      "addedInformation": "the dip itself"
+    },
+    "concept": null,
+    "diagram": null,
+    "partnerExpression": "happy"
+  },
+  {
+    "i": 155,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "happy",
+    "action": "embrace",
+    "partnerExpression": "happy",
+    "callout": {
+      "text": "Surrender to the fall",
+      "style": "highlight"
+    },
+    "continue": true,
+    "explainedBy": "The dip is held: he says let's fall; the surrender is physical.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The dip is the argument made physical: surrender",
+      "concreteVisual": "Same dip held, he says let's fall",
+      "onScreenText": "Let's fall",
+      "relationToPrevious": "Same stage held",
+      "addedInformation": "the line spoken"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 156,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "worried",
+    "action": "embrace",
+    "partnerExpression": "afraid",
+    "callout": {
+      "text": "Her whole weight on him",
+      "style": "reveal"
+    },
+    "continue": true,
+    "explainedBy": "She rests her whole body weight on his arms; if he lets go she is hurt.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She trusts him with her entire body weight",
+      "concreteVisual": "Dip held, her face shows risk",
+      "onScreenText": "Her whole weight on him",
+      "relationToPrevious": "Her face changes to fear in the held dip",
+      "addedInformation": "risk of letting go"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 157,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "happy",
+    "callout": {
+      "text": "Biggest risk: loving me",
+      "style": "highlight"
+    },
+    "explainedBy": "Damen cloaks his vulnerability in an arrogant warning to her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen warns her the biggest risk is falling for him",
+      "concreteVisual": "Smirking Damen talks, Julia smiles",
+      "onScreenText": "Biggest risk: loving me",
+      "relationToPrevious": "Just before the dip",
+      "addedInformation": "arrogance"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 158,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "smirk",
+    "action": "talk",
+    "callout": {
+      "text": "Cocky confidence over vulnerability",
+      "style": "highlight"
+    },
+    "explainedBy": "A confident smirk hides that he desperately wants her love.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen hides vulnerability in cocky confidence",
+      "concreteVisual": "Damen alone, smirking",
+      "onScreenText": "Cocky confidence",
+      "relationToPrevious": "Comment on the same line",
+      "addedInformation": "face as claim"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 159,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "happy",
+    "action": "embrace",
+    "partnerExpression": "happy",
+    "callout": {
+      "text": "A breathless trust fall",
+      "style": "reveal"
+    },
+    "explainedBy": "The reader sees a beautiful trust fall, held in the dip.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trust fall looks beautiful on the surface",
+      "concreteVisual": "The dip held, both smiling",
+      "onScreenText": "A breathless trust fall",
+      "relationToPrevious": "Back to the dip",
+      "addedInformation": "sets up irony"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 160,
+    "cast": [],
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Trust fall",
+        "Father's trap springs"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "Cause and contrast: the trust fall happens at the same moment the trap springs.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trust fall coincides with his father's trap",
+      "concreteVisual": "Flow: Trust fall then Father's trap springs",
+      "onScreenText": "Trust fall / Father's trap springs",
+      "relationToPrevious": "New diagram for the irony",
+      "addedInformation": "links two events"
+    },
+    "concept": null
+  },
+  {
+    "i": 161,
+    "cast": [],
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Trust fall",
+        "Father's trap springs",
+        "Legal maneuver"
+      ]
+    },
+    "callout": null,
+    "continue": true,
+    "explainedBy": "The trap is the legal maneuver being executed out in the hallway.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quinn executes the legal maneuver to destroy Julia's family",
+      "concreteVisual": "Same flow gains Legal maneuver",
+      "onScreenText": "Legal maneuver",
+      "relationToPrevious": "One more label",
+      "addedInformation": "names the trap"
+    },
+    "concept": null
+  },
+  {
+    "i": 162,
+    "cast": [],
+    "concept": "home",
+    "callout": {
+      "text": "Floor removed from underneath",
+      "style": "reveal"
+    },
+    "explainedBy": "The floor is literally being removed from under the family.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen asks her to fall while the floor is removed",
+      "concreteVisual": "A house icon with the callout",
+      "onScreenText": "Floor removed from underneath",
+      "relationToPrevious": "Picture of what is lost",
+      "addedInformation": "weak: icon plus callout"
+    },
+    "diagram": null
+  },
+  {
+    "i": 163,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "happy",
+    "action": "talk",
+    "callout": {
+      "text": "Total immersion",
+      "style": "highlight"
+    },
+    "explainedBy": "Total immersion: he is fully absorbed in the surrender.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The surrender is genuine for Damen",
+      "concreteVisual": "Damen warm and present",
+      "onScreenText": "Total immersion",
+      "relationToPrevious": "Host pushes back on irony",
+      "addedInformation": "a view, a feeling"
+    },
+    "concept": "heart",
+    "diagram": null
+  },
+  {
+    "i": 164,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "happy",
+    "action": "embrace",
+    "partnerExpression": "happy",
+    "callout": {
+      "text": "Father's machinations forgotten",
+      "style": "reveal"
+    },
+    "explainedBy": "In that instant he is wholly in the dip with her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen forgets his father's machinations in the moment",
+      "concreteVisual": "Damen holds Julia, happy",
+      "onScreenText": "Father's machinations forgotten",
+      "relationToPrevious": "Shows the immersion",
+      "addedInformation": "embrace as claim"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 165,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "happy",
+    "action": "embrace",
+    "partnerExpression": "happy",
+    "callout": {
+      "text": "His smile grew",
+      "style": "reveal"
+    },
+    "continue": true,
+    "explainedBy": "He holds her and his smile grows; he is present.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His smile grows as he holds her",
+      "concreteVisual": "Same embrace, smile",
+      "onScreenText": "His smile grew",
+      "relationToPrevious": "Same stage",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 166,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "embrace",
+    "partnerExpression": "happy",
+    "callout": {
+      "text": "Gravity always wins",
+      "style": "highlight"
+    },
+    "continue": true,
+    "explainedBy": "Reality does not pause for romance: his face shifts as the dip ends.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gravity always wins",
+      "concreteVisual": "His face turns sad in the same embrace",
+      "onScreenText": "Gravity always wins",
+      "relationToPrevious": "His face changes",
+      "addedInformation": "turn"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 167,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "slump",
+    "callout": {
+      "text": "Hitting emotional concrete",
+      "style": "reveal"
+    },
+    "explainedBy": "When the one who caught you drops you, it destroys you.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Being dropped by the one who caught you destroys her",
+      "concreteVisual": "Julia bowed, sad",
+      "onScreenText": "Hitting emotional concrete",
+      "relationToPrevious": "Aftermath of the fall",
+      "addedInformation": "feeling"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 168,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "happy",
+    "action": "idle",
+    "callout": {
+      "text": "Let your guard down",
+      "style": "reveal"
+    },
+    "explainedBy": "A moment of letting your guard down with someone.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The listener imagines letting their guard down",
+      "concreteVisual": "Julia open, smiling",
+      "onScreenText": "Let your guard down",
+      "relationToPrevious": "Invitation to imagine",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 169,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "afraid",
+    "action": "slump",
+    "callout": {
+      "text": "The floor gives way",
+      "style": "reveal"
+    },
+    "explainedBy": "The floor gives way at the second you were fully supported.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The floor gives way under her",
+      "concreteVisual": "Julia afraid",
+      "onScreenText": "The floor gives way",
+      "relationToPrevious": "Contrast with previous face",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 170,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "slump",
+    "callout": {
+      "text": "Cold stone wall",
+      "style": "reveal"
+    },
+    "explainedBy": "Cut from the ballroom to a dark hallway; Julia faces a stone wall.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia faces a cold stone wall in a dark hallway",
+      "concreteVisual": "Julia alone, bowed",
+      "onScreenText": "Cold stone wall",
+      "relationToPrevious": "Cut from the ballroom",
+      "addedInformation": "scene change"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 171,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "slump",
+    "callout": {
+      "text": "Sobbing, whispering her mantra",
+      "style": "reveal"
+    },
+    "continue": true,
+    "explainedBy": "She sobs with her arms around herself, whispering her mantra.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She sobs and whispers the self-preservation mantra",
+      "concreteVisual": "Same stage, sobbing",
+      "onScreenText": "Whispering her mantra",
+      "relationToPrevious": "Same stage",
+      "addedInformation": "weak: face only"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 172,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "talk",
+    "callout": {
+      "text": "Juliet is the sun",
+      "style": "highlight"
+    },
+    "continue": true,
+    "explainedBy": "She repeats the Shakespeare mantra; the safety net has vanished.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She repeats the mantra: it is the east",
+      "concreteVisual": "Same stage, she speaks",
+      "onScreenText": "Juliet is the sun",
+      "relationToPrevious": "Same stage",
+      "addedInformation": "the mantra"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 173,
+    "cast": [],
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Romance",
+        "Risk",
+        "Devastation"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "The argument: romance requires risk, and risk carries the threat of devastation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Romance requires risk; risk carries devastation",
+      "concreteVisual": "Flow Romance, Risk, Devastation",
+      "onScreenText": "Romance / Risk / Devastation",
+      "relationToPrevious": "The corollary",
+      "addedInformation": "cause chain"
+    },
+    "concept": null
+  },
+  {
+    "i": 174,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "slump",
+    "callout": {
+      "text": "She fell; he wasn't there",
+      "style": "reveal"
+    },
+    "explainedBy": "She took the fall and he was not there.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She took the fall and he was not there",
+      "concreteVisual": "Julia alone, bowed",
+      "onScreenText": "He wasn't there",
+      "relationToPrevious": "Back to her in the hallway",
+      "addedInformation": "feeling"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 175,
+    "cast": [],
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Warm lit ballroom",
+        "Alone against the cold wall"
+      ]
+    },
+    "callout": null,
+    "explainedBy": "Two places side by side: held in the warm ballroom versus alone at the cold wall.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ballroom against the cold stone wall",
+      "concreteVisual": "Sorter with two settings",
+      "onScreenText": "Warm lit ballroom / Cold dark stone wall",
+      "relationToPrevious": "Compares the two scenes",
+      "addedInformation": "comparison"
+    },
+    "concept": null
+  },
+  {
+    "i": 176,
+    "cast": [],
+    "concept": "law",
+    "callout": {
+      "text": "Fraud lawsuit threatened",
+      "style": "reveal"
+    },
+    "explainedBy": "Quinn Rutledge publicly accuses her parents and threatens a fraud lawsuit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quinn threatens a massive fraud lawsuit in public",
+      "concreteVisual": "Law icon with the callout",
+      "onScreenText": "Fraud lawsuit threatened",
+      "relationToPrevious": "The trigger",
+      "addedInformation": "weak: icon plus callout"
+    },
+    "diagram": null
+  },
+  {
+    "i": 177,
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "set": "room",
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "callout": {
+      "text": "He is the son",
+      "style": "reveal"
+    },
+    "explainedBy": "Julia connects the dots: the boy she risked everything for is his son.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia realizes Damen is the son of the man who attacks her family",
+      "concreteVisual": "Julia stunned, Damen beside her",
+      "onScreenText": "He is the son",
+      "relationToPrevious": "Realization",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 178,
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "worried",
+    "callout": {
+      "text": "Part of the machinery",
+      "style": "reveal"
+    },
+    "continue": true,
+    "explainedBy": "She sees him as part of the machinery that ruined them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She thinks Damen was part of the machinery",
+      "concreteVisual": "Same stage, her face falls",
+      "onScreenText": "Part of the machinery",
+      "relationToPrevious": "Her face falls",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 179,
+    "cast": [],
+    "concept": "balance",
+    "callout": {
+      "text": "Did Damen betray her?",
+      "style": "highlight"
+    },
+    "explainedBy": "The question that divides readers: did he betray her, weighed on two sides.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Did Damen betray her?",
+      "concreteVisual": "Balance icon",
+      "onScreenText": "Did Damen betray her?",
+      "relationToPrevious": "New question",
+      "addedInformation": "weak"
+    },
+    "diagram": null
+  },
+  {
+    "i": 180,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "blank",
+    "action": "idle",
+    "callout": {
+      "text": "His silence is complicity",
+      "style": "reveal"
+    },
+    "explainedBy": "He did not launch the attack, but his silence is complicity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen's silence is complicity",
+      "concreteVisual": "Damen silent, blank",
+      "onScreenText": "His silence is complicity",
+      "relationToPrevious": "Argument yes",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 181,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "worried",
+    "action": "slump",
+    "callout": {
+      "text": "He knew his father's tactics",
+      "style": "reveal"
+    },
+    "explainedBy": "He knew his father's tactics and how he saw the family.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen knew his father's tactics",
+      "concreteVisual": "Damen uneasy",
+      "onScreenText": "He knew his father's tactics",
+      "relationToPrevious": "Evidence for the argument",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 182,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "classroom",
+    "expression": "smirk",
+    "action": "talk",
+    "holds": "book",
+    "partnerExpression": "neutral",
+    "callout": {
+      "text": "Transactional intimacy",
+      "style": "reveal"
+    },
+    "explainedBy": "In the early tutoring days he gathered intel on her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen gathered intel during tutoring",
+      "concreteVisual": "Damen with a book tutoring Julia",
+      "onScreenText": "Transactional intimacy",
+      "relationToPrevious": "Back to the tutoring scenes",
+      "addedInformation": "weak"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 183,
+    "cast": [
+      "julia"
+    ],
+    "set": "room",
+    "expression": "afraid",
+    "action": "idle",
+    "concept": "ledge",
+    "callout": {
+      "text": "The net was rigged",
+      "style": "reveal"
+    },
+    "explainedBy": "He let her step off the ledge without telling her the net was rigged.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She stepped off the ledge unaware the net was rigged",
+      "concreteVisual": "Julia at a ledge icon",
+      "onScreenText": "The net was rigged",
+      "relationToPrevious": "His undisclosed deception",
+      "addedInformation": "ledge is literal here"
+    },
+    "diagram": null
+  },
+  {
+    "i": 184,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "talk",
+    "callout": {
+      "text": "Defending Damen",
+      "style": "highlight"
+    },
+    "explainedBy": "The other host defends Damen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "One host defends Damen",
+      "concreteVisual": "Damen sad",
+      "onScreenText": "Defending Damen",
+      "relationToPrevious": "Counter-argument",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 185,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "slump",
+    "callout": {
+      "text": "A victim of his father",
+      "style": "reveal"
+    },
+    "explainedBy": "Damen is a victim of his father's tactics as much as the family is.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen is as much a victim as the family",
+      "concreteVisual": "Damen bowed",
+      "onScreenText": "A victim of his father",
+      "relationToPrevious": "Defense continues",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 186,
+    "cast": [],
+    "concept": "mask",
+    "callout": {
+      "text": "Master manipulator",
+      "style": "reveal"
+    },
+    "explainedBy": "Quinn controls others: he is a master manipulator.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quinn manipulates others",
+      "concreteVisual": "Puppeteer icon",
+      "onScreenText": "Master manipulator",
+      "relationToPrevious": "Describes the father",
+      "addedInformation": "icon reads controlling"
+    },
+    "diagram": null
+  },
+  {
+    "i": 187,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "surprised",
+    "action": "idle",
+    "callout": {
+      "text": "Nuclear strike at the ball",
+      "style": "reveal"
+    },
+    "explainedBy": "He did not know his father would launch a nuclear strike at the ball.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen did not know about the public strike",
+      "concreteVisual": "Damen surprised",
+      "onScreenText": "Nuclear strike at the ball",
+      "relationToPrevious": "Defense point",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 188,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "angry",
+    "action": "talk",
+    "callout": {
+      "text": "Questioned the eviction",
+      "style": "reveal"
+    },
+    "explainedBy": "Earlier he pushed back against his father, questioning the eviction.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen pushed back against his father",
+      "concreteVisual": "Damen angry, speaking",
+      "onScreenText": "Questioned the eviction",
+      "relationToPrevious": "Evidence for the defense",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 189,
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "set": "room",
+    "expression": "afraid",
+    "action": "talk",
+    "partnerExpression": "sad",
+    "callout": {
+      "text": "He chases and begs her",
+      "style": "reveal"
+    },
+    "explainedBy": "In the hallway he chases Julia, panicked, begging.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen chases Julia down and begs her",
+      "concreteVisual": "Panicked Damen talks, Julia sad",
+      "onScreenText": "He chases and begs her",
+      "relationToPrevious": "Hallway scene",
+      "addedInformation": "plea"
+    },
+    "concept": null,
+    "diagram": null
+  },
+  {
+    "i": 190,
+    "cast": [
+      "damen"
+    ],
+    "set": "room",
+    "expression": "sad",
+    "action": "talk",
+    "concept": "heart",
+    "callout": {
+      "text": "Deeply into all of you",
+      "style": "highlight"
+    },
+    "explainedBy": "He says he is deeply into all of her; his father pushed them off.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He did not drop her; his father pushed them both off",
+      "concreteVisual": "Damen sad with a heart",
+      "onScreenText": "Deeply into all of you",
+      "relationToPrevious": "His plea",
+      "addedInformation": "heart reads love"
+    },
+    "diagram": null
+  },
+  {
+    "i": 191,
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "set": "room",
+    "expression": "afraid",
+    "action": "slump",
+    "partnerExpression": "sad",
+    "callout": {
+      "text": "She is in freefall",
+      "style": "reveal"
+    },
+    "explainedBy": "Regardless of who pushed, she is in freefall and he is devastated too.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Both are devastated by the fall",
+      "concreteVisual": "Julia afraid, Damen sad",
+      "onScreenText": "She is in freefall",
+      "relationToPrevious": "End of chunk",
+      "addedInformation": "face"
+    },
+    "concept": null,
+    "diagram": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "man in his mid-twenties",
+    "face": "neutral",
+    "body": "hold"
+   },
+   {
+    "looks": "young woman in her early twenties",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "classroom",
+  "words": "The safety net is intact"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "young man in his early twenties",
+    "face": "blank",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a house",
+  "place": "room",
+  "words": "NO DANGER OF FALLING"
+ }
+]

@@ -1,0 +1,85 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-10-30T15:41:08.168Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "9e27acec",
+      "configHash": "151776c942cf71f7",
+      "renderInputHash": "d01af6b27ab6e933",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 469
+      },
+      "preview": {
+        "state": "MISSING",
+        "covered": false,
+        "mute": null
+      },
+      "decision": {
+        "kind": "REFUSED",
+        "ok": false,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 29,
+        "goneFindings": 0
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-10-30T16:23:00.895Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "efdad434",
+      "configHash": "151776c942cf71f7",
+      "renderInputHash": "d01af6b27ab6e933",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 469
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run2",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 4,
+          "adds": 23,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Operator accepted, for render input d01af6b27ab6e933 only: the 215 non-diagnostic REVIEW findings (182 strategy-requirement expectations and 33 unresolved strategies; 43 absence and 7 state gaps acknowledged, not resolved). Basis: sealed holdout run2 PASS (WRONG 0/30, DEAD 4/30, ADDS 23/30, EXPLAINS 2/30) on config 151776c9. BLOCK 0. Does not cover other books, other configs, new findings or BLOCK findings.",
+        "covered": 29,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+[
+  {
+    "i": 114,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Resentful of his parents",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "set": "room",
+    "explainedBy": "Damen is resentful of his parents and defends Julia as rebellion against his father path.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen rebels against his parents by defending Julia.",
+      "concreteVisual": "Damen angry, talking, alone in a room",
+      "onScreenText": "Resentful of his parents",
+      "relationToPrevious": "Opens the proxy-war argument",
+      "addedInformation": "Face of resentment"
+    }
+  },
+  {
+    "i": 115,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Defending Julia",
+        "Fighting his dad"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause to effect: defending Julia is how he fights his father.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia is a weapon in a proxy war against his dad.",
+      "concreteVisual": "Flow diagram: Defending Julia to Fighting his dad",
+      "onScreenText": "Defending Julia -> Fighting his dad",
+      "relationToPrevious": "Turns the resentment into a mechanism",
+      "addedInformation": "Proxy war structure"
+    }
+  },
+  {
+    "i": 116,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "He loves her freedom",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "set": "room",
+    "explainedBy": "The counter-view: Damen loves her freedom and the closeness of defending her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The other host sees real intimacy, not only a proxy war.",
+      "concreteVisual": "Damen warm, Julia beside him, a heart icon",
+      "onScreenText": "He loves her freedom",
+      "relationToPrevious": "Host disagreement turns to the intimacy side",
+      "addedInformation": "Warmth toward Julia"
+    }
+  },
+  {
+    "i": 117,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "He elevates her mind",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "partnerExpression": "surprised",
+    "set": "room",
+    "explainedBy": "Damen speaks up for Julia mind instead of changing the subject.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He defends her intellect, not just shields her.",
+      "concreteVisual": "Damen gestures for Julia, who looks surprised",
+      "onScreenText": "He elevates her mind",
+      "relationToPrevious": "Same two, now the deed of defending",
+      "addedInformation": "Shows his defence"
+    }
+  },
+  {
+    "i": 118,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "He unbalances himself",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "partnerExpression": "surprised",
+    "set": "room",
+    "explainedBy": "Damen steps off his platform and unbalances himself to intercept the strike.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He puts himself off balance for her.",
+      "concreteVisual": "Damen reaches toward Julia, a balance icon beside them",
+      "onScreenText": "He unbalances himself",
+      "relationToPrevious": "Moves from motive to the physical act",
+      "addedInformation": "Risk shown as balance"
+    }
+  },
+  {
+    "i": 119,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Still on home turf",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "set": "room",
+    "explainedBy": "He takes the risk of her safety net, but he is still on his home turf.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen risks falling to act as her net.",
+      "concreteVisual": "Damen worried, bowed, alone",
+      "onScreenText": "A safety net",
+      "relationToPrevious": "Result of the step off the platform",
+      "addedInformation": "Face of risk"
+    }
+  },
+  {
+    "i": 120,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "His home turf",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "set": "street",
+    "explainedBy": "The other host: they are in New York, his turf, so the bravery is easy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen is on home ground in New York.",
+      "concreteVisual": "Damen smirking before a city icon on a street",
+      "onScreenText": "His home turf",
+      "relationToPrevious": "Pushback against the safety-net praise",
+      "addedInformation": "Setting as the argument"
+    }
+  },
+  {
+    "i": 121,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Brave in his own backyard",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "continue": true,
+    "set": "street",
+    "explainedBy": "Real trust fall means stripping away geographical armor; easy to be brave at home.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Real bravery means leaving his own backyard.",
+      "concreteVisual": "Same city and Damen, face changed to concern",
+      "onScreenText": "Brave in his own backyard",
+      "relationToPrevious": "Keeps the city, changes the face",
+      "addedInformation": "The challenge to chase her"
+    }
+  },
+  {
+    "i": 122,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "Far from New York",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "set": "bedroom",
+    "explainedBy": "The scene moves far from New York to a childhood home.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The story shifts away from New York.",
+      "concreteVisual": "Julia alone in a bedroom with a home icon",
+      "onScreenText": "Far from New York",
+      "relationToPrevious": "Scene change",
+      "addedInformation": "New place"
+    }
+  },
+  {
+    "i": 123,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "A freezing autumn rainstorm",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "set": "bedroom",
+    "explainedBy": "Julia sits in her childhood bedroom in Springfield, Nebraska, in a cold rainstorm.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Springfield, Nebraska: blustery, freezing rain.",
+      "concreteVisual": "Julia bowed in her bedroom with a storm icon",
+      "onScreenText": "A freezing autumn rainstorm",
+      "relationToPrevious": "Names the place and weather",
+      "addedInformation": "Weather and place"
+    }
+  },
+  {
+    "i": 124,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Seeking refuge",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "set": "bedroom",
+    "explainedBy": "Julia is in her bedroom seeking refuge from the inheritance and lawsuit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia hides from New York.",
+      "concreteVisual": "Julia worried in her bedroom, a shield icon",
+      "onScreenText": "Seeking refuge",
+      "relationToPrevious": "Gives the reason she is there",
+      "addedInformation": "Why she is there"
+    }
+  },
+  {
+    "i": 125,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "Damian hangs from the trellis",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "set": "bedroom",
+    "explainedBy": "Damian is the one hanging from the trellis; Julia watches from the window.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen dangles outside her window.",
+      "concreteVisual": "Julia startled in her bedroom, Damen beside the trellis",
+      "onScreenText": "Dangling from the trellis",
+      "relationToPrevious": "The arrival at the window",
+      "addedInformation": "Key image of the scene"
+    }
+  },
+  {
+    "i": 126,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "I wasn't ready yet, Jules",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "set": "bedroom",
+    "explainedBy": "Damen drops the swagger and says he was not ready yet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen speaks honestly in the rain.",
+      "concreteVisual": "Damen speaking, Julia listening, trellis icon",
+      "onScreenText": "I wasn't ready yet, Jules",
+      "relationToPrevious": "Damen now speaks",
+      "addedInformation": "His honesty"
+    }
+  },
+  {
+    "i": 127,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Leave your environment",
+        "Drop your guard"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause to effect: leaving your environment lets you drop your guard.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dropping your guard means leaving your environment.",
+      "concreteVisual": "Flow diagram of two labels",
+      "onScreenText": "Leave your environment -> Drop your guard",
+      "relationToPrevious": "From scene to thesis",
+      "addedInformation": "Mechanism"
+    }
+  },
+  {
+    "i": 128,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Leave your environment",
+        "Drop your guard",
+        "He meets her"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "He leaves his armor and meets her where she is real.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen leaves his New York armor to meet her.",
+      "concreteVisual": "Same flow, a third label added",
+      "onScreenText": "He meets her",
+      "relationToPrevious": "Adds one label",
+      "addedInformation": "Result of the leaving"
+    }
+  },
+  {
+    "i": 129,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "Exposed to the elements",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "set": "bedroom",
+    "explainedBy": "He exposes himself to the rain and the danger of the climb.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He gives up the power dynamic in the storm.",
+      "concreteVisual": "Damen worried and bowed beside a storm icon",
+      "onScreenText": "Exposed to the elements",
+      "relationToPrevious": "Shows the exposure",
+      "addedInformation": "Physical danger"
+    }
+  },
+  {
+    "i": 130,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "Her heart in her throat",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "set": "bedroom",
+    "explainedBy": "Julia reaction is visceral: her heart is in her throat.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia reacts with a pounding heart.",
+      "concreteVisual": "Julia afraid with a heart icon",
+      "onScreenText": "Her heart in her throat",
+      "relationToPrevious": "Julia reaction",
+      "addedInformation": "Her feeling"
+    }
+  },
+  {
+    "i": 131,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "The ghost of her past",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "set": "bedroom",
+    "explainedBy": "The ghost of her past is attached to that same trellis.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trellis carries a memory.",
+      "concreteVisual": "Julia sad beside the trellis icon",
+      "onScreenText": "The ghost of her past",
+      "relationToPrevious": "Answers why",
+      "addedInformation": "Source of her fear"
+    }
+  },
+  {
+    "i": 132,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "Will, her ex-boyfriend",
+      "style": "highlight"
+    },
+    "cast": [
+      "will",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "set": "bedroom",
+    "explainedBy": "Will, the ex who shattered her, used to climb that trellis on summer nights.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will used the same trellis.",
+      "concreteVisual": "Will beside the trellis, Julia sad beside him",
+      "onScreenText": "Will, her ex-boyfriend",
+      "relationToPrevious": "Names the ghost",
+      "addedInformation": "Who Will is"
+    }
+  },
+  {
+    "i": 133,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "Can I trust this rich boy?",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "reach",
+    "partnerExpression": "worried",
+    "set": "bedroom",
+    "explainedBy": "Damen reaches through the window while Julia asks if she can trust him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He reaches toward her; she doubts him.",
+      "concreteVisual": "Damen reaching, Julia worried, trellis beside",
+      "onScreenText": "Can I trust this rich boy?",
+      "relationToPrevious": "The touch and her question",
+      "addedInformation": "Her doubt"
+    }
+  },
+  {
+    "i": 134,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Could I really fall again?",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "set": "bedroom",
+    "explainedBy": "Julia asks if she could fall again.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia is afraid of falling in love again.",
+      "concreteVisual": "Julia afraid in her bedroom",
+      "onScreenText": "Could I really fall again?",
+      "relationToPrevious": "Her question continues",
+      "addedInformation": "Her fear"
+    }
+  },
+  {
+    "i": 135,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "A suburban routine",
+      "style": "highlight"
+    },
+    "cast": [
+      "will"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "set": "bedroom",
+    "explainedBy": "Will climbing was predictable, a boy from down the street.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will climbing was safe and expected.",
+      "concreteVisual": "Will beside the trellis, calm",
+      "onScreenText": "A suburban routine",
+      "relationToPrevious": "The safe side of the contrast",
+      "addedInformation": "Safe baseline"
+    }
+  },
+  {
+    "i": 136,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Will: safe routine",
+        "Damian: the unknown"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Compares the two climbers: Will safe, Damian an invasion of the unknown.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Will is safe; Damian is the unknown.",
+      "concreteVisual": "Sorter diagram with two buckets",
+      "onScreenText": "Will: safe routine | Damian: the unknown",
+      "relationToPrevious": "Sets the two side by side",
+      "addedInformation": "The comparison"
+    }
+  },
+  {
+    "i": 137,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "Ultimate grand gesture",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "set": "bedroom",
+    "explainedBy": "The host finds it romantic: he tracks her down across the country.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen chases her across the country.",
+      "concreteVisual": "Damen happy beside a heart icon",
+      "onScreenText": "Ultimate grand gesture",
+      "relationToPrevious": "Argues the romantic reading",
+      "addedInformation": "Romantic view"
+    }
+  },
+  {
+    "i": 138,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "Swoonworthy",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "set": "bedroom",
+    "explainedBy": "He scales a wall in a storm to admit he was scared.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He climbs to admit his fear.",
+      "concreteVisual": "Damen cheerful beside the trellis",
+      "onScreenText": "Swoonworthy",
+      "relationToPrevious": "Adds the climbing deed",
+      "addedInformation": "The deed"
+    }
+  },
+  {
+    "i": 139,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The context matters",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "set": "room",
+    "explainedBy": "Plain commentary: the host turns the debate to context.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The host wants to look at context.",
+      "concreteVisual": "Julia worried and bowed",
+      "onScreenText": "Let's look at the context",
+      "relationToPrevious": "Turn of the debate",
+      "addedInformation": "Commentary"
+    }
+  },
+  {
+    "i": 140,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Fled New York",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "flee",
+    "actionCue": "fled",
+    "set": "street",
+    "explainedBy": "Julia fled New York from the pressure of his family.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia ran from New York for sanctuary.",
+      "concreteVisual": "Julia running off from a city icon",
+      "onScreenText": "Fled New York",
+      "relationToPrevious": "Starts the case against the gesture",
+      "addedInformation": "Deed of fleeing"
+    }
+  },
+  {
+    "i": 141,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "Her private bedroom",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "reach",
+    "partnerExpression": "worried",
+    "set": "bedroom",
+    "explainedBy": "She put up boundaries; he scales the wall to peer into her bedroom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen climbs despite her boundaries.",
+      "concreteVisual": "Damen reaching at the trellis, Julia worried",
+      "onScreenText": "Her private bedroom",
+      "relationToPrevious": "Contrasts boundaries with the climb",
+      "addedInformation": "Violation"
+    }
+  },
+  {
+    "i": 142,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Forcing the issue",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "worried",
+    "set": "bedroom",
+    "explainedBy": "Damen is forcing the issue and demanding her attention.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He demands attention on his timeline.",
+      "concreteVisual": "Damen pointing at Julia, who looks worried",
+      "onScreenText": "Forcing the issue",
+      "relationToPrevious": "Names the selfishness",
+      "addedInformation": "Forcing it"
+    }
+  },
+  {
+    "i": 143,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "An invasion of her safe space",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "partnerExpression": "neutral",
+    "set": "bedroom",
+    "explainedBy": "It is an invasion of her safe space under the guise of romantic urgency.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her safe space is invaded.",
+      "concreteVisual": "Julia bowed beside a shield icon, Damen beside",
+      "onScreenText": "An invasion of her safe space",
+      "relationToPrevious": "Focuses on Julia",
+      "addedInformation": "Her protection breached"
+    }
+  },
+  {
+    "i": 144,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "To soothe himself",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "set": "bedroom",
+    "explainedBy": "Damen could not handle his anxiety so he violated her boundary to soothe himself.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The motive is his own anxiety.",
+      "concreteVisual": "Damen worried and bowed",
+      "onScreenText": "To soothe himself",
+      "relationToPrevious": "Gives the motive",
+      "addedInformation": "Self-soothing"
+    }
+  },
+  {
+    "i": 145,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Stays: aloof",
+        "Chases her: invading"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The rebuttal: either way he is blamed, aloof if he stays, invading if he chases.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He cannot win either way.",
+      "concreteVisual": "Sorter with two buckets",
+      "onScreenText": "Stays: aloof | Chases her: invading",
+      "relationToPrevious": "Counter to the selfish claim",
+      "addedInformation": "Double bind"
+    }
+  },
+  {
+    "i": 146,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "She wanted space",
+      "style": "highlight"
+    },
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "set": "bedroom",
+    "explainedBy": "The debate: she wanted him to fight for it, or she wanted space.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts disagree on what Julia wanted.",
+      "concreteVisual": "Julia sad and talking, Damen worried beside",
+      "onScreenText": "She wanted space",
+      "relationToPrevious": "The two readings of her will",
+      "addedInformation": "Competing readings"
+    }
+  },
+  {
+    "i": 147,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "He breached the fortress",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "One host concedes he breached the fortress and turns to the recurring image of the trellis.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trellis is the recurring image.",
+      "concreteVisual": "The trellis alone",
+      "onScreenText": "He breached the fortress",
+      "relationToPrevious": "Introduces the trellis image",
+      "addedInformation": "Concession"
+    }
+  },
+  {
+    "i": 148,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "A literal 6-foot drop",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "set": "bedroom",
+    "explainedBy": "He hangs by his fingers on the trellis in slippery rain, a six-foot drop below.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The climb is physically precarious.",
+      "concreteVisual": "Damen afraid at the trellis, Julia at her window",
+      "onScreenText": "A literal 6-foot drop",
+      "relationToPrevious": "Starts the danger sequence",
+      "addedInformation": "The danger"
+    }
+  },
+  {
+    "i": 149,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "At her mercy",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "continue": true,
+    "set": "bedroom",
+    "explainedBy": "If she shuts the window, he falls; he waits for her choice.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He depends entirely on her choice.",
+      "concreteVisual": "Same stage, Julia now worried, deciding",
+      "onScreenText": "At her mercy",
+      "relationToPrevious": "Julia face changes",
+      "addedInformation": "Power shift"
+    }
+  },
+  {
+    "i": 150,
+    "concept": "trellis",
+    "diagram": null,
+    "callout": {
+      "text": "She opens the window",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerAction": "reach",
+    "partnerExpression": "neutral",
+    "continue": true,
+    "set": "bedroom",
+    "explainedBy": "She opens the window and lets him in.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia chooses to open the window.",
+      "concreteVisual": "Julia reaches toward the window, Damen relieved",
+      "onScreenText": "She lets him in",
+      "relationToPrevious": "Julia acts, Damen relieved",
+      "addedInformation": "Resolution"
+    }
+  },
+  {
+    "i": 151,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Back at the formal ball",
+      "style": "highlight"
+    },
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "set": "room",
+    "explainedBy": "The scene returns to New York at the formal ball where tension has built for weeks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cosmic dip happens at the ballroom.",
+      "concreteVisual": "Damen and Julia both worried, in a room",
+      "onScreenText": "Back at the formal ball",
+      "relationToPrevious": "New location, new scene",
+      "addedInformation": "Scene setup"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "status": "done",
+  "startedAt": "2026-10-30T14:23:41.665Z",
+  "at": "2026-10-30T14:25:29.232Z",
+  "config": "config.antidote.json",
+  "configSha256": "151776c942cf71f76d0127e5b70cadccbe00e8466431b685068e9e5ef449bf44",
+  "inputs": {
+    "storyboard": {
+      "path": "books/trust-fall/art.json",
+      "sha256": "0c7f4a0da547b2571193361a914b6cc5b9aae73dde3b5bf09ee202ab5c3fadfb"
+    },
+    "storyBible": {
+      "path": "books/trust-fall/story-bible.json",
+      "sha256": "5b97c339857856a784d37e01aede66ace3c0bf4958f1ba31c516ebc479ff9199"
+    },
+    "motifs": {
+      "path": "books/trust-fall/motifs.json",
+      "sha256": "093f89d9a4695ddfb44377d35230be7a802ff7ca6f1c2c3794ce7cad235402e3"
+    },
+    "vtt": {
+      "path": "public/captions/trust-fall.vtt",
+      "sha256": "a345b1da16183c0b38dd1e382cbc9640de46d0faeb507750862834a096e5582a"
+    },
+    "audio": {
+      "path": "public/audio/trust-fall.mp3",
+      "sha256": "8d85b549eddca5323b57b5b79925f6f9c13b8884f50f5438fba6d833a47f9cec"
+    }
+  },
+  "head": "9e27acecfebd51a4dd3003dc5ba7e0fa73f8fdff",
+  "previewOnly": true,
+  "skipPack": true
+}

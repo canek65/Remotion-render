@@ -1,0 +1,1154 @@
+[
+  {
+    "i": 68,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Fear of rejection",
+        "A ledger"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Someone terrified of rejection creates a ledger: fear leads to keeping accounts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A person terrified of rejection creates a ledger.",
+      "concreteVisual": "Flow: Fear of rejection -> A ledger",
+      "onScreenText": "Fear of rejection | A ledger",
+      "relationToPrevious": "Opens the transactional-intimacy idea",
+      "addedInformation": "Cause to effect: why a person keeps a ledger"
+    }
+  },
+  {
+    "i": 69,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Fear of rejection",
+        "A ledger",
+        "Forced to talk"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The ledger (owing a favor) forces the other person to talk, which guards the ego.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If you owe me a favor you have to talk to me.",
+      "concreteVisual": "Same flow gains a third label: Forced to talk",
+      "onScreenText": "Fear of rejection | A ledger | Forced to talk",
+      "relationToPrevious": "Adds the third step to the same flow",
+      "addedInformation": "The defense mechanism: debt guarantees interaction"
+    }
+  },
+  {
+    "i": 70,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Indebted to him",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "explainedBy": "Damen demands a favor and Julia ends up in his debt: he holds the power.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Damen creates a power dynamic where she is indebted to him.",
+      "concreteVisual": "Damen smirking and talking, Julia beside him looking uneasy, in a classroom",
+      "onScreenText": "Indebted to him",
+      "relationToPrevious": "From the abstract ledger to Damen and Julia",
+      "addedInformation": "The relationship: he holds power, she owes"
+    }
+  },
+  {
+    "i": 71,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "A controlled fall",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "partnerAction": "reach",
+    "explainedBy": "He asks her to lean toward the ledge while he stays safe: a controlled fall.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is a controlled fall.",
+      "concreteVisual": "Ledge icon; Damen smirking, Julia reaching toward it",
+      "onScreenText": "A controlled fall",
+      "relationToPrevious": "The controlled-fall picture appears",
+      "addedInformation": "Asks her to lean in while he stays secure"
+    }
+  },
+  {
+    "i": 72,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "He controls the drop",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "partnerExpression": "worried",
+    "continue": true,
+    "explainedBy": "Damen holds on and controls the drop; she has no control.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He completely controls the drop.",
+      "concreteVisual": "Same ledge; Damen now holding firm (hold), Julia still uneasy",
+      "onScreenText": "He controls the drop",
+      "relationToPrevious": "Damen switches from asking to holding firm",
+      "addedInformation": "Control stays entirely with him"
+    }
+  },
+  {
+    "i": 73,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Highly suspicious",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "partnerExpression": "smirk",
+    "explainedBy": "Julia feels the strings immediately and distrusts him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia feels the strings immediately.",
+      "concreteVisual": "Julia with a hard suspicious face, Damen smirking beside her",
+      "onScreenText": "Highly suspicious",
+      "relationToPrevious": "Shifts focus to Julia reacting",
+      "addedInformation": "Her suspicion against his ease"
+    }
+  },
+  {
+    "i": 74,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Right in the trap",
+      "style": "reveal"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "think",
+    "partnerExpression": "angry",
+    "continue": true,
+    "explainedBy": "Damen thinks she walked into his trap, and he is thrilled she engages.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She narrows her eyes at him; he thinks the trap worked.",
+      "concreteVisual": "Julia pointing at him, Damen beaming with excitement",
+      "onScreenText": "Right in the trap",
+      "relationToPrevious": "Julia pushes back (point), Damen turns happy",
+      "addedInformation": "Her challenge and his hidden delight"
+    }
+  },
+  {
+    "i": 75,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A victory on his terms",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "angry",
+    "continue": true,
+    "explainedBy": "Any pushback is a victory to Damen, as long as it is on his terms.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "To Damian any engagement is a victory on his terms.",
+      "concreteVisual": "Damen pleased and talking, Julia still wary",
+      "onScreenText": "A victory on his terms",
+      "relationToPrevious": "Damen becomes the lead; his pleasure",
+      "addedInformation": "Why her pushback pleases him"
+    }
+  },
+  {
+    "i": 76,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Quinn wants intel",
+        "First phase"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "His father wants intel; Damian runs the first phase of the hostile acquisition.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quinn Rutledge wants intel and Damian executes phase one.",
+      "concreteVisual": "Flow: Quinn wants intel -> First phase",
+      "onScreenText": "Quinn wants intel | First phase",
+      "relationToPrevious": "New topic: the father's plot",
+      "addedInformation": "Father's goal leads to Damian's first move"
+    }
+  },
+  {
+    "i": 77,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Quinn wants intel",
+        "First phase",
+        "Her pressure points"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Damian finds her pressure points (bread, tutoring) and exploits them to gather information.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He exploits her bread and tutoring to gather information.",
+      "concreteVisual": "Flow gains: Her pressure points",
+      "onScreenText": "Quinn wants intel | First phase | Her pressure points",
+      "relationToPrevious": "Adds the third step to the same flow",
+      "addedInformation": "The method: exploiting her pressure points"
+    }
+  },
+  {
+    "i": 78,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Corporate espionage",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "The first host reads Damian as a spy; the second host objects it is too much credit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is corporate espionage disguised as flirting.",
+      "concreteVisual": "Damen smirking coldly, as the host claims",
+      "onScreenText": "Corporate espionage",
+      "relationToPrevious": "Gives the espionage reading, then the objection",
+      "addedInformation": "weak: the claim only, the objection is spoken"
+    }
+  },
+  {
+    "i": 79,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Failing the espionage mission",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "explainedBy": "He does not need a favor to tutor her; he is already assigned to.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He is completely failing the espionage mission.",
+      "concreteVisual": "Damen and Julia in the classroom as assigned tutor and student",
+      "onScreenText": "Failing the espionage mission",
+      "relationToPrevious": "The counterargument",
+      "addedInformation": "He is assigned to tutor her anyway"
+    }
+  },
+  {
+    "i": 80,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "His father's tactics",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "continue": true,
+    "explainedBy": "The favor is a transparent excuse to stay near her, framed as leverage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He uses the favor as a transparent excuse and frames it as leverage.",
+      "concreteVisual": "Damen leaning in, Julia uneasy",
+      "onScreenText": "His father's tactics",
+      "relationToPrevious": "Same stage; Damen's excuse as leverage",
+      "addedInformation": "The favor is a transparent excuse"
+    }
+  },
+  {
+    "i": 81,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Red lipstick",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "His thoughts dwell on how she looks in red lipstick: captivation, not spying.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He thinks about how she looks in red lipstick.",
+      "concreteVisual": "Julia alone in a calm frame",
+      "onScreenText": "Red lipstick",
+      "relationToPrevious": "From the tactics to his thoughts",
+      "addedInformation": "His inner monologue is about her"
+    }
+  },
+  {
+    "i": 82,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "He calls her Autumn",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "explainedBy": "Calling her Autumn is cute: a boy captivated, not a spy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He calls her Autumn.",
+      "concreteVisual": "Damen smiling warmly toward Julia",
+      "onScreenText": "He calls her Autumn",
+      "relationToPrevious": "Next piece of evidence",
+      "addedInformation": "The nickname shows affection"
+    }
+  },
+  {
+    "i": 83,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Tripping over his own feet",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "explainedBy": "The leverage hides that he is already tripping over his own feet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Leverage masks that he is tripping over his own feet.",
+      "concreteVisual": "Damen flustered, surprised face",
+      "onScreenText": "Tripping over his own feet",
+      "relationToPrevious": "Conclusion of the argument",
+      "addedInformation": "The leverage masks his infatuation"
+    }
+  },
+  {
+    "i": 84,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "In my debt",
+        "Her tab"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "He turns captivation into a ledger: \"I love having you in my debt\".",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He says I love having you in my debt.",
+      "concreteVisual": "Flow: In my debt -> Her tab",
+      "onScreenText": "In my debt | Her tab",
+      "relationToPrevious": "Back to the ledger idea",
+      "addedInformation": "His own words turn feeling into debt"
+    }
+  },
+  {
+    "i": 85,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "She owes him",
+        "He keeps her close",
+        "He will not admit it"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "She owes him, so he never has to admit he wants her around.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If she owes him he does not have to admit he wants her around.",
+      "concreteVisual": "Flow gains: Not admitting",
+      "onScreenText": "He will not admit it",
+      "relationToPrevious": "Adds why the ledger helps him",
+      "addedInformation": "The ledger lets him avoid admitting his wish"
+    }
+  },
+  {
+    "i": 86,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "Not a single step",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "partnerAction": "reach",
+    "explainedBy": "He asks her to lean in while he never steps off the ledge himself.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He has not taken a single step off the ledge himself.",
+      "concreteVisual": "Ledge icon; Julia reaching toward it, Damen standing back",
+      "onScreenText": "Not a single step",
+      "relationToPrevious": "Back to the physical fall",
+      "addedInformation": "She leans in; he does not step off"
+    }
+  },
+  {
+    "i": 87,
+    "concept": "ledge",
+    "diagram": null,
+    "callout": {
+      "text": "A simulation of a fall",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "partnerExpression": "worried",
+    "continue": true,
+    "explainedBy": "He holds the harness tight and risks nothing: a simulation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is a simulation of a fall.",
+      "concreteVisual": "Same ledge; Damen holding tight, Julia uneasy",
+      "onScreenText": "A simulation of a fall",
+      "relationToPrevious": "Damen grips firmly (hold)",
+      "addedInformation": "He risks nothing"
+    }
+  },
+  {
+    "i": 88,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The safety net is intact",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "partnerExpression": "neutral",
+    "continue": true,
+    "explainedBy": "Closeness feels real, but with the safety net intact the simulation must end first.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The safety net is intact; the simulation has to end.",
+      "concreteVisual": "Same ledge; both calm, net intact",
+      "onScreenText": "The safety net",
+      "relationToPrevious": "Both calm",
+      "addedInformation": "The simulation must end first"
+    }
+  },
+  {
+    "i": 89,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "The mask has to slip",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "The mask Damen wears has to slip, and it does at the society dinner.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mask has to slip at the society dinner.",
+      "concreteVisual": "Mask icon beside Damen",
+      "onScreenText": "The mask has to slip",
+      "relationToPrevious": "New passage: the dinner",
+      "addedInformation": "The mask metaphor opens the dinner"
+    }
+  },
+  {
+    "i": 90,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The society dinner",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Banter: the host asks to be set up the dinner scene.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Set up the society dinner scene.",
+      "concreteVisual": "Julia in the dining room, calm",
+      "onScreenText": "The society dinner",
+      "relationToPrevious": "Moves into the set-up",
+      "addedInformation": "weak: names the location only"
+    }
+  },
+  {
+    "i": 91,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Out of her depth",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Julia is out of her depth at a high society gathering.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia is out of her depth.",
+      "concreteVisual": "Julia worried and bowed in a dining room",
+      "onScreenText": "Out of her depth",
+      "relationToPrevious": "Julia in the scene",
+      "addedInformation": "Her feeling in this world"
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The final boss",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "julia"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "A glaring society woman interrogates her; Julia shrinks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Shantel glares and interrogates Julia.",
+      "concreteVisual": "Julia afraid and shrinking back",
+      "onScreenText": "The final boss",
+      "relationToPrevious": "Her fear rises",
+      "addedInformation": "The interrogation"
+    }
+  },
+  {
+    "i": 93,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Damen steps in",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "julia",
+      "damen"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "partnerExpression": "neutral",
+    "continue": true,
+    "explainedBy": "Julia suffocates until Damen steps in.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Suddenly Damen steps in.",
+      "concreteVisual": "Julia afraid, Damen stepping beside her",
+      "onScreenText": "Damen steps in",
+      "relationToPrevious": "Damen enters the stage",
+      "addedInformation": "He arrives at her side"
+    }
+  },
+  {
+    "i": 94,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "An elaborate lie",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "continue": true,
+    "explainedBy": "Damen invents a lie to protect her; she is surprised.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He invents a massive lie to protect her.",
+      "concreteVisual": "Damen talking confidently, Julia surprised",
+      "onScreenText": "An elaborate lie",
+      "relationToPrevious": "Damen speaks, her face changes",
+      "addedInformation": "The lie, spoken to the table"
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Titus Andronicus",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": "surprised",
+    "continue": true,
+    "explainedBy": "The lie: she was a literary prodigy on Titus Andronicus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her Titus Andronicus knowledge is incredibly specific and fabricated.",
+      "concreteVisual": "Damen holding a book, Julia astonished",
+      "onScreenText": "Titus Andronicus",
+      "relationToPrevious": "Adds the invented detail",
+      "addedInformation": "The fabricated detail"
+    }
+  },
+  {
+    "i": 96,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "First slip of the mask",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Risking his standing to protect her is the first real slip of the mask.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Protecting her is the first real slip of the mask.",
+      "concreteVisual": "Mask icon beside Damen, worried",
+      "onScreenText": "First slip of the mask",
+      "relationToPrevious": "New point: the meaning",
+      "addedInformation": "Interprets the lie"
+    }
+  },
+  {
+    "i": 97,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Playing the affable son",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "He spent his life blending in; lying means leaving his safe zone.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He has blended into society playing the affable son.",
+      "concreteVisual": "Damen uneasy in the dining room",
+      "onScreenText": "Playing the affable son",
+      "relationToPrevious": "Explains his safe zone",
+      "addedInformation": "What he leaves behind"
+    }
+  },
+  {
+    "i": 98,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Catch Julia",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "explainedBy": "He risks his own balance to catch Julia in social vertigo.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He puts his own balance at risk to catch Julia.",
+      "concreteVisual": "Damen worried at risk beside Julia",
+      "onScreenText": "Catch Julia",
+      "relationToPrevious": "The cost of his act",
+      "addedInformation": "He risks his own balance"
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The subtext of the lie",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "The hosts turn to the hidden meaning of the lie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The subtext of the lie is brilliant.",
+      "concreteVisual": "Damen smirking at the table",
+      "onScreenText": "The subtext of the lie",
+      "relationToPrevious": "Transition to the subtext",
+      "addedInformation": "weak: sets up the next point"
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Titus Andronicus",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The real teacher hated Julia's take on Titus Andronicus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mr. Long Haven hated Julia's take.",
+      "concreteVisual": "Julia holding a book in the classroom",
+      "onScreenText": "Titus Andronicus",
+      "relationToPrevious": "Flashback to the real classroom",
+      "addedInformation": "Where the lie came from"
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Feminism and patriarchy",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "julia"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": "book",
+    "continue": true,
+    "explainedBy": "She brought feminism and critiques of the patriarchy into the text.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She brought feminism into the text.",
+      "concreteVisual": "Julia speaking in class with the book",
+      "onScreenText": "Feminism and patriarchy",
+      "relationToPrevious": "Julia now speaks",
+      "addedInformation": "Why the teacher disliked it"
+    }
+  },
+  {
+    "i": 102,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Infuriating",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "julia"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "He cautioned the class and she raged inside.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Julia raged internally.",
+      "concreteVisual": "Julia angry in class",
+      "onScreenText": "Infuriating",
+      "relationToPrevious": "Her face changes to anger",
+      "addedInformation": "Her private rage"
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Silenced",
+      "style": "highlight"
+    },
+    "set": "classroom",
+    "cast": [
+      "julia"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "Julia was rebellious and silenced by a patriarchal figure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She was silenced by a patriarchal figure.",
+      "concreteVisual": "Julia sad and bowed in class",
+      "onScreenText": "Silenced",
+      "relationToPrevious": "Anger turns to defeat",
+      "addedInformation": "The silencing"
+    }
+  },
+  {
+    "i": 104,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Silenced rebellion",
+        "Her defense"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Damen takes the silenced rebellion and weaponizes it to defend her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He weaponizes the moment she was silenced.",
+      "concreteVisual": "Flow: Silenced rebellion -> Her defense",
+      "onScreenText": "Silenced rebellion | Her defense",
+      "relationToPrevious": "Links the classroom to the dinner",
+      "addedInformation": "Silencing becomes the defense"
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "He validates it",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "explainedBy": "He remembers her rebellion and validates it before the people she rebels against.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He sees her rebellion and validates it.",
+      "concreteVisual": "Damen warmly speaking, Julia surprised",
+      "onScreenText": "He validates it",
+      "relationToPrevious": "Back to the dinner",
+      "addedInformation": "He validates her in public"
+    }
+  },
+  {
+    "i": 106,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "No Dartmouth assumption",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "continue": true,
+    "explainedBy": "Damen marvels: she has no lifelong assumption of Dartmouth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He marvels that she has no assumption of a Dartmouth education.",
+      "concreteVisual": "Damen amazed, looking at Julia",
+      "onScreenText": "No Dartmouth assumption",
+      "relationToPrevious": "His inner view",
+      "addedInformation": "What he admires in her"
+    }
+  },
+  {
+    "i": 107,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Her undefined future",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "continue": true,
+    "explainedBy": "Her undefined future fills him with pure feeling.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He looks at her undefined future and feels something pure.",
+      "concreteVisual": "Damen smiling softly at Julia",
+      "onScreenText": "Her undefined future",
+      "relationToPrevious": "His face becomes happy",
+      "addedInformation": "What her freedom means to him"
+    }
+  },
+  {
+    "i": 108,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Falls in love here",
+        "Not this moment"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The hosts split: is this the moment he falls in love, or not?",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "One host says this is the moment; the other disagrees.",
+      "concreteVisual": "Sorter: Falls in love here | Not this moment",
+      "onScreenText": "Falls in love here | Not this moment",
+      "relationToPrevious": "The debate begins",
+      "addedInformation": "Two positions side by side"
+    }
+  },
+  {
+    "i": 109,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "Textbook falling in love",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "explainedBy": "He risks his father and the room to save her: one host calls it falling in love.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He risks his father's wrath to save her.",
+      "concreteVisual": "Damen smiling with a heart icon",
+      "onScreenText": "Textbook falling in love",
+      "relationToPrevious": "Gives the first side",
+      "addedInformation": "The risk as evidence"
+    }
+  },
+  {
+    "i": 110,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Partner's strengths",
+        "A weapon"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Proxy wars: people use a partner's strengths as a weapon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "People use a partner's strengths as a weapon.",
+      "concreteVisual": "Flow: Partner's strengths -> A weapon",
+      "onScreenText": "Partner's strengths | A weapon",
+      "relationToPrevious": "The counter-reading begins",
+      "addedInformation": "The proxy-war mechanism"
+    }
+  },
+  {
+    "i": 111,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Partner's strengths",
+        "A weapon",
+        "Own family"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The weapon is aimed at their own family dynamics, so not truly at Julia.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The weapon is used against their own family dynamics.",
+      "concreteVisual": "Flow gains: Own family",
+      "onScreenText": "Partner's strengths | A weapon | Own family",
+      "relationToPrevious": "Adds the target of the weapon",
+      "addedInformation": "Who the weapon is aimed at"
+    }
+  },
+  {
+    "i": 112,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "He envies her freedom",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen",
+      "julia"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "explainedBy": "He envies the freedom she has, not Julia herself.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He is falling in love with the freedom she has.",
+      "concreteVisual": "Damen gazing at Julia with longing",
+      "onScreenText": "The freedom she has",
+      "relationToPrevious": "Back to Damen",
+      "addedInformation": "What he loves"
+    }
+  },
+  {
+    "i": 113,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Financial conglomerate",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "damen"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "The financial conglomerate he is trapped in: New York business towers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He scorns the financial conglomerate path.",
+      "concreteVisual": "Damen blank and numb",
+      "onScreenText": "Financial conglomerate",
+      "relationToPrevious": "Quote from his monologue",
+      "addedInformation": "His resentment shown by his own words"
+    }
+  }
+]
